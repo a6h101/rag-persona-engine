@@ -1,0 +1,5318 @@
+{
+  "speaker_label": "User 1",
+  "source_rows": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116
+  ],
+  "habits": {
+    "exercise": {
+      "label": "Enjoys spending time outdoors actively",
+      "evidence": [
+        "Nice! I've been meaning to try yoga but I've never really had the time.",
+        "Yeah, they are. I really love taking him for walks. It's a great way to get some exercise and spend time with my best friend.",
+        "Yeah, it really is. I also like to take him to the park and let him run around. He loves playing fetch.",
+        "Yeah, it's great. He loves playing fetch and running around. It's a great way to get some energy out.",
+        "Not much either. I just got back from a run in the woods behind my house. It was great!"
+      ]
+    },
+    "diet_food": {
+      "label": "Based on the evidence lines, here is a short habit label that describes this person:\n\n\"Cooking enthusiast with a calm side\"",
+      "evidence": [
+        "Reading is a great way to relax. I love to cook too! What is your favorite meal to make?",
+        "I made a lasagna. It's one of my favorite dishes to cook.",
+        "I love to cook, read, and spend time with my family.",
+        "I love to cook! I love to experiment with new recipes and I love to share my food with my friends and family.",
+        "My favorite thing to cook is probably my mom's chicken noodle soup. It's so comforting and delicious!"
+      ]
+    },
+    "sleep_schedule": {
+      "label": "Enthusiastic creative morning person.",
+      "evidence": [
+        "That's awesome! I love to play soccer and I usually wake up and play piano before starting my day."
+      ]
+    },
+    "substance_routine": {
+      "label": "Coffee Shop Regular",
+      "evidence": [
+        "Not so bad. Just got back from a show with my band. We played in a coffee shop.",
+        "That's really cool! How long have you been working at the coffee shop?",
+        "That's awesome! I love woodworking too. I built a coffee table last year."
+      ]
+    }
+  },
+  "personal_facts": {
+    "life_events": [
+      "I'm doing pretty well.  I'm excited to be moving to a new city soon!",
+      "I'm moving to Portland, Oregon.  I'm going to be pursuing my culinary dreams there.",
+      "Pretty good so far! Just got back from a hike.",
+      "I can understand that. Moving to a new place can be daunting, but it can also be a lot of fun. I am sure you will make some great new friends and have a lot of new experiences.",
+      "So, what are you looking forward to the most about your new job?"
+    ],
+    "relationships": [
+      "I'm doing great! I'm a fulltime student studying radiology at a local college and I also play in a band that my parents don't know about.",
+      "It can be, but it's also very rewarding. I love being able to spend time with my kids and help them learn and grow.",
+      "I know! Dancing is so much fun. I love to dance with my kids. It's a great way to bond with them and have some fun.",
+      "I know, I know. I've been meaning to, but I'm just too busy with my kids.",
+      "My favorite thing to cook is probably my mom's chicken noodle soup. It's so comforting and delicious!"
+    ],
+    "occupation_education": [
+      "I'm doing great! I'm a fulltime student studying radiology at a local college and I also play in a band that my parents don't know about.",
+      "I'm a children's librarian. I love my job!",
+      "Yes! I love reading to kids. It's the best part of my job!",
+      "So, what are you looking forward to the most about your new job?",
+      "It's never too late to learn! I started when I was in high school."
+    ]
+  },
+  "personality_traits": {
+    "enthusiasm": {
+      "label": "Excited Optimistic Book Lover",
+      "evidence": [
+        "Hi! How are you?",
+        "I'm doing pretty well.  I'm excited to be moving to a new city soon!",
+        "Really? That's so cool!  Do you still live there?",
+        "That sounds amazing!  I've never been to Powell's Books before.  I'm definitely going to have to check it out.",
+        "Thanks for the recommendation!  I'm sure I'll love it."
+      ]
+    },
+    "emotional_expressiveness": {
+      "label": "Optimistic and open-minded individual.",
+      "evidence": [
+        "I'm doing pretty well.  I'm excited to be moving to a new city soon!",
+        "Thanks for the recommendation!  I'm sure I'll love it.",
+        "That's awesome! I love classic cars.",
+        "I love the freedom of being able to learn whatever I want.",
+        "Reading is a great way to relax. I love to cook too! What is your favorite meal to make?"
+      ]
+    },
+    "humor": {
+      "label": "Lighthearted and Fun-Loving Person",
+      "evidence": [
+        "That's cool! I'm a barista. I love books, and I like to watch funny and lighthearted shows to relax.",
+        "Me too! It's so funny and heartwarming.",
+        "I love to play badminton and watch funny shows. I'm also a student in social sciences and I love to draw comics.",
+        "It is! They're so cute and funny."
+      ]
+    }
+  },
+  "communication_style": {
+    "avg_words_per_message": 11.3,
+    "length_label": "medium-length messages",
+    "exclamation_count": 531,
+    "question_count": 270,
+    "emoji_count": 0,
+    "tone_markers": [
+      "frequent exclamation marks (enthusiastic tone)"
+    ]
+  },
+  "evidence_log": [
+    {
+      "category": "exercise",
+      "signal": "\\byoga\\b",
+      "evidence_text": "Nice! I've been meaning to try yoga but I've never really had the time.",
+      "message_global_idx": 18
+    },
+    {
+      "category": "exercise",
+      "signal": "\\bexercise\\b",
+      "evidence_text": "Yeah, they are. I really love taking him for walks. It's a great way to get some exercise and spend time with my best friend.",
+      "message_global_idx": 335
+    },
+    {
+      "category": "exercise",
+      "signal": "\\brun(?:ning)?\\b",
+      "evidence_text": "Yeah, it really is. I also like to take him to the park and let him run around. He loves playing fetch.",
+      "message_global_idx": 337
+    },
+    {
+      "category": "exercise",
+      "signal": "\\brun(?:ning)?\\b",
+      "evidence_text": "Yeah, it's great. He loves playing fetch and running around. It's a great way to get some energy out.",
+      "message_global_idx": 339
+    },
+    {
+      "category": "exercise",
+      "signal": "\\brun(?:ning)?\\b",
+      "evidence_text": "Not much either. I just got back from a run in the woods behind my house. It was great!",
+      "message_global_idx": 459
+    },
+    {
+      "category": "exercise",
+      "signal": "\\brun(?:ning)?\\b",
+      "evidence_text": "Hi! I'm heading home after a long run to see my girlfriend and eat some tacos. What are you up to today?",
+      "message_global_idx": 703
+    },
+    {
+      "category": "exercise",
+      "signal": "\\brun(?:ning)?\\b",
+      "evidence_text": "I like to run, read, and watch movies.",
+      "message_global_idx": 713
+    },
+    {
+      "category": "exercise",
+      "signal": "\\bexercise\\b",
+      "evidence_text": "I agree. It's also a good way to get some exercise.",
+      "message_global_idx": 1048
+    },
+    {
+      "category": "exercise",
+      "signal": "\\bgym\\b",
+      "evidence_text": "I'm sure you could do it if you put your mind to it! I've been working out in my home gym to keep fit, and I'm really excited to start cooking healthy meals.",
+      "message_global_idx": 1149
+    },
+    {
+      "category": "exercise",
+      "signal": "\\brun(?:ning)?\\b",
+      "evidence_text": "Well, I hope you have a great run!",
+      "message_global_idx": 1237
+    },
+    {
+      "category": "exercise",
+      "signal": "\\bworkout\\b",
+      "evidence_text": "You should! It's a lot of fun and a good workout.",
+      "message_global_idx": 1271
+    },
+    {
+      "category": "exercise",
+      "signal": "\\bexercise\\b",
+      "evidence_text": "That's great. I love to exercise too. I try to eat healthy foods and exercise regularly because I want to get in better shape for my girlfriend and baby.",
+      "message_global_idx": 1465
+    },
+    {
+      "category": "exercise",
+      "signal": "\\bexercise\\b",
+      "evidence_text": "That sounds great! I love hiking. It's so peaceful and a great way to get some exercise.",
+      "message_global_idx": 1477
+    },
+    {
+      "category": "exercise",
+      "signal": "\\byoga\\b",
+      "evidence_text": "Oh cool, I'm an accountant too. What kind of yoga do you do?",
+      "message_global_idx": 1684
+    },
+    {
+      "category": "exercise",
+      "signal": "\\byoga\\b",
+      "evidence_text": "Hatha yoga is great, I do that too.",
+      "message_global_idx": 1686
+    },
+    {
+      "category": "exercise",
+      "signal": "\\brun(?:ning)?\\b",
+      "evidence_text": "That's great! I love running as a way to de-stress.",
+      "message_global_idx": 1738
+    },
+    {
+      "category": "exercise",
+      "signal": "\\brun(?:ning)?\\b",
+      "evidence_text": "It is! I've been running for years and I love it.",
+      "message_global_idx": 1740
+    },
+    {
+      "category": "exercise",
+      "signal": "\\brun(?:ning)?\\b",
+      "evidence_text": "I'm going to go for a run, then I'm going to cook dinner.",
+      "message_global_idx": 1814
+    },
+    {
+      "category": "exercise",
+      "signal": "\\brun(?:ning)?\\b",
+      "evidence_text": "Oh cool! I do not run, but I love archery. I used to do it a lot when I was a kid.",
+      "message_global_idx": 1830
+    },
+    {
+      "category": "diet_food",
+      "signal": "\\bcook(?:ing)?\\b",
+      "evidence_text": "Reading is a great way to relax. I love to cook too! What is your favorite meal to make?",
+      "message_global_idx": 32
+    },
+    {
+      "category": "diet_food",
+      "signal": "\\bcook(?:ing)?\\b",
+      "evidence_text": "I made a lasagna. It's one of my favorite dishes to cook.",
+      "message_global_idx": 145
+    },
+    {
+      "category": "diet_food",
+      "signal": "\\bcook(?:ing)?\\b",
+      "evidence_text": "I love to cook, read, and spend time with my family.",
+      "message_global_idx": 159
+    },
+    {
+      "category": "diet_food",
+      "signal": "\\bcook(?:ing)?\\b",
+      "evidence_text": "I love to cook! I love to experiment with new recipes and I love to share my food with my friends and family.",
+      "message_global_idx": 419
+    },
+    {
+      "category": "diet_food",
+      "signal": "\\bcook(?:ing)?\\b",
+      "evidence_text": "My favorite thing to cook is probably my mom's chicken noodle soup. It's so comforting and delicious!",
+      "message_global_idx": 421
+    },
+    {
+      "category": "diet_food",
+      "signal": "\\bfavorite food\\b",
+      "evidence_text": "What is your favorite food?",
+      "message_global_idx": 500
+    },
+    {
+      "category": "diet_food",
+      "signal": "\\bcook(?:ing)?\\b",
+      "evidence_text": "That's so cool! I wish I could cook like my mom. I'm afraid of being judged for my diet.",
+      "message_global_idx": 502
+    },
+    {
+      "category": "diet_food",
+      "signal": "\\bcook(?:ing)?\\b",
+      "evidence_text": "I wish I could have a chef cook for me too! I'm a Japanese billionaire who loves the wind in my hair.",
+      "message_global_idx": 506
+    },
+    {
+      "category": "diet_food",
+      "signal": "\\bcook(?:ing)?\\b",
+      "evidence_text": "Wow, that's awesome! I love cooking.",
+      "message_global_idx": 518
+    },
+    {
+      "category": "diet_food",
+      "signal": "\\bcook(?:ing)?\\b",
+      "evidence_text": "What kind of food do you like to cook?",
+      "message_global_idx": 520
+    },
+    {
+      "category": "diet_food",
+      "signal": "\\bcook(?:ing)?\\b",
+      "evidence_text": "Me too! What are your favorite Italian dishes to cook?",
+      "message_global_idx": 524
+    },
+    {
+      "category": "diet_food",
+      "signal": "\\bcook(?:ing)?\\b",
+      "evidence_text": "Me too! I love watching tutorials for cooking and dancing.",
+      "message_global_idx": 653
+    },
+    {
+      "category": "diet_food",
+      "signal": "\\bcook(?:ing)?\\b",
+      "evidence_text": "That sounds like a productive day! I love to cook, too. I'm a big fan of greenhouses. I have one in my backyard and I love to spend time tending to my plants.",
+      "message_global_idx": 878
+    },
+    {
+      "category": "diet_food",
+      "signal": "\\bcook(?:ing)?\\b",
+      "evidence_text": "I'm sure you could do it if you put your mind to it! I've been working out in my home gym to keep fit, and I'm really excited to start cooking healthy meals.",
+      "message_global_idx": 1149
+    },
+    {
+      "category": "diet_food",
+      "signal": "\\bcook(?:ing)?\\b",
+      "evidence_text": "Sounds like you have a lot of fun hobbies! I love spending time with my friends and family, too. I also love to cook and work out. I'm not sure if I'll ever get into cosplay, but it sounds like a lot of fun.",
+      "message_global_idx": 1161
+    },
+    {
+      "category": "diet_food",
+      "signal": "\\bcook(?:ing)?\\b",
+      "evidence_text": "I love to cook, listen to music, and spend time with my friends and family.",
+      "message_global_idx": 1218
+    },
+    {
+      "category": "diet_food",
+      "signal": "\\bcook(?:ing)?\\b",
+      "evidence_text": "Oh, that's awesome! Me too. What's your favorite thing to cook?",
+      "message_global_idx": 1253
+    },
+    {
+      "category": "diet_food",
+      "signal": "\\bcook(?:ing)?\\b",
+      "evidence_text": "I enjoy reading, cooking, and spending time with my family.",
+      "message_global_idx": 1283
+    },
+    {
+      "category": "diet_food",
+      "signal": "\\bcook(?:ing)?\\b",
+      "evidence_text": "That's cool! I'm not much of a cook, but I do enjoy eating. What are some of your favorite ethnic foods?",
+      "message_global_idx": 1285
+    },
+    {
+      "category": "diet_food",
+      "signal": "\\bfavorite food\\b",
+      "evidence_text": "I love pizza too! It's my favorite food. Do you have any siblings?",
+      "message_global_idx": 1287
+    },
+    {
+      "category": "diet_food",
+      "signal": "\\bcook(?:ing)?\\b",
+      "evidence_text": "That sounds like a lot of fun! I like to cook too.",
+      "message_global_idx": 1346
+    },
+    {
+      "category": "diet_food",
+      "signal": "\\bcook(?:ing)?\\b",
+      "evidence_text": "I would love to share some of my cooking with you.",
+      "message_global_idx": 1348
+    },
+    {
+      "category": "diet_food",
+      "signal": "\\bbaking\\b",
+      "evidence_text": "That's awesome! I love reading books too, and I've always wanted to learn more about India. I've also been trying to get into baking, but I'm not very good at it yet.",
+      "message_global_idx": 1504
+    },
+    {
+      "category": "diet_food",
+      "signal": "\\bcook(?:ing)?\\b",
+      "evidence_text": "That sounds awesome! I love to cook as well, but I'm not very good at it.",
+      "message_global_idx": 1541
+    },
+    {
+      "category": "diet_food",
+      "signal": "\\bcook(?:ing)?\\b",
+      "evidence_text": "Oh nice! I love cooking! What kind of dessert is it?",
+      "message_global_idx": 1581
+    },
+    {
+      "category": "diet_food",
+      "signal": "\\blove(?:s)? (?:to )?eat\\b",
+      "evidence_text": "That is awesome! I am not a very good cook, but I love to eat.",
+      "message_global_idx": 1622
+    },
+    {
+      "category": "diet_food",
+      "signal": "\\bcook(?:ing)?\\b",
+      "evidence_text": "That's awesome! I love to cook too. What's your favorite thing to cook?",
+      "message_global_idx": 1804
+    },
+    {
+      "category": "diet_food",
+      "signal": "\\bcook(?:ing)?\\b",
+      "evidence_text": "I'm going to go for a run, then I'm going to cook dinner.",
+      "message_global_idx": 1814
+    },
+    {
+      "category": "sleep_schedule",
+      "signal": "\\bwake up\\b",
+      "evidence_text": "That's awesome! I love to play soccer and I usually wake up and play piano before starting my day.",
+      "message_global_idx": 76
+    },
+    {
+      "category": "substance_routine",
+      "signal": "\\bcoffee\\b",
+      "evidence_text": "Not so bad. Just got back from a show with my band. We played in a coffee shop.",
+      "message_global_idx": 533
+    },
+    {
+      "category": "substance_routine",
+      "signal": "\\bcoffee\\b",
+      "evidence_text": "That's really cool! How long have you been working at the coffee shop?",
+      "message_global_idx": 705
+    },
+    {
+      "category": "substance_routine",
+      "signal": "\\bcoffee\\b",
+      "evidence_text": "That's awesome! I love woodworking too. I built a coffee table last year.",
+      "message_global_idx": 1421
+    },
+    {
+      "category": "life_events",
+      "signal": "\\bmoving to\\b",
+      "evidence_text": "I'm doing pretty well.  I'm excited to be moving to a new city soon!",
+      "message_global_idx": 2
+    },
+    {
+      "category": "life_events",
+      "signal": "\\bmoving to\\b",
+      "evidence_text": "I'm moving to Portland, Oregon.  I'm going to be pursuing my culinary dreams there.",
+      "message_global_idx": 4
+    },
+    {
+      "category": "life_events",
+      "signal": "\\bjust (?:got|started|finished)\\b",
+      "evidence_text": "Pretty good so far! Just got back from a hike.",
+      "message_global_idx": 46
+    },
+    {
+      "category": "life_events",
+      "signal": "\\bmoving to\\b",
+      "evidence_text": "I can understand that. Moving to a new place can be daunting, but it can also be a lot of fun. I am sure you will make some great new friends and have a lot of new experiences.",
+      "message_global_idx": 64
+    },
+    {
+      "category": "life_events",
+      "signal": "\\bnew (?:job|house|city|apartment)\\b",
+      "evidence_text": "So, what are you looking forward to the most about your new job?",
+      "message_global_idx": 68
+    },
+    {
+      "category": "life_events",
+      "signal": "\\bjust (?:got|started|finished)\\b",
+      "evidence_text": "I'm doing well, too. I just got done making a delicious meal for my family.",
+      "message_global_idx": 143
+    },
+    {
+      "category": "life_events",
+      "signal": "\\bjust (?:got|started|finished)\\b",
+      "evidence_text": "Not much, just got back from a long walk with my dog.",
+      "message_global_idx": 331
+    },
+    {
+      "category": "life_events",
+      "signal": "\\bjust (?:got|started|finished)\\b",
+      "evidence_text": "I am doing well, thank you for asking! I just got back from a walk in the park with my dog.",
+      "message_global_idx": 365
+    },
+    {
+      "category": "life_events",
+      "signal": "\\bjust (?:got|started|finished)\\b",
+      "evidence_text": "Not much either. I just got back from a run in the woods behind my house. It was great!",
+      "message_global_idx": 459
+    },
+    {
+      "category": "life_events",
+      "signal": "\\bjust (?:got|started|finished)\\b",
+      "evidence_text": "Not so bad. Just got back from a show with my band. We played in a coffee shop.",
+      "message_global_idx": 533
+    },
+    {
+      "category": "life_events",
+      "signal": "\\bjust (?:got|started|finished)\\b",
+      "evidence_text": "It's going well! I just got a new job in academia and I'm really excited about it.",
+      "message_global_idx": 641
+    },
+    {
+      "category": "life_events",
+      "signal": "\\bjust (?:got|started|finished)\\b",
+      "evidence_text": "I've been on a historical fiction kick lately. I just finished reading the book \"The Nightingale\" by Kristin Hannah. It was really good.",
+      "message_global_idx": 668
+    },
+    {
+      "category": "life_events",
+      "signal": "\\bjust (?:got|started|finished)\\b",
+      "evidence_text": "I'm just hanging out, I just got a new couch!",
+      "message_global_idx": 675
+    },
+    {
+      "category": "life_events",
+      "signal": "\\bjust (?:got|started|finished)\\b",
+      "evidence_text": "I'm doing great! I just got a new teaching job and I'm really excited about it.",
+      "message_global_idx": 727
+    },
+    {
+      "category": "life_events",
+      "signal": "\\bjust (?:got|started|finished)\\b",
+      "evidence_text": "Hey there! I just got home from work.",
+      "message_global_idx": 1121
+    },
+    {
+      "category": "life_events",
+      "signal": "\\bjust (?:got|started|finished)\\b",
+      "evidence_text": "Good morning! I just finished playing fetch with my dog, it was so much fun!",
+      "message_global_idx": 1135
+    },
+    {
+      "category": "life_events",
+      "signal": "\\bmoving to\\b",
+      "evidence_text": "It's always great to meet a fellow science lover! I work at a grocery store, but I'm moving to a new city to pursue my culinary dreams.",
+      "message_global_idx": 1147
+    },
+    {
+      "category": "life_events",
+      "signal": "\\bjust (?:got|started|finished)\\b",
+      "evidence_text": "I am doing great! I just got back from a nice ride on my horse.",
+      "message_global_idx": 1340
+    },
+    {
+      "category": "life_events",
+      "signal": "\\bjust (?:got|started|finished)\\b",
+      "evidence_text": "It is going well too.  I just got back from the beach with my family.",
+      "message_global_idx": 1386
+    },
+    {
+      "category": "life_events",
+      "signal": "\\bjust (?:got|started|finished)\\b",
+      "evidence_text": "Doing great! I just got back from a trip to the mountains.",
+      "message_global_idx": 1407
+    },
+    {
+      "category": "life_events",
+      "signal": "\\bgraduat(?:ed|ing)\\b",
+      "evidence_text": "Me too! I just graduated college with my bachelor's in education and I'm going to be a teacher. I'm excited to start my new career.",
+      "message_global_idx": 1488
+    },
+    {
+      "category": "life_events",
+      "signal": "\\bjust (?:got|started|finished)\\b",
+      "evidence_text": "I'm great. I just got back from taking pictures in the park.",
+      "message_global_idx": 1693
+    },
+    {
+      "category": "relationships",
+      "signal": "\\bmy (?:mom|dad|parents|sister|brother|kids?|children)\\b",
+      "evidence_text": "I'm doing great! I'm a fulltime student studying radiology at a local college and I also play in a band that my parents don't know about.",
+      "message_global_idx": 16
+    },
+    {
+      "category": "relationships",
+      "signal": "\\bmy (?:mom|dad|parents|sister|brother|kids?|children)\\b",
+      "evidence_text": "It can be, but it's also very rewarding. I love being able to spend time with my kids and help them learn and grow.",
+      "message_global_idx": 155
+    },
+    {
+      "category": "relationships",
+      "signal": "\\bmy (?:mom|dad|parents|sister|brother|kids?|children)\\b",
+      "evidence_text": "I know! Dancing is so much fun. I love to dance with my kids. It's a great way to bond with them and have some fun.",
+      "message_global_idx": 222
+    },
+    {
+      "category": "relationships",
+      "signal": "\\bmy (?:mom|dad|parents|sister|brother|kids?|children)\\b",
+      "evidence_text": "I know, I know. I've been meaning to, but I'm just too busy with my kids.",
+      "message_global_idx": 239
+    },
+    {
+      "category": "relationships",
+      "signal": "\\bmy (?:mom|dad|parents|sister|brother|kids?|children)\\b",
+      "evidence_text": "My favorite thing to cook is probably my mom's chicken noodle soup. It's so comforting and delicious!",
+      "message_global_idx": 421
+    },
+    {
+      "category": "relationships",
+      "signal": "\\bmy (?:mom|dad|parents|sister|brother|kids?|children)\\b",
+      "evidence_text": "That's so cool! I wish I could cook like my mom. I'm afraid of being judged for my diet.",
+      "message_global_idx": 502
+    },
+    {
+      "category": "relationships",
+      "signal": "\\bmy (?:mom|dad|parents|sister|brother|kids?|children)\\b",
+      "evidence_text": "I'm going to visit my brother in another city.",
+      "message_global_idx": 568
+    },
+    {
+      "category": "relationships",
+      "signal": "\\bmy (?:mom|dad|parents|sister|brother|kids?|children)\\b",
+      "evidence_text": "Me too! I'm going to call my mom over to see it.",
+      "message_global_idx": 679
+    },
+    {
+      "category": "relationships",
+      "signal": "\\bmy (?:wife|husband|girlfriend|boyfriend|partner|fianc[\u00e9e]+)\\b",
+      "evidence_text": "Hi! I'm heading home after a long run to see my girlfriend and eat some tacos. What are you up to today?",
+      "message_global_idx": 703
+    },
+    {
+      "category": "relationships",
+      "signal": "\\bmy (?:mom|dad|parents|sister|brother|kids?|children)\\b",
+      "evidence_text": "Yeah! Me too. I am going to visit my mom.",
+      "message_global_idx": 859
+    },
+    {
+      "category": "relationships",
+      "signal": "\\bmy (?:mom|dad|parents|sister|brother|kids?|children)\\b",
+      "evidence_text": "My parents are very supportive and understanding, even though I'm not the best at managing my finances.",
+      "message_global_idx": 910
+    },
+    {
+      "category": "relationships",
+      "signal": "\\bmy (?:mom|dad|parents|sister|brother|kids?|children)\\b",
+      "evidence_text": "I love green too! My favorite is a dark forest green. I grew up in a suburb of Boston and my dad used to play Pearl Jam in the car with me.",
+      "message_global_idx": 937
+    },
+    {
+      "category": "relationships",
+      "signal": "\\bmy (?:mom|dad|parents|sister|brother|kids?|children)\\b",
+      "evidence_text": "Yes it is! I love gardening with my mom.",
+      "message_global_idx": 1336
+    },
+    {
+      "category": "relationships",
+      "signal": "\\bmy (?:mom|dad|parents|sister|brother|kids?|children)\\b",
+      "evidence_text": "I love the fall too. My favorite season is duck hunting season because I love spending time with my dad and grandson.",
+      "message_global_idx": 1461
+    },
+    {
+      "category": "relationships",
+      "signal": "\\bmy (?:wife|husband|girlfriend|boyfriend|partner|fianc[\u00e9e]+)\\b",
+      "evidence_text": "That's great. I love to exercise too. I try to eat healthy foods and exercise regularly because I want to get in better shape for my girlfriend and baby.",
+      "message_global_idx": 1465
+    },
+    {
+      "category": "relationships",
+      "signal": "\\bmy (?:mom|dad|parents|sister|brother|kids?|children)\\b",
+      "evidence_text": "I am doing well too! I am a potter, and I love to hide my true self from my parents. What do you like to do?",
+      "message_global_idx": 1618
+    },
+    {
+      "category": "relationships",
+      "signal": "\\bdating\\b",
+      "evidence_text": "I'm not really interested in dating, I'm more focused on my career.",
+      "message_global_idx": 1671
+    },
+    {
+      "category": "relationships",
+      "signal": "\\bmy (?:mom|dad|parents|sister|brother|kids?|children)\\b",
+      "evidence_text": "I'm trying to find a way to make more time for my kids, but it's hard when I'm so busy with work.",
+      "message_global_idx": 1915
+    },
+    {
+      "category": "relationships",
+      "signal": "\\bmy (?:wife|husband|girlfriend|boyfriend|partner|fianc[\u00e9e]+)\\b",
+      "evidence_text": "I love to go to comic cons and dress up with my husband.",
+      "message_global_idx": 1961
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bstudent\\b",
+      "evidence_text": "I'm doing great! I'm a fulltime student studying radiology at a local college and I also play in a band that my parents don't know about.",
+      "message_global_idx": 16
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bjob\\b",
+      "evidence_text": "I'm a children's librarian. I love my job!",
+      "message_global_idx": 54
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bjob\\b",
+      "evidence_text": "Yes! I love reading to kids. It's the best part of my job!",
+      "message_global_idx": 56
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bjob\\b",
+      "evidence_text": "So, what are you looking forward to the most about your new job?",
+      "message_global_idx": 68
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bschool\\b",
+      "evidence_text": "It's never too late to learn! I started when I was in high school.",
+      "message_global_idx": 78
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bjob\\b",
+      "evidence_text": "I'm studying computer science. I'm hoping to get a job as a programmer after I graduate.",
+      "message_global_idx": 129
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bschool\\b",
+      "evidence_text": "So what are you planning to do after high school?",
+      "message_global_idx": 214
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bjob\\b",
+      "evidence_text": "That's so cool! I love murals. What's your favorite thing about your job?",
+      "message_global_idx": 252
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bjob\\b",
+      "evidence_text": "What's the most challenging part of your job?",
+      "message_global_idx": 256
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bjob\\b",
+      "evidence_text": "I bet it is! I'm glad you enjoy your job.",
+      "message_global_idx": 260
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bjob\\b",
+      "evidence_text": "It is a great job! I love working with kids.",
+      "message_global_idx": 280
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bjob\\b",
+      "evidence_text": "I love getting to help people learn and grow. I also love the flexibility of the job.",
+      "message_global_idx": 290
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bjob\\b",
+      "evidence_text": "I am sure you are doing a great job! You are helping people every day and that is amazing.",
+      "message_global_idx": 292
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bjob\\b",
+      "evidence_text": "That is great! I am glad that you are able to find a job that you love.",
+      "message_global_idx": 323
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bjob\\b",
+      "evidence_text": "What is your favorite part of your job?",
+      "message_global_idx": 325
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bjob\\b",
+      "evidence_text": "That sounds like an amazing job! I love being outdoors. What's your favorite part about it?",
+      "message_global_idx": 551
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bjob\\b",
+      "evidence_text": "That's really cool! I'm glad you enjoy your job.",
+      "message_global_idx": 553
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bjob\\b",
+      "evidence_text": "I work graveyard in a hotel, it's not the most exciting job, but it pays the bills.",
+      "message_global_idx": 592
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bstudent\\b",
+      "evidence_text": "I'm doing well, thanks for asking! I'm a student, and I'm trying to stay positive and focus on my studies. How about you?",
+      "message_global_idx": 624
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bjob\\b",
+      "evidence_text": "It's going well! I just got a new job in academia and I'm really excited about it.",
+      "message_global_idx": 641
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bschool\\b",
+      "evidence_text": "I'm doing great! Thanks for asking! I'm just excited to start my senior year of high school next week.",
+      "message_global_idx": 660
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bjob\\b",
+      "evidence_text": "I'm doing great! I just got a new teaching job and I'm really excited about it.",
+      "message_global_idx": 727
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bstudent\\b",
+      "evidence_text": "I'm a med student, trying to decide where I want to do my residency.",
+      "message_global_idx": 786
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bstudent\\b",
+      "evidence_text": "I love to play badminton and watch funny shows. I'm also a student in social sciences and I love to draw comics.",
+      "message_global_idx": 939
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bjob\\b",
+      "evidence_text": "What kind of job do you have?",
+      "message_global_idx": 986
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bjob\\b",
+      "evidence_text": "Oh, that sounds like an interesting job.",
+      "message_global_idx": 988
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bjob\\b",
+      "evidence_text": "Wow, that's a tough job.",
+      "message_global_idx": 1012
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bjob\\b",
+      "evidence_text": "I'm great! I'm a 30 year old female, I've been working the same job for two years, and I have a wife who is legally deaf. What about you?",
+      "message_global_idx": 1036
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bcollege\\b",
+      "evidence_text": "Well, I am sure you will find something you love to do at college.",
+      "message_global_idx": 1066
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bjob\\b",
+      "evidence_text": "That sounds like a great job! I'm not sure what I want to do with my life yet.",
+      "message_global_idx": 1141
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bjob\\b",
+      "evidence_text": "So, what's your favorite thing about your job?",
+      "message_global_idx": 1176
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bcollege\\b",
+      "evidence_text": "Me too! I just graduated college with my bachelor's in education and I'm going to be a teacher. I'm excited to start my new career.",
+      "message_global_idx": 1488
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bjob\\b",
+      "evidence_text": "That is awesome! I am glad you enjoy your job.",
+      "message_global_idx": 1556
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bjob\\b",
+      "evidence_text": "I don't believe in love, but I love my job.",
+      "message_global_idx": 1667
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bcareer\\b",
+      "evidence_text": "I'm not really interested in dating, I'm more focused on my career.",
+      "message_global_idx": 1671
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bschool\\b",
+      "evidence_text": "I need to find a place to live that's close to school and has a quiet environment so I can focus on my studies.",
+      "message_global_idx": 1673
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bjob\\b",
+      "evidence_text": "That's awesome! I'm sure you'd do a great job. I'm more into the creative side of things, so I don't really do much sewing myself.",
+      "message_global_idx": 1965
+    },
+    {
+      "category": "occupation_education",
+      "signal": "\\bjob\\b",
+      "evidence_text": "That sounds like a fun job! Do you like it?",
+      "message_global_idx": 1978
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hi! How are you?",
+      "message_global_idx": 0
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'm doing pretty well.  I'm excited to be moving to a new city soon!",
+      "message_global_idx": 2
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Really? That's so cool!  Do you still live there?",
+      "message_global_idx": 6
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That sounds amazing!  I've never been to Powell's Books before.  I'm definitely going to have to check it out.",
+      "message_global_idx": 10
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thanks for the recommendation!  I'm sure I'll love it.",
+      "message_global_idx": 12
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'm doing great! I'm a fulltime student studying radiology at a local college and I also play in a band that my parents don't know about.",
+      "message_global_idx": 16
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Nice! I've been meaning to try yoga but I've never really had the time.",
+      "message_global_idx": 18
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'll have to try it sometime! What about your Impala?",
+      "message_global_idx": 20
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's awesome! I love classic cars.",
+      "message_global_idx": 22
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'm sure it will be!",
+      "message_global_idx": 24
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Reading is a great way to relax. I love to cook too! What is your favorite meal to make?",
+      "message_global_idx": 32
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Oh, those both sound delicious! I love chicken parmesan too.",
+      "message_global_idx": 34
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Well, it was nice talking to you. I hope you have a great day!",
+      "message_global_idx": 42
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "hi there!",
+      "message_global_idx": 44
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Pretty good so far! Just got back from a hike.",
+      "message_global_idx": 46
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I hiked in the Everglades. It was amazing! The wildlife was incredible!",
+      "message_global_idx": 48
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "You should definitely go! It's one of the most beautiful places I've ever been.",
+      "message_global_idx": 50
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "You won't regret it!",
+      "message_global_idx": 52
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'm a children's librarian. I love my job!",
+      "message_global_idx": 54
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Yes! I love reading to kids. It's the best part of my job!",
+      "message_global_idx": 56
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Oh nice! What are some of your favorite books?",
+      "message_global_idx": 58
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Wow, that is really exciting! I am always impressed by firefighters.",
+      "message_global_idx": 62
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That is great! I am sure you will do a lot of good work.",
+      "message_global_idx": 70
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'm doing well! What do you do for fun?",
+      "message_global_idx": 74
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's awesome! I love to play soccer and I usually wake up and play piano before starting my day.",
+      "message_global_idx": 76
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "It's never too late to learn! I started when I was in high school.",
+      "message_global_idx": 78
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thanks!",
+      "message_global_idx": 82
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's great! I'm sure you're a great nurse.",
+      "message_global_idx": 90
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That sounds fun! I love trying new foods too. I'm not good at keeping up with my family, but I'm trying to be better.",
+      "message_global_idx": 94
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's cool! I'm a barista. I love books, and I like to watch funny and lighthearted shows to relax.",
+      "message_global_idx": 96
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I've heard good things about that book! I'll have to check it out.",
+      "message_global_idx": 100
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's great! I love gardening too. What kind of plants do you have?",
+      "message_global_idx": 106
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Wow, that sounds amazing! I wish I had a green thumb like you.",
+      "message_global_idx": 108
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "We have a lot in common!",
+      "message_global_idx": 116
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That would be great! I'd love to meet you in person.",
+      "message_global_idx": 118
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hi!",
+      "message_global_idx": 121
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's awesome! I'm trying to do the same thing, but I'm not as disciplined as you are.",
+      "message_global_idx": 133
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's good to hear! I'm happy for you.",
+      "message_global_idx": 137
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hi there!",
+      "message_global_idx": 139
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "You should try making it sometime! It's not as hard as it looks.",
+      "message_global_idx": 147
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "No problem!",
+      "message_global_idx": 151
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thank you! I think so, too.",
+      "message_global_idx": 157
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I love historical fiction, too! I've been reading a lot of historical romance novels lately.",
+      "message_global_idx": 163
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Exactly! I love it.",
+      "message_global_idx": 167
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! I'm so excited for the next book to come out.",
+      "message_global_idx": 171
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me neither!",
+      "message_global_idx": 173
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! We live in a beautiful area, so there are lots of great hiking trails nearby.",
+      "message_global_idx": 177
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "You should come visit us sometime! We'd love to show you around.",
+      "message_global_idx": 179
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Great! We'd love to have you.",
+      "message_global_idx": 181
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "No problem!",
+      "message_global_idx": 183
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's so cool! I also love animals. I have a cat and a dog.",
+      "message_global_idx": 186
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Maybe I will! Thanks for the suggestion.",
+      "message_global_idx": 196
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "It's so much fun! You should definitely try it.",
+      "message_global_idx": 200
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Nice! What kind of photography are you into?",
+      "message_global_idx": 204
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's so cool! I'm sure you're a great photographer too",
+      "message_global_idx": 210
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's great! You should keep up the good work",
+      "message_global_idx": 212
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That would be awesome! I'm sure you'd be great at it",
+      "message_global_idx": 216
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I know! Dancing is so much fun. I love to dance with my kids. It's a great way to bond with them and have some fun.",
+      "message_global_idx": 222
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thanks! I appreciate that. What do you like to do for fun?",
+      "message_global_idx": 224
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's great! I'm glad you're able to find a way to make extra money.",
+      "message_global_idx": 226
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's important! I'm glad you make time for your family.",
+      "message_global_idx": 228
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I highly recommend them! They're a great way to relax and enjoy a good story.",
+      "message_global_idx": 232
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's great! What instruments do you play?",
+      "message_global_idx": 235
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Oh wow, that's awesome! I used to sing in choir, but I haven't in a long time.",
+      "message_global_idx": 237
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "They sure are! But they're also the best thing that's ever happened to me.",
+      "message_global_idx": 241
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Good! Keep me updated!",
+      "message_global_idx": 247
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's so cool! I love murals. What's your favorite thing about your job?",
+      "message_global_idx": 252
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I bet it is! I'm not very artistic so I can appreciate all the work that goes into creating a mural.",
+      "message_global_idx": 254
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I bet it is! I'm glad you enjoy your job.",
+      "message_global_idx": 260
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I like sharks too! I love to go to the aquarium and see them.",
+      "message_global_idx": 264
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "No, I have not! I have always wanted to go though.",
+      "message_global_idx": 266
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I bet it is! I really want to go now.",
+      "message_global_idx": 268
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! I am lucky to have them.",
+      "message_global_idx": 276
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "It is a great job! I love working with kids.",
+      "message_global_idx": 280
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "It is! I get to make a difference in kids' lives.",
+      "message_global_idx": 282
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I do! I am very lucky.",
+      "message_global_idx": 284
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I am sure you are doing a great job! You are helping people every day and that is amazing.",
+      "message_global_idx": 292
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I toss balls and objects in the air and catch them.  It's a lot of fun!",
+      "message_global_idx": 303
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I will have to give it a try.  Thanks for the recommendation!",
+      "message_global_idx": 313
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Happy Fourth of July! How are you celebrating today?",
+      "message_global_idx": 315
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That sounds like fun! I am going to be spending the day with my friends. We are going to grill out and play some games.",
+      "message_global_idx": 317
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That is great! I am glad that you are able to find a job that you love.",
+      "message_global_idx": 323
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That sounds amazing! I am sure that it is very rewarding.",
+      "message_global_idx": 327
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hey there!",
+      "message_global_idx": 329
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thanks! He's my best friend. I don't know what I would do without him.",
+      "message_global_idx": 341
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'm sure! I think I need to get my certification first.",
+      "message_global_idx": 351
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I bet! It looks so beautiful in the pictures.",
+      "message_global_idx": 357
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! I think it would be a lot of fun.",
+      "message_global_idx": 359
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I agree! I'm excited to start diving.",
+      "message_global_idx": 361
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hello!",
+      "message_global_idx": 363
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I am doing well, thank you for asking! I just got back from a walk in the park with my dog.",
+      "message_global_idx": 365
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I think so too! What do you do for fun?",
+      "message_global_idx": 373
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Those sound like fun activities! I like to do a lot of the same things.",
+      "message_global_idx": 375
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That would be fun! I would love to get to know you better.",
+      "message_global_idx": 377
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hello there!",
+      "message_global_idx": 380
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I am doing well, thank you for asking! How about you?",
+      "message_global_idx": 382
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Yes, I love fall too! My favorite color is orange, so it is the perfect time of year for me.",
+      "message_global_idx": 384
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Pumpkin carving is so much fun! I love getting creative with my pumpkins.",
+      "message_global_idx": 388
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "It sounds like we have a lot in common! What about your family? Do you have any kids?",
+      "message_global_idx": 390
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's wonderful! I have four daughters too. They are the light of my life.",
+      "message_global_idx": 392
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'm doing well too, thanks! I'm glad to hear that.",
+      "message_global_idx": 398
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Nice! What's your favorite action movie?",
+      "message_global_idx": 402
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! They're so good!",
+      "message_global_idx": 404
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Nice! What do you like about them?",
+      "message_global_idx": 410
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! I love being able to create my own character and make choices that affect the story.",
+      "message_global_idx": 412
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Yeah, it is!",
+      "message_global_idx": 414
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Okay, it was nice talking to you too! Bye!",
+      "message_global_idx": 416
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hi! I'm [user 1 name].",
+      "message_global_idx": 417
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I love to cook! I love to experiment with new recipes and I love to share my food with my friends and family.",
+      "message_global_idx": 419
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "My favorite thing to cook is probably my mom's chicken noodle soup. It's so comforting and delicious!",
+      "message_global_idx": 421
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's awesome! Maybe we should trade recipes sometime!",
+      "message_global_idx": 423
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Great! What are some of your favorite things to do in your free time?",
+      "message_global_idx": 425
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Those are all great things to do! I love taking walks too. What are some of your favorite places to go for walks?",
+      "message_global_idx": 427
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Those sound like great places to go for walks! I'm not much of a hiker, but I do love going to the park.",
+      "message_global_idx": 429
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I agree! It's also a great way to clear your head and relax.",
+      "message_global_idx": 431
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! It's a great way to de-stress.",
+      "message_global_idx": 433
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! I think they're one of the best things ever",
+      "message_global_idx": 435
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! I think he's one of the best historical fiction writers out there.",
+      "message_global_idx": 448
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hello there! What's up?",
+      "message_global_idx": 457
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Not much either. I just got back from a run in the woods behind my house. It was great!",
+      "message_global_idx": 459
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I love romance novels! They're so fun to read.",
+      "message_global_idx": 473
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! They're both amazing writers.",
+      "message_global_idx": 477
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's so cool! I wish I could cook like my mom. I'm afraid of being judged for my diet.",
+      "message_global_idx": 502
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I wish I could have a chef cook for me too! I'm a Japanese billionaire who loves the wind in my hair.",
+      "message_global_idx": 506
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Dogs are the best! I wish I was taller so I could reach the cookie jar.",
+      "message_global_idx": 508
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hi there! What's your name?",
+      "message_global_idx": 512
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Wow, that's awesome! I love cooking.",
+      "message_global_idx": 518
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Italian food is my favorite!",
+      "message_global_idx": 522
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! What are your favorite Italian dishes to cook?",
+      "message_global_idx": 524
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Those are all my favorites too!",
+      "message_global_idx": 526
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That would be fun!",
+      "message_global_idx": 528
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Sounds like a plan!",
+      "message_global_idx": 530
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hey! How is your day going?",
+      "message_global_idx": 531
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That sounds fun! I've always wanted to drive a fast car.",
+      "message_global_idx": 543
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I will! Thanks for the advice.",
+      "message_global_idx": 545
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's great to hear! I'm working from home today, which I love because it gives me a lot of freedom.",
+      "message_global_idx": 549
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That sounds like an amazing job! I love being outdoors. What's your favorite part about it?",
+      "message_global_idx": 551
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's really cool! I'm glad you enjoy your job.",
+      "message_global_idx": 553
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "No worries! Everyone has their strengths and weaknesses.",
+      "message_global_idx": 557
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thanks! I try to be.",
+      "message_global_idx": 559
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thanks! You too.",
+      "message_global_idx": 561
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Nice to meet you! What are you up to today?",
+      "message_global_idx": 566
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thanks! I will.",
+      "message_global_idx": 572
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Oh, that's cool! What kind of blog do you write?",
+      "message_global_idx": 580
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Oh, that's cool! I love cats!",
+      "message_global_idx": 582
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! They're the best pets.",
+      "message_global_idx": 586
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'm doing well, thank you! What do you do for a living?",
+      "message_global_idx": 590
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That sounds like a great place to live. I hope you find the perfect home for you soon!",
+      "message_global_idx": 602
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's great! I actually write romantic comedies in my spare time.",
+      "message_global_idx": 606
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Those are all great movies! I love them too.",
+      "message_global_idx": 612
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hi there!",
+      "message_global_idx": 622
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'm doing well, thanks for asking! I'm a student, and I'm trying to stay positive and focus on my studies. How about you?",
+      "message_global_idx": 624
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "You too!",
+      "message_global_idx": 638
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hey! How's it going?",
+      "message_global_idx": 639
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "It's going well! I just got a new job in academia and I'm really excited about it.",
+      "message_global_idx": 641
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thank you! I love music too. I play the piano and I used to take ballet lessons when I was younger.",
+      "message_global_idx": 645
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Wow, that's amazing! I've always wanted to learn how to play guitar.",
+      "message_global_idx": 647
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I will! Thanks for the suggestion.",
+      "message_global_idx": 649
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! I love watching tutorials for cooking and dancing.",
+      "message_global_idx": 653
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! I love trying new recipes.",
+      "message_global_idx": 655
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thanks! I try my best",
+      "message_global_idx": 657
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hey there! How are you doing today?",
+      "message_global_idx": 658
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'm doing great! Thanks for asking! I'm just excited to start my senior year of high school next week.",
+      "message_global_idx": 660
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thanks! I'm looking forward to it. What are you up to these days?",
+      "message_global_idx": 662
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "You should! It's a really good story",
+      "message_global_idx": 670
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'm doing good! What are you up to today?",
+      "message_global_idx": 673
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'm just hanging out, I just got a new couch!",
+      "message_global_idx": 675
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! I'm going to call my mom over to see it.",
+      "message_global_idx": 679
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I will!",
+      "message_global_idx": 685
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thanks!",
+      "message_global_idx": 687
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hi! How's your day going?",
+      "message_global_idx": 689
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Awesome! I love rap music! Who are some of your favorite rappers?",
+      "message_global_idx": 691
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Those are my favorite toppings for enchiladas and tacos! I also like to put sour cream and salsa on my tacos.",
+      "message_global_idx": 699
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'm glad we have similar taste in food! It's always nice to meet someone who likes the same things you do.",
+      "message_global_idx": 701
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hi! I'm heading home after a long run to see my girlfriend and eat some tacos. What are you up to today?",
+      "message_global_idx": 703
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's really cool! How long have you been working at the coffee shop?",
+      "message_global_idx": 705
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's a great idea! I've always wanted to be an actress.",
+      "message_global_idx": 707
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thanks for the encouragement! I think I might just do that.",
+      "message_global_idx": 709
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thanks! I hope so.",
+      "message_global_idx": 711
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! I'm currently reading a book called \"The Great Gatsby\" by F. Scott Fitzgerald.",
+      "message_global_idx": 715
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! I'm really enjoying it.",
+      "message_global_idx": 717
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! It's so funny and heartwarming.",
+      "message_global_idx": 721
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! I think it's a really great movie.",
+      "message_global_idx": 723
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hey there!",
+      "message_global_idx": 725
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'm doing great! I just got a new teaching job and I'm really excited about it.",
+      "message_global_idx": 727
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thanks! I'm really looking forward to it.",
+      "message_global_idx": 731
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I hope so!",
+      "message_global_idx": 733
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Those are both great breeds! I love golden retrievers.",
+      "message_global_idx": 739
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Those are great cats too! I love their personalities.",
+      "message_global_idx": 743
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's crazy! So what kind of things does it say to you?",
+      "message_global_idx": 753
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hello! How are you doing today?",
+      "message_global_idx": 761
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Oh, that's cool! What kind of music do you play?",
+      "message_global_idx": 767
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's awesome! I've always wanted to learn to play the piano.",
+      "message_global_idx": 769
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Oh, I like to read books too! What kind of books do you like to read?",
+      "message_global_idx": 777
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'm a big fan of historical fiction too! I've been reading a lot of historical fiction set in the Civil War lately.",
+      "message_global_idx": 779
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "You should check it out! It's really good.",
+      "message_global_idx": 781
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's awesome! I'm sure you'll make a great officer.",
+      "message_global_idx": 788
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Sushi is delicious! I love trying new foods.",
+      "message_global_idx": 792
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "It is! I've been there a few times and I love it.",
+      "message_global_idx": 796
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thanks! I'm looking forward to it.",
+      "message_global_idx": 798
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Oh, that's wonderful! I hope you enjoy your trip.",
+      "message_global_idx": 801
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Oh, that's interesting! I've never collected seashells before.",
+      "message_global_idx": 805
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's a great genre! I love rock and roll too.",
+      "message_global_idx": 811
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hey! I love comic cons too, it's where I can be myself and express my creativity. What's your favorite thing about it?",
+      "message_global_idx": 819
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's awesome! I love dogs. Do you have a picture of him? I love going to the skatepark too.",
+      "message_global_idx": 825
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Awh, he's so cute! I love his name. I can't skate either, I'm too worried about falling and hurting myself",
+      "message_global_idx": 827
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hi there! I'm a food blogger and I love to share my favorite restaurant finds with my readers. What are your favorite restaurants?",
+      "message_global_idx": 844
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I love going to new restaurants too! It's so much fun to try new things. I'm not so big on the diner scene, but I know a lot of people who love it.",
+      "message_global_idx": 846
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I have two dogs. They're the best pets ever! They're always so happy to see me and they make me laugh every day.",
+      "message_global_idx": 850
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I love to read too! I'm always looking for new books to read. I love to read all kinds of different genres.",
+      "message_global_idx": 854
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Romance is my favorite genre too! I love a good love story",
+      "message_global_idx": 856
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hi there! How was your day?",
+      "message_global_idx": 857
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Yeah! Me too. I am going to visit my mom.",
+      "message_global_idx": 859
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Oh! Really? I never would have guessed that.",
+      "message_global_idx": 865
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's great! I am glad to hear that.",
+      "message_global_idx": 867
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's what family is for!",
+      "message_global_idx": 869
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "You too!",
+      "message_global_idx": 873
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hello! How are you?",
+      "message_global_idx": 874
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'm doing well, thank you! I'm just getting home from a concert. How was your day?",
+      "message_global_idx": 876
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That sounds like a productive day! I love to cook, too. I'm a big fan of greenhouses. I have one in my backyard and I love to spend time tending to my plants.",
+      "message_global_idx": 878
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "You're welcome! What are some of your favorite things to do?",
+      "message_global_idx": 882
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Those are all great things to do! I love to read as well. What are some of your favorite books?",
+      "message_global_idx": 884
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! I love historical fiction. I'm currently reading a book about the Civil War.",
+      "message_global_idx": 886
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hey! I'm new to the area and I'm looking to make some friends.",
+      "message_global_idx": 902
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's okay! I love exploring new places and meeting new people.",
+      "message_global_idx": 906
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "It sounds like you're a really hard worker! I'm sure you'll accomplish great things.",
+      "message_global_idx": 908
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thank you! I'm lucky to have them.",
+      "message_global_idx": 912
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! I'm excited to get to know you better.",
+      "message_global_idx": 914
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hi! I'm looking for a home near the beach that has enough space for my snake.",
+      "message_global_idx": 915
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "They're really not that bad! They're pretty low-maintenance and they're really good at self-regulating their own temperature.",
+      "message_global_idx": 919
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "You should! They're great pets.",
+      "message_global_idx": 921
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! I think it's important to have something to believe in.",
+      "message_global_idx": 925
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Exactly!",
+      "message_global_idx": 927
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I do! I'm really lucky.",
+      "message_global_idx": 933
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I love green too! My favorite is a dark forest green. I grew up in a suburb of Boston and my dad used to play Pearl Jam in the car with me.",
+      "message_global_idx": 937
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's awesome! I've always wanted to learn how to play the guitar. Maybe we could practice together sometime.",
+      "message_global_idx": 941
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's rough, hope you heal up soon!",
+      "message_global_idx": 946
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Nice! What do you blog about?",
+      "message_global_idx": 948
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That sounds really cool! I love to hike, do you have any favorite trails?",
+      "message_global_idx": 950
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I will! Thanks for the recommendation.",
+      "message_global_idx": 954
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "You too!",
+      "message_global_idx": 956
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'm doing alright, thank you!",
+      "message_global_idx": 959
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That sounds like fun! I enjoy playing music as well, and I love to read.",
+      "message_global_idx": 963
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's great! I love classical music.",
+      "message_global_idx": 967
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Those are great bands as well!",
+      "message_global_idx": 971
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too!",
+      "message_global_idx": 973
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I think so too!",
+      "message_global_idx": 975
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That sounds like fun! I'd love to.",
+      "message_global_idx": 977
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! I feel like we have a lot in common.",
+      "message_global_idx": 1004
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Same here! Do you want to exchange contact information?",
+      "message_global_idx": 1006
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's a great book! I love Fitzgerald's writing style.",
+      "message_global_idx": 1024
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "You too. Have a great day!",
+      "message_global_idx": 1032
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hey! How are you today?",
+      "message_global_idx": 1034
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'm great! I'm a 30 year old female, I've been working the same job for two years, and I have a wife who is legally deaf. What about you?",
+      "message_global_idx": 1036
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "No problem! So, what do you do for fun?",
+      "message_global_idx": 1044
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's great! I should try to do that more often.",
+      "message_global_idx": 1050
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I will! Thanks for the advice.",
+      "message_global_idx": 1052
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "It is! And I get to take walks in the canyon before I start my work, which is a nice way to start the day.",
+      "message_global_idx": 1060
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I hear you! I have two cats too, and they are so cuddly.",
+      "message_global_idx": 1062
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I love basketball! I play a few times a week with some friends.",
+      "message_global_idx": 1064
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hey there, nice to meet you!",
+      "message_global_idx": 1068
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That sounds fun! I like to make my own soap and watch movies about aliens invading the earth.",
+      "message_global_idx": 1072
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "It's actually pretty easy! You can find a lot of tutorials online.",
+      "message_global_idx": 1074
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "You should! It's a lot of fun.",
+      "message_global_idx": 1076
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I love the country! It's so peaceful and quiet.",
+      "message_global_idx": 1080
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That sounds amazing! I love doing that too.",
+      "message_global_idx": 1084
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! The country is the best",
+      "message_global_idx": 1086
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hey! How's your day been going?",
+      "message_global_idx": 1087
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Nice! I love riding bikes! I have a Toyota Tacoma too.",
+      "message_global_idx": 1089
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I've done a few, they're so fun! I love just driving and seeing the country.",
+      "message_global_idx": 1091
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Totally! I like being able to do what I want, when I want.",
+      "message_global_idx": 1095
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! I'm sure we'll get along great.",
+      "message_global_idx": 1097
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "It is! I'm spending the day working on a mural I'm painting.",
+      "message_global_idx": 1101
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Aw, that's awesome! I love animals.",
+      "message_global_idx": 1103
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's a great goal! I'm sure you'll be great at it.",
+      "message_global_idx": 1105
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'm glad to hear that! I'm sure you'll do great things.",
+      "message_global_idx": 1107
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's great! I love to sing too. Do you have any favorite songs to sing?",
+      "message_global_idx": 1111
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's a great song! I love to sing it too.",
+      "message_global_idx": 1113
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "It is! I'm glad we have something in common.",
+      "message_global_idx": 1115
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Have a nice day!",
+      "message_global_idx": 1119
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hey there! I just got home from work.",
+      "message_global_idx": 1121
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thanks! I am very content.",
+      "message_global_idx": 1133
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Good morning! I just finished playing fetch with my dog, it was so much fun!",
+      "message_global_idx": 1135
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That sounds like a great job! I'm not sure what I want to do with my life yet.",
+      "message_global_idx": 1141
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thanks for the advice! I'm going to go grab some breakfast now.",
+      "message_global_idx": 1143
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hi! I'm not rich, but I love technology and I have a sweet tooth.",
+      "message_global_idx": 1145
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "It's always great to meet a fellow science lover! I work at a grocery store, but I'm moving to a new city to pursue my culinary dreams.",
+      "message_global_idx": 1147
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'm sure you could do it if you put your mind to it! I've been working out in my home gym to keep fit, and I'm really excited to start cooking healthy meals.",
+      "message_global_idx": 1149
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Those are great workouts! I've always been more of a cardio person myself, but I'm trying to branch out and do more strength training.",
+      "message_global_idx": 1151
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's so cool! I've never done cosplay before, but I've always wanted to try it.",
+      "message_global_idx": 1153
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I bet! I love Bruno Mars! What's your favorite song by him?",
+      "message_global_idx": 1155
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's a great song! I love the music video, too.",
+      "message_global_idx": 1157
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Sounds like you have a lot of fun hobbies! I love spending time with my friends and family, too. I also love to cook and work out. I'm not sure if I'll ever get into cosplay, but it sounds like a lot of fun.",
+      "message_global_idx": 1161
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I might have to give it a try sometime!",
+      "message_global_idx": 1163
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hello!",
+      "message_global_idx": 1164
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Oh, that's cool! I am a doctor.",
+      "message_global_idx": 1168
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's great!",
+      "message_global_idx": 1178
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hey! What do you like to do for fun?",
+      "message_global_idx": 1216
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's cool! I have never been to a farm before.",
+      "message_global_idx": 1222
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That sounds like a great idea! I'd love to see your animals.",
+      "message_global_idx": 1224
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Sounds great! I'm looking forward to it",
+      "message_global_idx": 1226
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hi there! How are you today?",
+      "message_global_idx": 1227
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Wow, that sounds nice! I've always wanted to have a rose garden.",
+      "message_global_idx": 1229
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I bet! What's your favorite kind of rose?",
+      "message_global_idx": 1231
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "They sound amazing! I'll have to look into them.",
+      "message_global_idx": 1235
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Well, I hope you have a great run!",
+      "message_global_idx": 1237
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That sounds like a lot of fun! I love to go hiking, but I'm not so good at fishing.",
+      "message_global_idx": 1243
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Oh, that's awesome! Me too. What's your favorite thing to cook?",
+      "message_global_idx": 1253
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's my favorite too! I love making homemade pasta.",
+      "message_global_idx": 1255
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "It's a lot of fun! It's a racquet sport that's similar to squash but it's played on a court that's smaller and the ball is a little bit bigger.",
+      "message_global_idx": 1269
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "You should! It's a lot of fun and a good workout.",
+      "message_global_idx": 1271
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! It's always more fun to work out with someone else.",
+      "message_global_idx": 1275
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I would love that! We can exchange numbers and figure out a time to meet up.",
+      "message_global_idx": 1277
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hey! I'm glad you're enjoying some time to yourself at home. What have you been up to?",
+      "message_global_idx": 1279
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Oh, that's awesome! I'm not too good with computers, but I do enjoy using them.",
+      "message_global_idx": 1281
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's cool! I'm not much of a cook, but I do enjoy eating. What are some of your favorite ethnic foods?",
+      "message_global_idx": 1285
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I love pizza too! It's my favorite food. Do you have any siblings?",
+      "message_global_idx": 1287
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Pretty well, thanks! So what are you up to these days?",
+      "message_global_idx": 1295
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That would be cool! I'm not much of a musician myself, but I love listening to music.",
+      "message_global_idx": 1299
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Nice, I like indie music too! What are some of your favorite bands?",
+      "message_global_idx": 1303
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Those are all great! I love Phoebe Bridgers. I saw her in concert a few months ago and she was amazing.",
+      "message_global_idx": 1305
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "No problem!",
+      "message_global_idx": 1309
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hey!",
+      "message_global_idx": 1310
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That sounds nice! I like going for walks too.",
+      "message_global_idx": 1314
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! They are my favorite band of all time.",
+      "message_global_idx": 1322
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "They do! We always have a lot of fun together.",
+      "message_global_idx": 1326
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That sounds like a great hobby! I love gardening too.",
+      "message_global_idx": 1330
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Yes it is! I love seeing my plants grow and thrive.",
+      "message_global_idx": 1332
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Yes it is! I'm glad to hear that you like gardening too.",
+      "message_global_idx": 1334
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Yes it is! I love gardening with my mom.",
+      "message_global_idx": 1336
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hi there!",
+      "message_global_idx": 1338
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I am doing great! I just got back from a nice ride on my horse.",
+      "message_global_idx": 1340
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That sounds like a lot of fun! I like to cook too.",
+      "message_global_idx": 1346
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's awesome! I'm in the military, but I'm also a huge fan of classical music.",
+      "message_global_idx": 1354
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's really cool! I have two as well, but they're both related to my time in the military.",
+      "message_global_idx": 1356
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thank you! I'm looking for ways to control my blood sugar while still being able to enjoy my active lifestyle.",
+      "message_global_idx": 1358
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thank you! I appreciate that.",
+      "message_global_idx": 1362
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "It's been great! I've learned a lot, and I've made some great friends.",
+      "message_global_idx": 1364
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thanks!",
+      "message_global_idx": 1366
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hey! How are you doing?",
+      "message_global_idx": 1367
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I am doing well! I am just hanging out and watching TV.",
+      "message_global_idx": 1369
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! What is your favorite historical period?",
+      "message_global_idx": 1373
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That is a great choice! I love the Renaissance period too.",
+      "message_global_idx": 1375
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! It would have been amazing to experience all of the changes and progress that was happening.",
+      "message_global_idx": 1381
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too!",
+      "message_global_idx": 1383
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I love building sandcastles too!  I am not very good at them, but I have fun trying.",
+      "message_global_idx": 1390
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I like to do all of those things too!  I also like to write and listen to music.",
+      "message_global_idx": 1394
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "You should!  They are really good.  What are some of your favorite movies?",
+      "message_global_idx": 1398
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I love the Lord of the Rings movies too!  They are so good.",
+      "message_global_idx": 1400
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too!  They are my favorite movies.",
+      "message_global_idx": 1402
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I think so too!  It was nice talking to you.",
+      "message_global_idx": 1404
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Doing great! I just got back from a trip to the mountains.",
+      "message_global_idx": 1407
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I do both! I love the adrenaline rush.",
+      "message_global_idx": 1409
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I love Vail! It's so beautiful and there are so many great runs.",
+      "message_global_idx": 1411
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "You should! It's definitely worth the trip.",
+      "message_global_idx": 1413
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's awesome! I love woodworking too. I built a coffee table last year.",
+      "message_global_idx": 1421
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "You should! It's really rewarding.",
+      "message_global_idx": 1425
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hey there!",
+      "message_global_idx": 1428
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's awesome! I'm glad you enjoy it. I've only volunteered once, but it was a really great experience. I helped out at a local animal shelter and got to interact with all sorts of cute animals.",
+      "message_global_idx": 1432
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "It was! I'm thinking about volunteering again soon.",
+      "message_global_idx": 1434
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thanks!",
+      "message_global_idx": 1436
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hello! How are you doing today?",
+      "message_global_idx": 1438
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'm glad to hear that!",
+      "message_global_idx": 1440
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Those are all great topics!",
+      "message_global_idx": 1446
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too!",
+      "message_global_idx": 1452
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "You too!",
+      "message_global_idx": 1454
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That sounds great! I love hiking. It's so peaceful and a great way to get some exercise.",
+      "message_global_idx": 1477
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! I used to be an avid hiker when I was younger, but I haven't been able to get out as much lately.",
+      "message_global_idx": 1479
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I know! I'll try to make it a priority.",
+      "message_global_idx": 1481
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I think so too. Thanks for the encouragement!",
+      "message_global_idx": 1483
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "You too!",
+      "message_global_idx": 1485
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hi there! How are you doing today?",
+      "message_global_idx": 1486
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! I just graduated college with my bachelor's in education and I'm going to be a teacher. I'm excited to start my new career.",
+      "message_global_idx": 1488
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'm sure I will too! I'm looking forward to helping my students learn and grow.",
+      "message_global_idx": 1490
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thanks! I hope so!",
+      "message_global_idx": 1492
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That sounds really cool! I've never made stew before.",
+      "message_global_idx": 1496
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I will! Thanks for the suggestion.",
+      "message_global_idx": 1500
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hi! I'm looking forward to getting to know you better. I'm a software engineer, and I enjoy playing video games, reading books, and watching movies in my free time. What do you do for fun?",
+      "message_global_idx": 1502
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's awesome! I love reading books too, and I've always wanted to learn more about India. I've also been trying to get into baking, but I'm not very good at it yet.",
+      "message_global_idx": 1504
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I hope so! It would be amazing to see the Taj Mahal and the other historical sites in person.",
+      "message_global_idx": 1506
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I've heard that! I'm definitely going to have to try some of it when I visit.",
+      "message_global_idx": 1508
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'm excited to hear more about your studies! What are you hoping to do after you graduate?",
+      "message_global_idx": 1510
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's great! I'm sure you'll do great things.",
+      "message_global_idx": 1512
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! I'm sure it will be bright for you.",
+      "message_global_idx": 1514
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "It's never too late to learn! I started playing when I was a kid.",
+      "message_global_idx": 1524
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'm sure you'd be great at it!",
+      "message_global_idx": 1526
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! It's the best way to relieve stress.",
+      "message_global_idx": 1530
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hi there! How are you?",
+      "message_global_idx": 1537
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's great to hear! What do you do for a living?",
+      "message_global_idx": 1539
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That sounds awesome! I love to cook as well, but I'm not very good at it.",
+      "message_global_idx": 1541
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I really enjoy making sushi. It's so delicious and healthy!",
+      "message_global_idx": 1543
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! I've been wanting to try making it at home, but I'm not sure where to start.",
+      "message_global_idx": 1545
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thanks for the advice! I'll have to check it out.",
+      "message_global_idx": 1547
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Well, I should probably get going. It was great talking to you!",
+      "message_global_idx": 1549
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "You too!",
+      "message_global_idx": 1551
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That is awesome! I am glad you enjoy your job.",
+      "message_global_idx": 1556
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's great! I love animals, but I don't have any pets of my own right now.",
+      "message_global_idx": 1570
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! I think it's important to keep an open mind and be willing to try new things.",
+      "message_global_idx": 1576
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hey there!",
+      "message_global_idx": 1577
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'm great! Just hanging out, playing video games and watching TV.",
+      "message_global_idx": 1579
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Oh nice! I love cooking! What kind of dessert is it?",
+      "message_global_idx": 1581
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That sounds delicious! I love chocolate.",
+      "message_global_idx": 1583
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Oh my gosh, that sounds amazing! I love chocolate chip cookies!",
+      "message_global_idx": 1585
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I think we should have a bake off! We can each make our favorite dessert and then compare them.",
+      "message_global_idx": 1587
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Great! We can set it up for next weekend.",
+      "message_global_idx": 1589
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hey!  I'm from a small town too, I love the beach.",
+      "message_global_idx": 1591
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I love dogs! I have a golden retriever named Luna.",
+      "message_global_idx": 1593
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Wow, that's a lot of alpacas! Do you have any pictures of them?",
+      "message_global_idx": 1597
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "They're so cute! I love their fluffy coats.",
+      "message_global_idx": 1599
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's cool! I'm a teacher.",
+      "message_global_idx": 1603
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "It is! They're so cute and funny.",
+      "message_global_idx": 1607
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That would be fun!",
+      "message_global_idx": 1613
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I am doing well too! I am a potter, and I love to hide my true self from my parents. What do you like to do?",
+      "message_global_idx": 1618
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That is great! I have never been arrested, and I am proud of my clean record. What is something you are proud of?",
+      "message_global_idx": 1620
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That is awesome! I am not a very good cook, but I love to eat.",
+      "message_global_idx": 1622
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hey! How's it going?",
+      "message_global_idx": 1628
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Oh wow! That's a lot of pets.",
+      "message_global_idx": 1640
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's awesome! I've always wanted to be a blogger.",
+      "message_global_idx": 1646
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's awesome! What kind of art do you like to do?",
+      "message_global_idx": 1654
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Oh cool! I like to draw too.",
+      "message_global_idx": 1656
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That would be fun!",
+      "message_global_idx": 1658
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Sounds good!",
+      "message_global_idx": 1660
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Oh, those are my favorite! I love to put marshmallows in them.",
+      "message_global_idx": 1715
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "You should. It's amazing! What's your favorite thing to bake?",
+      "message_global_idx": 1717
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thank you! I really appreciate it.",
+      "message_global_idx": 1723
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hi there!",
+      "message_global_idx": 1728
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's awesome! I love animal welfare too. I have a cat named Seven of Nine.",
+      "message_global_idx": 1732
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thanks! What's your favorite thing about your garden?",
+      "message_global_idx": 1736
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's great! I love running as a way to de-stress.",
+      "message_global_idx": 1738
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "It is! I've been running for years and I love it.",
+      "message_global_idx": 1740
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I definitely recommend it! It's a great way to stay healthy and active.",
+      "message_global_idx": 1742
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "You're welcome!",
+      "message_global_idx": 1744
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hi! How are you?",
+      "message_global_idx": 1745
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'm doing well, thanks!",
+      "message_global_idx": 1747
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I like your profile! You seem like a really interesting person.",
+      "message_global_idx": 1749
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I try to be!",
+      "message_global_idx": 1751
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Those all sound like great hobbies! I love to knit too!",
+      "message_global_idx": 1755
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Scarves are great too! They're so cozy and warm.",
+      "message_global_idx": 1759
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I know, right? It's my favorite too!",
+      "message_global_idx": 1763
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That sounds like a great idea! I'd love to",
+      "message_global_idx": 1765
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's great! I am recently divorced. I am a bit distant from my family, but I try to make time for them every weekend.",
+      "message_global_idx": 1770
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's cool! I love to go fishing too. I have amazing parents who support my every adventure.",
+      "message_global_idx": 1772
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thank you! I am glad to hear that you are doing well. What are you up to this weekend?",
+      "message_global_idx": 1774
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thanks! You too!",
+      "message_global_idx": 1778
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hi there!",
+      "message_global_idx": 1779
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "It's going well! I'm just getting ready to go kayaking on a beautiful lake with my family.",
+      "message_global_idx": 1781
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's awesome! Where did you go on your vacation?",
+      "message_global_idx": 1783
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Sounds like you have a lot of fun hobbies! I spend my days flying planes and working on my hobbies. I also like singing broadway show tunes.",
+      "message_global_idx": 1785
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "It's definitely an experience! I'm also a big fan of Broadway show tunes. I love singing them in my spare time.",
+      "message_global_idx": 1787
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That would be fun! I'm free this weekend.",
+      "message_global_idx": 1791
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Sounds like a plan! I'll see you then!",
+      "message_global_idx": 1793
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's great! I'm glad you enjoy your work. I'm a security guard, so my days are also pretty long and busy.",
+      "message_global_idx": 1798
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I agree! What do you like to do for fun?",
+      "message_global_idx": 1802
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's awesome! I love to cook too. What's your favorite thing to cook?",
+      "message_global_idx": 1804
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That sounds delicious! I love lasagna too.",
+      "message_global_idx": 1806
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's great! I'm glad you have such a great support system.",
+      "message_global_idx": 1808
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I agree! What are your plans for the rest of the day?",
+      "message_global_idx": 1812
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thanks! I hope you have a great rest of your day!",
+      "message_global_idx": 1816
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Oh cool! I love working on cars. I work on my Ford truck.",
+      "message_global_idx": 1820
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Oh cool! I do not run, but I love archery. I used to do it a lot when I was a kid.",
+      "message_global_idx": 1830
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I love golden retrievers! I have a red headed brother and he has had two of them.",
+      "message_global_idx": 1839
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "You should come visit sometime! I'll take you paddle boarding.",
+      "message_global_idx": 1845
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Awesome! Maybe this summer?",
+      "message_global_idx": 1847
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hello! How are you today?",
+      "message_global_idx": 1849
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "It's nice to hear! Me too! What are you up to today?",
+      "message_global_idx": 1851
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Oh nice! I'm working on a custom upholstery project.",
+      "message_global_idx": 1853
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Oh that's awesome! What kind of crafts do you like to do?",
+      "message_global_idx": 1857
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Oh that's really cool! I've always wanted to learn how to sew.",
+      "message_global_idx": 1859
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I might just do that! Thanks for the inspiration!",
+      "message_global_idx": 1861
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! I think it's so fun to learn new things.",
+      "message_global_idx": 1863
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I think so too! It's so much fun to see your creativity come to life.",
+      "message_global_idx": 1865
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'm glad you feel that way!",
+      "message_global_idx": 1867
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I agree! I love making new friends.",
+      "message_global_idx": 1869
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hey! I'm looking for someone to go for bike rides with me and my sons on the weekends.",
+      "message_global_idx": 1871
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Great! I work in academia at a local university. I like to express myself through country music and tattoos. I have two chihuahuas. What about you?",
+      "message_global_idx": 1873
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's great! I'm always looking for ways to help others too. I think it's important to give back to our community.",
+      "message_global_idx": 1875
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'm so glad we met! I think we're going to be great friends.",
+      "message_global_idx": 1877
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! We can start this weekend.",
+      "message_global_idx": 1879
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Perfect! I'll see you there.",
+      "message_global_idx": 1881
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hi there!",
+      "message_global_idx": 1882
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I like to go camping too!",
+      "message_global_idx": 1886
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! I love making smores.",
+      "message_global_idx": 1890
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Cheesecake is good too! I like fruit-flavored cheesecakes.",
+      "message_global_idx": 1894
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! They're so sweet and juicy.",
+      "message_global_idx": 1898
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "They are! I'm so glad I have them.",
+      "message_global_idx": 1909
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "They do! They're always there for me, no matter what.",
+      "message_global_idx": 1911
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I agree! I'm so glad I have them in my life.",
+      "message_global_idx": 1913
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's a great idea! I love nature documentaries too.",
+      "message_global_idx": 1921
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Really? That's awesome!",
+      "message_global_idx": 1925
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's great! I love short stories too. I think they're a great way to get your point across quickly and effectively.",
+      "message_global_idx": 1937
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thank you! I love that about writing too. It's so much fun to be able to create anything you can imagine.",
+      "message_global_idx": 1939
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Me too! That's why I love writing.",
+      "message_global_idx": 1949
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hey there! I'm glad that I'm able to help out in my family, and that I got to meet a real unicorn!",
+      "message_global_idx": 1951
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I agree! Music is a great way to escape from the stress of everyday life.",
+      "message_global_idx": 1959
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's a great idea! I love making my own costumes. It's really rewarding to see something you've made come together.",
+      "message_global_idx": 1963
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's awesome! I'm sure you'd do a great job. I'm more into the creative side of things, so I don't really do much sewing myself.",
+      "message_global_idx": 1965
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Thank you! I try my best! I love being able to express myself through my costumes and it's so much fun to share my love of comics and other fandoms with others.",
+      "message_global_idx": 1967
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Definitely! It's the best!",
+      "message_global_idx": 1969
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'm not sure yet! I'm hoping to go to a few, but I haven't decided which ones yet.",
+      "message_global_idx": 1971
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Same! It would be great to meet you!",
+      "message_global_idx": 1973
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "Hi, nice to meet you!",
+      "message_global_idx": 1974
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That sounds like a fun job! Do you like it?",
+      "message_global_idx": 1978
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I love it! I get to help people with their finances and it is very rewarding. I also get to work with a great team of people.",
+      "message_global_idx": 1980
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I would love that! I am free this weekend if you would like to go.",
+      "message_global_idx": 1988
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "I'm doing well, thank you!",
+      "message_global_idx": 1991
+    },
+    {
+      "category": "enthusiasm",
+      "signal": "!{1,}",
+      "evidence_text": "That's awesome! I used to love archery when I was younger.",
+      "message_global_idx": 1995
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\bexcited\\b",
+      "evidence_text": "I'm doing pretty well.  I'm excited to be moving to a new city soon!",
+      "message_global_idx": 2
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Thanks for the recommendation!  I'm sure I'll love it.",
+      "message_global_idx": 12
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That's awesome! I love classic cars.",
+      "message_global_idx": 22
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love the freedom of being able to learn whatever I want.",
+      "message_global_idx": 26
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Reading is a great way to relax. I love to cook too! What is your favorite meal to make?",
+      "message_global_idx": 32
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Oh, those both sound delicious! I love chicken parmesan too.",
+      "message_global_idx": 34
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I'm a children's librarian. I love my job!",
+      "message_global_idx": 54
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Yes! I love reading to kids. It's the best part of my job!",
+      "message_global_idx": 56
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That's awesome! I love to play soccer and I usually wake up and play piano before starting my day.",
+      "message_global_idx": 76
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love to take them to the park and play soccer with them. They're both really good at soccer.",
+      "message_global_idx": 84
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That sounds fun! I love trying new foods too. I'm not good at keeping up with my family, but I'm trying to be better.",
+      "message_global_idx": 94
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That's cool! I'm a barista. I love books, and I like to watch funny and lighthearted shows to relax.",
+      "message_global_idx": 96
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That's great! I love gardening too. What kind of plants do you have?",
+      "message_global_idx": 106
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That would be great! I'd love to meet you in person.",
+      "message_global_idx": 118
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "It can be, but it's also very rewarding. I love being able to spend time with my kids and help them learn and grow.",
+      "message_global_idx": 155
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love to cook, read, and spend time with my family.",
+      "message_global_idx": 159
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love historical fiction, too! I've been reading a lot of historical romance novels lately.",
+      "message_global_idx": 163
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Exactly! I love it.",
+      "message_global_idx": 167
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love the Outlander series by Diana Gabaldon.",
+      "message_global_idx": 169
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\bexcited\\b",
+      "evidence_text": "Me too! I'm so excited for the next book to come out.",
+      "message_global_idx": 171
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love to go on hikes with my family.",
+      "message_global_idx": 175
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "You should come visit us sometime! We'd love to show you around.",
+      "message_global_idx": 179
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Great! We'd love to have you.",
+      "message_global_idx": 181
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That's so cool! I also love animals. I have a cat and a dog.",
+      "message_global_idx": 186
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love to dance salsa.",
+      "message_global_idx": 198
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I know! Dancing is so much fun. I love to dance with my kids. It's a great way to bond with them and have some fun.",
+      "message_global_idx": 222
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I enjoy reading Jane Austen novels. I love her writing style and her characters.",
+      "message_global_idx": 230
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That's so cool! I love murals. What's your favorite thing about your job?",
+      "message_global_idx": 252
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I like sharks too! I love to go to the aquarium and see them.",
+      "message_global_idx": 264
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "It is a great job! I love working with kids.",
+      "message_global_idx": 280
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love getting to help people learn and grow. I also love the flexibility of the job.",
+      "message_global_idx": 290
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love to juggle balls, but I also like to juggle torches and knives.",
+      "message_global_idx": 307
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "It can be, but it's also really fun.  I love the adrenaline rush of it.",
+      "message_global_idx": 309
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That is great! I am glad that you are able to find a job that you love.",
+      "message_global_idx": 323
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Yeah, they are. I really love taking him for walks. It's a great way to get some exercise and spend time with my best friend.",
+      "message_global_idx": 335
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\bexcited\\b",
+      "evidence_text": "I agree! I'm excited to start diving.",
+      "message_global_idx": 361
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That would be fun! I would love to get to know you better.",
+      "message_global_idx": 377
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Yes, I love fall too! My favorite color is orange, so it is the perfect time of year for me.",
+      "message_global_idx": 384
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love to go hiking and camping. I also enjoy going to football games and watching horror movies.",
+      "message_global_idx": 386
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Pumpkin carving is so much fun! I love getting creative with my pumpkins.",
+      "message_global_idx": 388
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Me too! I love being able to create my own character and make choices that affect the story.",
+      "message_global_idx": 412
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love to cook! I love to experiment with new recipes and I love to share my food with my friends and family.",
+      "message_global_idx": 419
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Those are all great things to do! I love taking walks too. What are some of your favorite places to go for walks?",
+      "message_global_idx": 427
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Those sound like great places to go for walks! I'm not much of a hiker, but I do love going to the park.",
+      "message_global_idx": 429
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That sounds fun. I love chocolate cake. What's your favorite thing to bake?",
+      "message_global_idx": 438
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That's so cool. I love to bake, but I'm not very creative. I usually just make chocolate chip cookies or brownies.",
+      "message_global_idx": 440
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That sounds like a lot of fun. I love to go hiking too. I'm not very good at camping, but I enjoy the outdoors. I also love to read. What are your favorite books?",
+      "message_global_idx": 444
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I've never read any of Stephen King's books, but I've heard good things about them. I'll have to check them out. I love historical fiction too. Have you read any of Ken Follett's books?",
+      "message_global_idx": 446
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Me too. I love to read a good mystery novel.",
+      "message_global_idx": 471
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love romance novels! They're so fun to read.",
+      "message_global_idx": 473
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\bafraid\\b",
+      "evidence_text": "That's so cool! I wish I could cook like my mom. I'm afraid of being judged for my diet.",
+      "message_global_idx": 502
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\bafraid\\b",
+      "evidence_text": "I don't like a lot of vegetables. I'm afraid people will think I'm weird.",
+      "message_global_idx": 504
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I guess there's no perfect height for everyone. I'd love to have a taller friend.",
+      "message_global_idx": 510
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Wow, that's awesome! I love cooking.",
+      "message_global_idx": 518
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That's great to hear! I'm working from home today, which I love because it gives me a lot of freedom.",
+      "message_global_idx": 549
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That sounds like an amazing job! I love being outdoors. What's your favorite part about it?",
+      "message_global_idx": 551
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I'm a software engineer. I love working on new projects and learning new things.",
+      "message_global_idx": 555
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Oh, that's cool! I love cats!",
+      "message_global_idx": 582
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love adrenaline rushes and pushing myself to the limit, I also like to spend time alone to reflect on my life and what I want to achieve.",
+      "message_global_idx": 596
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Hey, I'm looking for someone to share my love of romantic comedies with.",
+      "message_global_idx": 604
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Those are all great movies! I love them too.",
+      "message_global_idx": 612
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I hope so too. In the meantime, I hope you know that you're not alone. There are plenty of people who love and support you.",
+      "message_global_idx": 628
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That sounds nice. I love fishing too. I'm not very good at it, but I enjoy the peace and quiet of being out on the water.",
+      "message_global_idx": 632
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\bexcited\\b",
+      "evidence_text": "It's going well! I just got a new job in academia and I'm really excited about it.",
+      "message_global_idx": 641
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Thank you! I love music too. I play the piano and I used to take ballet lessons when I was younger.",
+      "message_global_idx": 645
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love to go for walks, play with my parakeet, and watch YouTube videos.",
+      "message_global_idx": 651
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Me too! I love watching tutorials for cooking and dancing.",
+      "message_global_idx": 653
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Me too! I love trying new recipes.",
+      "message_global_idx": 655
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\bexcited\\b",
+      "evidence_text": "I'm doing great! Thanks for asking! I'm just excited to start my senior year of high school next week.",
+      "message_global_idx": 660
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That sounds like a nice way to spend your time. I love reading and writing too. I also enjoy spending time in nature.",
+      "message_global_idx": 664
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Awesome! I love rap music! Who are some of your favorite rappers?",
+      "message_global_idx": 691
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\bexcited\\b",
+      "evidence_text": "I'm doing great! I just got a new teaching job and I'm really excited about it.",
+      "message_global_idx": 727
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\bexcited\\b",
+      "evidence_text": "I'll be teaching kindergarten. I'm really excited to get to know my students and help them learn and grow.",
+      "message_global_idx": 729
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Those are both great breeds! I love golden retrievers.",
+      "message_global_idx": 739
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Those are great cats too! I love their personalities.",
+      "message_global_idx": 743
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I'm glad to hear that you love animals. I think they're so important.",
+      "message_global_idx": 745
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Sushi is delicious! I love trying new foods.",
+      "message_global_idx": 792
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I'm not sure where I want to do my residency. I'm thinking maybe Sweden. I love hockey and I want to be more comfortable in Sweden.",
+      "message_global_idx": 794
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "It is! I've been there a few times and I love it.",
+      "message_global_idx": 796
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That's a great genre! I love rock and roll too.",
+      "message_global_idx": 811
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Hey! I love comic cons too, it's where I can be myself and express my creativity. What's your favorite thing about it?",
+      "message_global_idx": 819
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "California seems like a cool place, I've always wanted to go. I love the music scene there, especially the punk scene.",
+      "message_global_idx": 823
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That's awesome! I love dogs. Do you have a picture of him? I love going to the skatepark too.",
+      "message_global_idx": 825
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Awh, he's so cute! I love his name. I can't skate either, I'm too worried about falling and hurting myself",
+      "message_global_idx": 827
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I am sure you will find something else that you love to do.",
+      "message_global_idx": 840
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Hi there! I'm a food blogger and I love to share my favorite restaurant finds with my readers. What are your favorite restaurants?",
+      "message_global_idx": 844
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love going to new restaurants too! It's so much fun to try new things. I'm not so big on the diner scene, but I know a lot of people who love it.",
+      "message_global_idx": 846
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love to read too! I'm always looking for new books to read. I love to read all kinds of different genres.",
+      "message_global_idx": 854
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Romance is my favorite genre too! I love a good love story",
+      "message_global_idx": 856
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That sounds like a productive day! I love to cook, too. I'm a big fan of greenhouses. I have one in my backyard and I love to spend time tending to my plants.",
+      "message_global_idx": 878
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Those are all great things to do! I love to read as well. What are some of your favorite books?",
+      "message_global_idx": 884
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Me too! I love historical fiction. I'm currently reading a book about the Civil War.",
+      "message_global_idx": 886
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That's okay! I love exploring new places and meeting new people.",
+      "message_global_idx": 906
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\bexcited\\b",
+      "evidence_text": "Me too! I'm excited to get to know you better.",
+      "message_global_idx": 914
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I have a ball python named Oliver. He's a great pet and I love having him around.",
+      "message_global_idx": 917
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "It's definitely not for everyone, but I love it.",
+      "message_global_idx": 931
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love green too! My favorite is a dark forest green. I grew up in a suburb of Boston and my dad used to play Pearl Jam in the car with me.",
+      "message_global_idx": 937
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love to play badminton and watch funny shows. I'm also a student in social sciences and I love to draw comics.",
+      "message_global_idx": 939
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That sounds really cool! I love to hike, do you have any favorite trails?",
+      "message_global_idx": 950
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That sounds like fun! I enjoy playing music as well, and I love to read.",
+      "message_global_idx": 963
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That's great! I love classical music.",
+      "message_global_idx": 967
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love the Beatles, the Rolling Stones, and Led Zeppelin.",
+      "message_global_idx": 969
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That sounds like fun! I'd love to.",
+      "message_global_idx": 977
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love fantasy novels and I also believe in fairytales.",
+      "message_global_idx": 980
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love to go on trips with my family. We are always looking for new places to explore.",
+      "message_global_idx": 994
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That's a great book! I love Fitzgerald's writing style.",
+      "message_global_idx": 1024
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love business. I work as a wedding planner and it's so much fun helping people create their dream weddings.",
+      "message_global_idx": 1058
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love basketball! I play a few times a week with some friends.",
+      "message_global_idx": 1064
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Well, I am sure you will find something you love to do at college.",
+      "message_global_idx": 1066
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love the country! It's so peaceful and quiet.",
+      "message_global_idx": 1080
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That sounds amazing! I love doing that too.",
+      "message_global_idx": 1084
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Nice! I love riding bikes! I have a Toyota Tacoma too.",
+      "message_global_idx": 1089
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I've done a few, they're so fun! I love just driving and seeing the country.",
+      "message_global_idx": 1091
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Aw, that's awesome! I love animals.",
+      "message_global_idx": 1103
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That's great! I love to sing too. Do you have any favorite songs to sing?",
+      "message_global_idx": 1111
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That's a great song! I love to sing it too.",
+      "message_global_idx": 1113
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Hi! I'm not rich, but I love technology and I have a sweet tooth.",
+      "message_global_idx": 1145
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\bexcited\\b",
+      "evidence_text": "I'm sure you could do it if you put your mind to it! I've been working out in my home gym to keep fit, and I'm really excited to start cooking healthy meals.",
+      "message_global_idx": 1149
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I bet! I love Bruno Mars! What's your favorite song by him?",
+      "message_global_idx": 1155
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That's a great song! I love the music video, too.",
+      "message_global_idx": 1157
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Sounds like you have a lot of fun hobbies! I love spending time with my friends and family, too. I also love to cook and work out. I'm not sure if I'll ever get into cosplay, but it sounds like a lot of fun.",
+      "message_global_idx": 1161
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love to cook, listen to music, and spend time with my friends and family.",
+      "message_global_idx": 1218
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I listen to all sorts of music, but I especially love rock, pop, and hip-hop.",
+      "message_global_idx": 1220
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That sounds like a great idea! I'd love to see your animals.",
+      "message_global_idx": 1224
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That sounds like a lot of fun! I love to go hiking, but I'm not so good at fishing.",
+      "message_global_idx": 1243
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I bet. I love my dog so much.",
+      "message_global_idx": 1249
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That's my favorite too! I love making homemade pasta.",
+      "message_global_idx": 1255
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\bexcited\\b",
+      "evidence_text": "I have to go to work but I'm excited because I'm going to be able to play racquetball after work with some friends",
+      "message_global_idx": 1267
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I would love that! We can exchange numbers and figure out a time to meet up.",
+      "message_global_idx": 1277
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love pizza too! It's my favorite food. Do you have any siblings?",
+      "message_global_idx": 1287
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That would be cool! I'm not much of a musician myself, but I love listening to music.",
+      "message_global_idx": 1299
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Those are all great! I love Phoebe Bridgers. I saw her in concert a few months ago and she was amazing.",
+      "message_global_idx": 1305
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Yes, I like to spend time with my nieces and nephews. They are really fun to be around and I love helping them get fit and have fun.",
+      "message_global_idx": 1324
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That sounds like a great hobby! I love gardening too.",
+      "message_global_idx": 1330
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Yes it is! I love seeing my plants grow and thrive.",
+      "message_global_idx": 1332
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Yes it is! I love gardening with my mom.",
+      "message_global_idx": 1336
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I would love to share some of my cooking with you.",
+      "message_global_idx": 1348
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That is a great choice! I love the Renaissance period too.",
+      "message_global_idx": 1375
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love the art and architecture. The Renaissance period was a time of great creativity and innovation.",
+      "message_global_idx": 1377
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love to swim, play in the sand, and eat ice cream.  How about you?",
+      "message_global_idx": 1388
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love building sandcastles too!  I am not very good at them, but I have fun trying.",
+      "message_global_idx": 1390
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love the Lord of the Rings movies too!  They are so good.",
+      "message_global_idx": 1400
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I do both! I love the adrenaline rush.",
+      "message_global_idx": 1409
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love Vail! It's so beautiful and there are so many great runs.",
+      "message_global_idx": 1411
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That's awesome! I love woodworking too. I built a coffee table last year.",
+      "message_global_idx": 1421
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love the Pad Thai and Tom Yum soup.",
+      "message_global_idx": 1448
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love the fall too. My favorite season is duck hunting season because I love spending time with my dad and grandson.",
+      "message_global_idx": 1461
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That's great. I love to exercise too. I try to eat healthy foods and exercise regularly because I want to get in better shape for my girlfriend and baby.",
+      "message_global_idx": 1465
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That sounds great! I love hiking. It's so peaceful and a great way to get some exercise.",
+      "message_global_idx": 1477
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\bexcited\\b",
+      "evidence_text": "Me too! I just graduated college with my bachelor's in education and I'm going to be a teacher. I'm excited to start my new career.",
+      "message_global_idx": 1488
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That's awesome! I love reading books too, and I've always wanted to learn more about India. I've also been trying to get into baking, but I'm not very good at it yet.",
+      "message_global_idx": 1504
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\bexcited\\b",
+      "evidence_text": "I'm excited to hear more about your studies! What are you hoping to do after you graduate?",
+      "message_global_idx": 1510
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love watching music videos and learning about new music. I also like watching comedy videos.",
+      "message_global_idx": 1528
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That sounds awesome! I love to cook as well, but I'm not very good at it.",
+      "message_global_idx": 1541
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Oh that is too bad. What are some of the things you love?",
+      "message_global_idx": 1554
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love playing video games. I am really into the new Call of Duty game.",
+      "message_global_idx": 1558
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I'm a volunteer firefighter and I love to draw and create.",
+      "message_global_idx": 1566
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That's great! I love animals, but I don't have any pets of my own right now.",
+      "message_global_idx": 1570
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Oh nice! I love cooking! What kind of dessert is it?",
+      "message_global_idx": 1581
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That sounds delicious! I love chocolate.",
+      "message_global_idx": 1583
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Oh my gosh, that sounds amazing! I love chocolate chip cookies!",
+      "message_global_idx": 1585
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Hey!  I'm from a small town too, I love the beach.",
+      "message_global_idx": 1591
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love dogs! I have a golden retriever named Luna.",
+      "message_global_idx": 1593
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "They're so cute! I love their fluffy coats.",
+      "message_global_idx": 1599
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I am doing well too! I am a potter, and I love to hide my true self from my parents. What do you like to do?",
+      "message_global_idx": 1618
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That is awesome! I am not a very good cook, but I love to eat.",
+      "message_global_idx": 1622
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I have never been to a big city, but I would love to go. I am more of a country girl.",
+      "message_global_idx": 1624
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I have never played Mortal Kombat, but I love to play video games. My favorite game is Mario Kart.",
+      "message_global_idx": 1626
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I'm sure they love you too.",
+      "message_global_idx": 1642
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I don't believe in love, but I love my job.",
+      "message_global_idx": 1667
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Nice, I love dogs. I have one myself but he's a little old to go to the park anymore.",
+      "message_global_idx": 1678
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love taking pictures of nature. I think it's so beautiful.",
+      "message_global_idx": 1695
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love to spend time with my friends and family. I also like to go out and explore new places.",
+      "message_global_idx": 1697
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love to bake. I would love to learn how to make a cake.",
+      "message_global_idx": 1713
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Oh, those are my favorite! I love to put marshmallows in them.",
+      "message_global_idx": 1715
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\bafraid\\b",
+      "evidence_text": "I've never made bread before. I'm afraid I'd mess it up.",
+      "message_global_idx": 1719
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That's awesome! I love animal welfare too. I have a cat named Seven of Nine.",
+      "message_global_idx": 1732
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "She's very playful and cuddly. I love to play with her.",
+      "message_global_idx": 1734
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That's great! I love running as a way to de-stress.",
+      "message_global_idx": 1738
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "It is! I've been running for years and I love it.",
+      "message_global_idx": 1740
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Those all sound like great hobbies! I love to knit too!",
+      "message_global_idx": 1755
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love to knit sweaters and hats.",
+      "message_global_idx": 1757
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That sounds like a great idea! I'd love to",
+      "message_global_idx": 1765
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That's cool! I love to go fishing too. I have amazing parents who support my every adventure.",
+      "message_global_idx": 1772
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "It's definitely an experience! I'm also a big fan of Broadway show tunes. I love singing them in my spare time.",
+      "message_global_idx": 1787
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That's awesome! I love to cook too. What's your favorite thing to cook?",
+      "message_global_idx": 1804
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That sounds delicious! I love lasagna too.",
+      "message_global_idx": 1806
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Oh cool! I love working on cars. I work on my Ford truck.",
+      "message_global_idx": 1820
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "It is a 2002 Ford F-150. I love the old Mustangs, they are so cool.",
+      "message_global_idx": 1822
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Oh cool! I do not run, but I love archery. I used to do it a lot when I was a kid.",
+      "message_global_idx": 1830
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love golden retrievers! I have a red headed brother and he has had two of them.",
+      "message_global_idx": 1839
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I agree! I love making new friends.",
+      "message_global_idx": 1869
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Me too! I love making smores.",
+      "message_global_idx": 1890
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That's a great idea! I love nature documentaries too.",
+      "message_global_idx": 1921
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That's great! I love short stories too. I think they're a great way to get your point across quickly and effectively.",
+      "message_global_idx": 1937
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Thank you! I love that about writing too. It's so much fun to be able to create anything you can imagine.",
+      "message_global_idx": 1939
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "It really is. I love being able to escape into my own world for a while.",
+      "message_global_idx": 1941
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That's a great way to put it. I love that about writing too.",
+      "message_global_idx": 1943
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "It is. I love being able to connect with people who I might never have met otherwise.",
+      "message_global_idx": 1945
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Me too! That's why I love writing.",
+      "message_global_idx": 1949
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I like to listen to a variety of music. I love music that makes me feel happy and relaxed. I also love music that makes me feel nostalgic.",
+      "message_global_idx": 1957
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love to go to comic cons and dress up with my husband.",
+      "message_global_idx": 1961
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That's a great idea! I love making my own costumes. It's really rewarding to see something you've made come together.",
+      "message_global_idx": 1963
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "Thank you! I try my best! I love being able to express myself through my costumes and it's so much fun to share my love of comics and other fandoms with others.",
+      "message_global_idx": 1967
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I am doing well, thank you for asking. I am working in finance and I love helping people. What about you?",
+      "message_global_idx": 1976
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love it! I get to help people with their finances and it is very rewarding. I also get to work with a great team of people.",
+      "message_global_idx": 1980
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I love to spend time with my family and friends. I also love to help people in need. I am also a big fan of Lindsey Stirling and Fine Frenzy.",
+      "message_global_idx": 1982
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "I would love that! I am free this weekend if you would like to go.",
+      "message_global_idx": 1988
+    },
+    {
+      "category": "emotional_expressiveness",
+      "signal": "\\blove\\b",
+      "evidence_text": "That's awesome! I used to love archery when I was younger.",
+      "message_global_idx": 1995
+    },
+    {
+      "category": "humor",
+      "signal": "\\bfunny\\b",
+      "evidence_text": "That's cool! I'm a barista. I love books, and I like to watch funny and lighthearted shows to relax.",
+      "message_global_idx": 96
+    },
+    {
+      "category": "humor",
+      "signal": "\\bfunny\\b",
+      "evidence_text": "Me too! It's so funny and heartwarming.",
+      "message_global_idx": 721
+    },
+    {
+      "category": "humor",
+      "signal": "\\bfunny\\b",
+      "evidence_text": "I love to play badminton and watch funny shows. I'm also a student in social sciences and I love to draw comics.",
+      "message_global_idx": 939
+    },
+    {
+      "category": "humor",
+      "signal": "\\bfunny\\b",
+      "evidence_text": "It is! They're so cute and funny.",
+      "message_global_idx": 1607
+    }
+  ]
+}

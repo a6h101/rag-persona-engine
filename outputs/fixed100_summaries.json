@@ -1,0 +1,242 @@
+[
+  {
+    "checkpoint_id": "fixed100_00000",
+    "kind": "fixed100",
+    "start_idx": 0,
+    "end_idx": 100,
+    "row_range": [
+      0,
+      6
+    ],
+    "summary": "This conversation block features two users, User 1 and User 2, who discuss various topics including their personal lives, interests, and professions. User 2 is originally from Portland, Oregon, but has moved away; User 1 shares her excitement about moving to Portland for culinary school and discusses favorite places in the city. The conversation also touches on User 1's hobbies as a children's librarian, and User 2's career as a firefighter and passion for archery and singing karaoke. Both users share their personal struggles and aspirations, including User 2's move across the country for work and User 1's single parenthood, but maintain a lighthearted and supportive tone throughout the conversation.",
+    "message_count": 100
+  },
+  {
+    "checkpoint_id": "fixed100_00001",
+    "kind": "fixed100",
+    "start_idx": 100,
+    "end_idx": 200,
+    "row_range": [
+      6,
+      10
+    ],
+    "summary": "This conversation segment features a budding online friendship between two individuals who share common interests and hobbies. They discuss topics such as books, music, gardening, fitness, cooking, and family life, establishing a sense of rapport and shared enthusiasm. The conversation also touches on their personal lives, including work, pets, and travel plans, showcasing their personalities and values.",
+    "message_count": 100
+  },
+  {
+    "checkpoint_id": "fixed100_00002",
+    "kind": "fixed100",
+    "start_idx": 200,
+    "end_idx": 300,
+    "row_range": [
+      10,
+      16
+    ],
+    "summary": "This conversation segment revolves around the interests and hobbies of User 1 (the one facilitating the chat) and User 2. They discuss their passions, including photography, music, dancing, cleaning houses for extra income, reading Jane Austen novels, singing in choir, creating murals, sharks, fishing, and learning new skills like welding through YouTube videos. The conversation also touches on their personal lives, relationships with family and friends, jobs (User 1 is a teacher and User 2 an EMT), and the importance of finding fulfilling activities that bring joy and purpose to one's life.",
+    "message_count": 100
+  },
+  {
+    "checkpoint_id": "fixed100_00003",
+    "kind": "fixed100",
+    "start_idx": 300,
+    "end_idx": 400,
+    "row_range": [
+      16,
+      23
+    ],
+    "summary": "A conversation between a circus juggler from the Midwest and a writer from an unspecified location covers various topics. The writer recommends hummus and pita bread to the juggler, who expresses interest in trying it. They discuss their respective jobs and hobbies, with the juggler admiring the writer's work as a personal trainer and the writer appreciating the juggler's skill with objects. Both share stories about their pets, including dogs and horses, and discover common interests such as scuba diving and enjoying fall seasons. The conversation concludes with plans to meet up and explore new activities together.",
+    "message_count": 100
+  },
+  {
+    "checkpoint_id": "fixed100_00004",
+    "kind": "fixed100",
+    "start_idx": 400,
+    "end_idx": 500,
+    "row_range": [
+      23,
+      27
+    ],
+    "summary": "This conversation segment discusses shared interests between two individuals, including a love for watching old movies, traveling, playing video games, cooking, going for walks, and reading. They also reveal common tastes in music, favorite books by authors such as Stephen King and Jane Austen, and hobbies like fishing and hiking. The discussion highlights their enthusiasm for various activities and provides insight into their personalities and interests.",
+    "message_count": 100
+  },
+  {
+    "checkpoint_id": "fixed100_00005",
+    "kind": "fixed100",
+    "start_idx": 500,
+    "end_idx": 600,
+    "row_range": [
+      28,
+      33
+    ],
+    "summary": "This conversation segment begins with an introduction by User 1, who expresses their desire for a chef to cook for them due to diet restrictions. User 2, a professional chef, shares their own passion for cooking and responds positively to User 1's enthusiasm. They engage in a lighthearted discussion about food preferences, including Italian cuisine and dogs as companions. The conversation also touches on work-life balance, hobbies (cooking, driving fast cars), and personal interests (gardening, music). User 2 shares their profession as a park ranger and User 1 reveals they are a software engineer and aspiring male model.",
+    "message_count": 100
+  },
+  {
+    "checkpoint_id": "fixed100_00006",
+    "kind": "fixed100",
+    "start_idx": 600,
+    "end_idx": 700,
+    "row_range": [
+      33,
+      39
+    ],
+    "summary": "This conversation segment revolves around a user who is looking for a cozy home, shares their love of romantic comedies, and enjoys fishing, reading, writing, and spending time in nature. They are also a musician and a fan of Bollywood movies. The conversation shifts to discussing personal struggles with the user's sexual orientation, but ultimately ends on a positive note with discussions about shared interests, including music, food, and hobbies like 3D modeling and rap battles.",
+    "message_count": 100
+  },
+  {
+    "checkpoint_id": "fixed100_00007",
+    "kind": "fixed100",
+    "start_idx": 700,
+    "end_idx": 800,
+    "row_range": [
+      39,
+      45
+    ],
+    "summary": "This conversation segment revolves around a casual discussion between two strangers who strike up a conversation about their shared interests and experiences. They bond over food (sour cream and salsa on tacos and burritos), hobbies (running, reading, watching movies), and work-life balance (User 1 teaches kindergarten and User 2 works at a coffee shop). The conversation takes an unexpected turn when User 2 reveals that they claim their car is sentient, but User 1 remains skeptical. They also discuss their respective careers (software engineering and police officer), hobbies (building things and trying new restaurants), and shared interests in music and historical fiction. The conversation concludes with a friendly exchange of pleasantries and mutual respect for each other's pursuits.",
+    "message_count": 100
+  },
+  {
+    "checkpoint_id": "fixed100_00008",
+    "kind": "fixed100",
+    "start_idx": 800,
+    "end_idx": 900,
+    "row_range": [
+      45,
+      51
+    ],
+    "summary": "Here is a concise summary of the conversation:\n\nThe user had a chat with someone about their interests, hobbies, and life experiences. They discussed their love for music (rock and roll, Nirvana), playing guitar, collecting seashells, comic cons, reading (historical fiction and romance), cooking, and spending time with family. The conversation also touched on personal topics such as health issues (being forced to quit a teaching job due to illness) and mistakes made in the past (starting a forest fire). Both parties shared their passions and interests, including sharing favorite books, restaurants, and creative endeavors like playing guitar and producing music.",
+    "message_count": 100
+  },
+  {
+    "checkpoint_id": "fixed100_00009",
+    "kind": "fixed100",
+    "start_idx": 900,
+    "end_idx": 1000,
+    "row_range": [
+      51,
+      58
+    ],
+    "summary": "This conversation segment begins with two acquaintances, User 1 and User 2, bonding over their shared desire to make new friends in the area. They discuss various hobbies and interests, including walking, exploring, playing badminton, drawing comics, and hiking. User 1 also shares about her family life as a stay-at-home mom with three kids, while User 2 opens up about her broken leg and her passion for lifestyle blogging, music, and spending time with loved ones. The conversation is filled with positivity, support, and mutual interest, suggesting a strong foundation for a potential friendship between the two users.",
+    "message_count": 100
+  },
+  {
+    "checkpoint_id": "fixed100_00010",
+    "kind": "fixed100",
+    "start_idx": 1000,
+    "end_idx": 1100,
+    "row_range": [
+      58,
+      64
+    ],
+    "summary": "This conversation segment started with two users, Hannah and [user 1's name], forming a connection over their shared desire for friendship. They discovered common interests in reading, walking, and spending time with family, leading to an exchange of contact information and the start of a new friendship. As they continued to chat, both women opened up about their personal lives, including struggles with job satisfaction and feelings of loneliness, as well as their passions for nature and creative pursuits. The conversation ended on a positive note, with both users expressing excitement for meeting each other again.",
+    "message_count": 100
+  },
+  {
+    "checkpoint_id": "fixed100_00011",
+    "kind": "fixed100",
+    "start_idx": 1100,
+    "end_idx": 1200,
+    "row_range": [
+      64,
+      68
+    ],
+    "summary": "This conversation segment features a friendly exchange between two individuals who discover they share common interests and passions. They discuss their hobbies, careers, and values, including a shared love for music, animals, and fitness. The conversation also touches on their personal goals and aspirations, with one person expressing interest in becoming a veterinarian and the other sharing their passion for science and cooking. The discussion remains light-hearted and casual, showcasing their positive and supportive dynamic.",
+    "message_count": 100
+  },
+  {
+    "checkpoint_id": "fixed100_00012",
+    "kind": "fixed100",
+    "start_idx": 1200,
+    "end_idx": 1300,
+    "row_range": [
+      68,
+      75
+    ],
+    "summary": "This conversation segment introduces two individuals who form a connection over shared interests and hobbies. They discuss their favorite activities, such as reading, cooking, playing guitar, rollerblading, and hiking, as well as their passions for history, music, and nature. The two also discover they share similar preferences for rock, pop, and country music, and exchange recommendations for books, food, and other fun activities.",
+    "message_count": 100
+  },
+  {
+    "checkpoint_id": "fixed100_00013",
+    "kind": "fixed100",
+    "start_idx": 1300,
+    "end_idx": 1400,
+    "row_range": [
+      75,
+      80
+    ],
+    "summary": "This conversation block highlights the shared interests and hobbies between two users, including music (indie and rock) and gardening. They also discuss their personal lives, such as family and work, and share experiences related to their passions, like cooking, travel, and exploring historical periods. The discussion also touches on accessibility and challenges faced by individuals with disabilities, including the user who is blind. The conversation concludes with a casual exchange of thoughts and plans for future activities, showcasing a friendly and supportive online community.",
+    "message_count": 100
+  },
+  {
+    "checkpoint_id": "fixed100_00014",
+    "kind": "fixed100",
+    "start_idx": 1400,
+    "end_idx": 1500,
+    "row_range": [
+      80,
+      86
+    ],
+    "summary": "This conversation segment reveals a shared passion for the Lord of the Rings movies between User 1 and User 2, who discover they have many common interests, including skiing, music (The Avett Brothers), woodworking, volunteering, exercise, and outdoor activities. They also exchange information about their personal lives, such as their jobs (User 2 teaches, User 1 is a teacher-elect) and hobbies (drawing, dancing, making stew). The conversation ends on a friendly note with User 2 offering words of encouragement to User 1's new career as a teacher.",
+    "message_count": 100
+  },
+  {
+    "checkpoint_id": "fixed100_00015",
+    "kind": "fixed100",
+    "start_idx": 1500,
+    "end_idx": 1600,
+    "row_range": [
+      86,
+      93
+    ],
+    "summary": "This conversation block features two individuals from different backgrounds and interests who engage in a casual and friendly discussion. User 1 is a software engineer with hobbies in reading, video games, and baking, while User 2 is a university student majoring in Economics and minoring in Public Policy, who enjoys reading books about India, baking cupcakes, and wearing sustainable clothing. They bond over their shared interests in reading, cooking, and trying new things, and also discuss their passions and goals, including pursuing careers in fields that align with their values. The conversation is characterized by a lighthearted and open-minded tone, showcasing the ease of connection between two people from different walks of life.",
+    "message_count": 100
+  },
+  {
+    "checkpoint_id": "fixed100_00016",
+    "kind": "fixed100",
+    "start_idx": 1600,
+    "end_idx": 1700,
+    "row_range": [
+      93,
+      98
+    ],
+    "summary": "This conversation revolves around the common interests and passions of the two individuals, including their careers as a dancer, teacher, potter, writer, artist, blogger, accountant, and their hobbies such as playing video games, reading, cooking, yoga, photography, and spending time with family and friends. They also share personal stories about their pets, relationships, and life experiences.",
+    "message_count": 100
+  },
+  {
+    "checkpoint_id": "fixed100_00017",
+    "kind": "fixed100",
+    "start_idx": 1700,
+    "end_idx": 1800,
+    "row_range": [
+      98,
+      104
+    ],
+    "summary": "This conversation segment revolves around a discussion between two individuals who share common interests in reading, learning new things, baking, and relaxation. They exchange stories about their hobbies, work, and personal lives, forming a connection over their shared passions. The conversation also touches on topics such as pet ownership (one has a cat named Seven of Nine), outdoor activities (they both enjoy kayaking and spending time by the water), and socializing, including plans to meet up for a kayaking trip or a chai tea party.",
+    "message_count": 100
+  },
+  {
+    "checkpoint_id": "fixed100_00018",
+    "kind": "fixed100",
+    "start_idx": 1800,
+    "end_idx": 1900,
+    "row_range": [
+      104,
+      109
+    ],
+    "summary": "This conversation block revolves around User 2's (Dave) life, interests, and relationships. He shares his enthusiasm for cooking, archery, and working on cars, as well as his love for his dog, who has since passed away. The conversation also delves into Dave's hobbies, such as running and sewing, and his desire to learn new skills like archery. The two users bond over their shared interests and values, including a passion for helping others and making a positive impact on their community. They also discuss plans to go bike riding together, further solidifying their newfound friendship.",
+    "message_count": 100
+  },
+  {
+    "checkpoint_id": "fixed100_00019",
+    "kind": "fixed100",
+    "start_idx": 1900,
+    "end_idx": 2000,
+    "row_range": [
+      109,
+      116
+    ],
+    "summary": "Here is a concise summary of the conversation:\n\nTwo individuals with similar interests in music and art discuss their hobbies and passions. They share their love for nature documentaries, hiking, swimming, and relaxing activities like listening to music. Both users enjoy writing and express themselves creatively, with one user being a writer and the other a short story writer. They also bond over their shared enthusiasm for comic cons, cosplay, and fan culture. The conversation touches on topics such as balancing work and personal life, stress management, and making time for family and friends.",
+    "message_count": 100
+  }
+]
