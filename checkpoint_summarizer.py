@@ -47,7 +47,9 @@ def _format_segment_text(segment: Segment) -> str:
 
 
 def _call_ollama(prompt: str) -> str:
-    
+    print("CALLING GROQ...")
+    print("URL =", GROQ_URL)
+
     resp = requests.post(
         GROQ_URL,
         headers={
@@ -61,9 +63,12 @@ def _call_ollama(prompt: str) -> str:
         timeout=30,
         allow_redirects=False
     )
-    print("Status:", resp.status_code)
-    print("Response:", resp.text)
+
+    print("STATUS =", resp.status_code)
+    print("BODY =", resp.text)
+
     resp.raise_for_status()
+
     return resp.json()["choices"][0]["message"]["content"].strip()
 
 
