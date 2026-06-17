@@ -2,9 +2,8 @@
 checkpoint_summarizer.py
 
 Summarizes each Segment (from topic_segmenter.py) into a short text
-summary using a LOCAL Ollama model (llama3.2). No external API calls,
-satisfying the "do not rely completely on ChatGPT or external APIs"
-constraint.
+summary using Groq API (llama3-8b-8192). Set GROQ_API_KEY env var
+before running. Falls back to extractive summary if Groq is unreachable.
 
 Each summary is stored alongside its segment metadata (start/end idx,
 kind, row range) so retrieval can cite which messages it came from.
@@ -17,9 +16,13 @@ from typing import List
 
 from topic_segmenter import Segment
 
-OLLAMA_URL = "http://localhost:11434/api/generate"
-OLLAMA_MODEL = "llama3.2"
-
+# OLLAMA_URL = "http://localhost:11434/api/generate"
+# OLLAMA_MODEL = "llama3.2"
+# changing from llama to groq for cloud deployment
+import os
+GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
+GROQ_MODEL = "llama3-8b-8192"
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
 @dataclass
 class CheckpointSummary:
@@ -37,16 +40,20 @@ def _format_segment_text(segment: Segment) -> str:
     return "\n".join(lines)
 
 
-def _call_ollama(prompt: str, model: str = OLLAMA_MODEL) -> str:
-    """Call local Ollama generate endpoint. Raises on failure."""
+# ADD this instead:
+def _call_ollama(prompt: str) -> str:
+    """Call Groq API (keeping function name so other files don't need changes)."""
     resp = requests.post(
-        OLLAMA_URL,
-        json={"model": model, "prompt": prompt, "stream": False},
-        timeout=120,
+        GROQ_URL,
+        headers={"Authorization": f"Bearer {GROQ_API_KEY}"},
+        json={
+            "model": GROQ_MODEL,
+            "messages": [{"role": "user", "content": prompt}]
+        },
+        timeout=30,
     )
     resp.raise_for_status()
-    data = resp.json()
-    return data.get("response", "").strip()
+    return resp.json()["choices"][0]["message"]["content"].strip()
 
 
 def summarize_segment(segment: Segment, idx_in_kind: int) -> CheckpointSummary:
@@ -66,11 +73,10 @@ def summarize_segment(segment: Segment, idx_in_kind: int) -> CheckpointSummary:
 
     try:
         summary_text = _call_ollama(prompt)
+    # ADD:
     except requests.exceptions.RequestException as e:
-        # Fallback: extractive summary if Ollama isn't reachable, so the
-        # pipeline degrades gracefully instead of crashing.
         summary_text = (
-            "[Ollama unavailable — extractive fallback] "
+            "[Groq unavailable — extractive fallback] "
             + " / ".join(m.text for m in segment.messages[:3])
         )
 
