@@ -42,6 +42,7 @@ def _format_segment_text(segment: Segment) -> str:
 
 
 def _call_ollama(prompt: str) -> str:
+    print("GROQ_API_KEY =", GROQ_API_KEY)
     resp = requests.post(
         GROQ_URL,
         headers={
