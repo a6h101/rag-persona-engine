@@ -1,0 +1,38 @@
+[
+  {
+    "checkpoint_id": "fixed100_00000",
+    "kind": "fixed100",
+    "start_idx": 0,
+    "end_idx": 100,
+    "row_range": [
+      0,
+      6
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] Hi! How are you? / Good, thanks for asking! How about yourself? / I'm doing pretty well.  I'm excited to be moving to a new city soon!",
+    "message_count": 100
+  },
+  {
+    "checkpoint_id": "fixed100_00001",
+    "kind": "fixed100",
+    "start_idx": 100,
+    "end_idx": 200,
+    "row_range": [
+      6,
+      10
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] I've heard good things about that book! I'll have to check it out. / It's a great book! I hope you enjoy it. / Hi there, how are you today?",
+    "message_count": 100
+  },
+  {
+    "checkpoint_id": "fixed100_00002",
+    "kind": "fixed100",
+    "start_idx": 200,
+    "end_idx": 300,
+    "row_range": [
+      10,
+      16
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] It's so much fun! You should definitely try it. / Maybe I will / hey what's up",
+    "message_count": 100
+  }
+]

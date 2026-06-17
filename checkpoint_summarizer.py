@@ -20,9 +20,14 @@ from topic_segmenter import Segment
 # OLLAMA_MODEL = "llama3.2"
 # changing from llama to groq for cloud deployment
 import os
+
+import streamlit as st
+
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
-GROQ_MODEL = "llama3-8b-8192"
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+
+GROQ_MODEL = "llama-3.1-8b-instant"
+
+GROQ_API_KEY = st.secrets["GROQ_API_KEY"]
 
 @dataclass
 class CheckpointSummary:
@@ -42,7 +47,7 @@ def _format_segment_text(segment: Segment) -> str:
 
 
 def _call_ollama(prompt: str) -> str:
-    print("GROQ_API_KEY =", GROQ_API_KEY)
+    
     resp = requests.post(
         GROQ_URL,
         headers={
@@ -56,6 +61,8 @@ def _call_ollama(prompt: str) -> str:
         timeout=30,
         allow_redirects=False
     )
+    print("Status:", resp.status_code)
+    print("Response:", resp.text)
     resp.raise_for_status()
     return resp.json()["choices"][0]["message"]["content"].strip()
 

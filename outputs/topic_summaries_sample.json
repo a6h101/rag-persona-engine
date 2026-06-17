@@ -1,0 +1,674 @@
+[
+  {
+    "checkpoint_id": "topic_00000",
+    "kind": "topic",
+    "start_idx": 0,
+    "end_idx": 9,
+    "row_range": [
+      0,
+      0
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] Hi! How are you? / Good, thanks for asking! How about yourself? / I'm doing pretty well.  I'm excited to be moving to a new city soon!",
+    "message_count": 9
+  },
+  {
+    "checkpoint_id": "topic_00001",
+    "kind": "topic",
+    "start_idx": 9,
+    "end_idx": 14,
+    "row_range": [
+      0,
+      0
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] Yes, I love going to Powell's Books.  It's the largest independent bookstore in the world. / That sounds amazing!  I've never been to Powell's Books before.  I'm definitely going to have to check it out. / You definitely should!  It's a really cool place.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00002",
+    "kind": "topic",
+    "start_idx": 14,
+    "end_idx": 19,
+    "row_range": [
+      1,
+      1
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] Hey how are you doing? / Doing well, how about yourself? / I'm doing great! I'm a fulltime student studying radiology at a local college and I also play in a band that my parents don't know about.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00003",
+    "kind": "topic",
+    "start_idx": 19,
+    "end_idx": 24,
+    "row_range": [
+      1,
+      1
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] It's really great for stress relief and it's a great way to get in shape. / I'll have to try it sometime! What about your Impala? / It's a 1964 Impala and it's in pretty good condition, but it needs a new paint job. I'm going to start working on that this weekend.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00004",
+    "kind": "topic",
+    "start_idx": 24,
+    "end_idx": 29,
+    "row_range": [
+      1,
+      2
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] I'm sure it will be! / So what's your favorite thing about being a student? / I love the freedom of being able to learn whatever I want.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00005",
+    "kind": "topic",
+    "start_idx": 29,
+    "end_idx": 34,
+    "row_range": [
+      2,
+      2
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] Hi there, I am doing well, thanks! How about you? / I'm doing well, thanks for asking. What kind of things do you enjoy doing? / I enjoy reading, cooking, and spending time with my family.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00006",
+    "kind": "topic",
+    "start_idx": 34,
+    "end_idx": 39,
+    "row_range": [
+      2,
+      2
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] Oh, those both sound delicious! I love chicken parmesan too. / Do you have any pets? / I have a dog and a cat. They are my best friends.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00007",
+    "kind": "topic",
+    "start_idx": 39,
+    "end_idx": 44,
+    "row_range": [
+      2,
+      2
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] They are. I miss him every day. / I'm sure he misses you too. / I know he does.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00008",
+    "kind": "topic",
+    "start_idx": 44,
+    "end_idx": 50,
+    "row_range": [
+      3,
+      3
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] hi there! / Hey! How's your day? / Pretty good so far! Just got back from a hike.",
+    "message_count": 6
+  },
+  {
+    "checkpoint_id": "topic_00009",
+    "kind": "topic",
+    "start_idx": 50,
+    "end_idx": 60,
+    "row_range": [
+      3,
+      3
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] You should definitely go! It's one of the most beautiful places I've ever been. / I'll have to add it to my list! / You won't regret it!",
+    "message_count": 10
+  },
+  {
+    "checkpoint_id": "topic_00010",
+    "kind": "topic",
+    "start_idx": 60,
+    "end_idx": 65,
+    "row_range": [
+      4,
+      4
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] How is your day going? / Great! I am in the process of moving across the country for my new job as a firefighter. / Wow, that is really exciting! I am always impressed by firefighters.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00011",
+    "kind": "topic",
+    "start_idx": 65,
+    "end_idx": 72,
+    "row_range": [
+      4,
+      4
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] I hope so! I am trying to stay positive and look forward to the future. / That is the best way to be. I am sure you will do great things. / Thanks, I appreciate that.",
+    "message_count": 7
+  },
+  {
+    "checkpoint_id": "topic_00012",
+    "kind": "topic",
+    "start_idx": 72,
+    "end_idx": 78,
+    "row_range": [
+      5,
+      5
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] Hey there how are you? / Good! How are you? / I'm doing well! What do you do for fun?",
+    "message_count": 6
+  },
+  {
+    "checkpoint_id": "topic_00013",
+    "kind": "topic",
+    "start_idx": 78,
+    "end_idx": 83,
+    "row_range": [
+      5,
+      5
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] It's never too late to learn! I started when I was in high school. / I know, I just don't have the time. I'm a single mom and I work full time. / I understand that. I'm also a single parent, but I'm lucky enough to have a great support system.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00014",
+    "kind": "topic",
+    "start_idx": 83,
+    "end_idx": 88,
+    "row_range": [
+      5,
+      5
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] So, what's your favorite thing to do with your kids? / I love to take them to the park and play soccer with them. They're both really good at soccer. / That's awesome! I wish my kids were into sports.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00015",
+    "kind": "topic",
+    "start_idx": 88,
+    "end_idx": 93,
+    "row_range": [
+      5,
+      6
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] I'm a software engineer. / Oh, that's cool! I'm a nurse. / That's great! I'm sure you're a great nurse.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00016",
+    "kind": "topic",
+    "start_idx": 93,
+    "end_idx": 98,
+    "row_range": [
+      6,
+      6
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] I loved trying the local food! I also went to a metal show for my birthday. / That sounds fun! I love trying new foods too. I'm not good at keeping up with my family, but I'm trying to be better. / I used to wear a lot of black, but I'm trying to wear more colors. I'm single and live with my three cats.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00017",
+    "kind": "topic",
+    "start_idx": 98,
+    "end_idx": 103,
+    "row_range": [
+      6,
+      7
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] What's your favorite book? / I have a few favorites, but one of my favorites is The Name of the Wind by Patrick Rothfuss. / I've heard good things about that book! I'll have to check it out.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00018",
+    "kind": "topic",
+    "start_idx": 103,
+    "end_idx": 108,
+    "row_range": [
+      7,
+      7
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] I'm doing well! How about you? / I'm doing well too, thanks for asking. What are some of your hobbies? / I enjoy gardening, listening to the Beatles, and spending time with my pets.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00019",
+    "kind": "topic",
+    "start_idx": 108,
+    "end_idx": 113,
+    "row_range": [
+      7,
+      7
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] Wow, that sounds amazing! I wish I had a green thumb like you. / Thanks! It's not so hard, just takes a little time and patience. / I'm sure it does. I'll have to give it a try sometime.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00020",
+    "kind": "topic",
+    "start_idx": 113,
+    "end_idx": 118,
+    "row_range": [
+      7,
+      7
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] No problem! What else do you like to do for fun? / I also enjoy listening to music, watching movies, and reading. / That sounds great! I love all of those things too.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00021",
+    "kind": "topic",
+    "start_idx": 118,
+    "end_idx": 123,
+    "row_range": [
+      7,
+      8
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] That would be great! I'd love to meet you in person. / Me too! We can exchange contact information and make plans. / Sounds good",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00022",
+    "kind": "topic",
+    "start_idx": 123,
+    "end_idx": 128,
+    "row_range": [
+      8,
+      8
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] How are you doing today? / I'm doing well, thanks for asking! Just got home from a long day at work. How about you? / I'm doing alright. I'm trying to keep up with my studies while also taking care of my dog. It's a lot of work, but I'm managing.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00023",
+    "kind": "topic",
+    "start_idx": 128,
+    "end_idx": 133,
+    "row_range": [
+      8,
+      8
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] Me too! What are you studying? / I'm studying computer science. I'm hoping to get a job as a programmer after I graduate. / Oh, that's cool! I was a computer programmer before I started my own business.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00024",
+    "kind": "topic",
+    "start_idx": 133,
+    "end_idx": 138,
+    "row_range": [
+      8,
+      8
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] That's awesome! I'm trying to do the same thing, but I'm not as disciplined as you are. / It's not easy, but it's worth it! / I'm sure it is. I'm glad you're happy with your life.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00025",
+    "kind": "topic",
+    "start_idx": 138,
+    "end_idx": 144,
+    "row_range": [
+      8,
+      9
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] Thanks / Hi there! / Hello!",
+    "message_count": 6
+  },
+  {
+    "checkpoint_id": "topic_00026",
+    "kind": "topic",
+    "start_idx": 144,
+    "end_idx": 150,
+    "row_range": [
+      9,
+      9
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] Oh, that sounds wonderful! What did you make? / I made a lasagna. It's one of my favorite dishes to cook. / Lasagna is delicious! I'm not a very good cook, but I love to eat lasagna.",
+    "message_count": 6
+  },
+  {
+    "checkpoint_id": "topic_00027",
+    "kind": "topic",
+    "start_idx": 150,
+    "end_idx": 155,
+    "row_range": [
+      9,
+      9
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] Thanks for the suggestion! I'll have to look into it. / No problem! / So, what do you do for a living?",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00028",
+    "kind": "topic",
+    "start_idx": 155,
+    "end_idx": 161,
+    "row_range": [
+      9,
+      9
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] It can be, but it's also very rewarding. I love being able to spend time with my kids and help them learn and grow. / That's great! I'm sure your kids are very lucky to have you. / Thank you! I think so, too.",
+    "message_count": 6
+  },
+  {
+    "checkpoint_id": "topic_00029",
+    "kind": "topic",
+    "start_idx": 161,
+    "end_idx": 166,
+    "row_range": [
+      9,
+      9
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] What are some of your favorite books? / I love to read all sorts of books, but I'm especially a fan of historical fiction and fantasy. / I love historical fiction, too! I've been reading a lot of historical romance novels lately.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00030",
+    "kind": "topic",
+    "start_idx": 166,
+    "end_idx": 173,
+    "row_range": [
+      9,
+      9
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] I agree! It's like taking a mini-vacation without having to leave your house. / Exactly! I love it. / So, what are some of your favorite historical romance novels?",
+    "message_count": 7
+  },
+  {
+    "checkpoint_id": "topic_00031",
+    "kind": "topic",
+    "start_idx": 173,
+    "end_idx": 179,
+    "row_range": [
+      9,
+      9
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] Me neither! / So, what else do you like to do for fun? / I love to go on hikes with my family.",
+    "message_count": 6
+  },
+  {
+    "checkpoint_id": "topic_00032",
+    "kind": "topic",
+    "start_idx": 179,
+    "end_idx": 184,
+    "row_range": [
+      9,
+      9
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] You should come visit us sometime! We'd love to show you around. / I'd love to! That sounds like a lot of fun. / Great! We'd love to have you.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00033",
+    "kind": "topic",
+    "start_idx": 184,
+    "end_idx": 189,
+    "row_range": [
+      10,
+      10
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] Hi, I'm looking for someone to talk to. What do you enjoy doing? / I'm a fisherman and I love spending time with my dog. / That's so cool! I also love animals. I have a cat and a dog.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00034",
+    "kind": "topic",
+    "start_idx": 189,
+    "end_idx": 194,
+    "row_range": [
+      10,
+      10
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] Do they get along well? / Yes, they're best friends. / That's so cute! I'm jealous.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00035",
+    "kind": "topic",
+    "start_idx": 194,
+    "end_idx": 201,
+    "row_range": [
+      10,
+      10
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] That sounds really nice. I've never been fishing before. / You should try it sometime! It's a lot of fun. / Maybe I will! Thanks for the suggestion.",
+    "message_count": 7
+  },
+  {
+    "checkpoint_id": "topic_00036",
+    "kind": "topic",
+    "start_idx": 201,
+    "end_idx": 206,
+    "row_range": [
+      10,
+      11
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] Maybe I will / hey what's up / Not much, just finished a photoshoot with my dad",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00037",
+    "kind": "topic",
+    "start_idx": 206,
+    "end_idx": 211,
+    "row_range": [
+      11,
+      11
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] Oh cool, that's a great hobby to have / Thanks! I've been doing it since I was a kid / Wow that's awesome",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00038",
+    "kind": "topic",
+    "start_idx": 211,
+    "end_idx": 216,
+    "row_range": [
+      11,
+      11
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] Thanks! I'm still learning, but I'm getting better every day / That's great! You should keep up the good work / Thanks! I will",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00039",
+    "kind": "topic",
+    "start_idx": 216,
+    "end_idx": 221,
+    "row_range": [
+      11,
+      12
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] That would be awesome! I'm sure you'd be great at it / Thanks! I hope so / Well, I gotta go now. It was nice talking to you",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00040",
+    "kind": "topic",
+    "start_idx": 221,
+    "end_idx": 226,
+    "row_range": [
+      12,
+      12
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] I love to dance! Dancing is a great way to stay fit and have fun. I especially love to dance to upbeat music. / I know! Dancing is so much fun. I love to dance with my kids. It's a great way to bond with them and have some fun. / That's great! I'm glad you have such a great relationship with your kids.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00041",
+    "kind": "topic",
+    "start_idx": 226,
+    "end_idx": 231,
+    "row_range": [
+      12,
+      12
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] That's great! I'm glad you're able to find a way to make extra money. / Thanks! I try to stay in touch with my family as often as I can. I love to hear about what's going on in their lives. / That's important! I'm glad you make time for your family.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00042",
+    "kind": "topic",
+    "start_idx": 231,
+    "end_idx": 236,
+    "row_range": [
+      12,
+      13
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] I've never read any of her novels, but I've heard good things about them. / I highly recommend them! They're a great way to relax and enjoy a good story. / How's it going?",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00043",
+    "kind": "topic",
+    "start_idx": 236,
+    "end_idx": 241,
+    "row_range": [
+      13,
+      13
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] I sing! I've been singing since I was a kid. / Oh wow, that's awesome! I used to sing in choir, but I haven't in a long time. / You should start again! It's so much fun.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00044",
+    "kind": "topic",
+    "start_idx": 241,
+    "end_idx": 246,
+    "row_range": [
+      13,
+      13
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] They sure are! But they're also the best thing that's ever happened to me. / That's so sweet! I'm not close with my family, so I'm kind of jealous. / I'm sorry to hear that. My family is everything to me.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00045",
+    "kind": "topic",
+    "start_idx": 246,
+    "end_idx": 251,
+    "row_range": [
+      13,
+      14
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] I know, I know. I'm working on it! / Good! Keep me updated! / Hi, how are you?",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00046",
+    "kind": "topic",
+    "start_idx": 251,
+    "end_idx": 256,
+    "row_range": [
+      14,
+      14
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] I am a muralist. I create murals for businesses and individuals. / That's so cool! I love murals. What's your favorite thing about your job? / I love getting to create something that will be enjoyed by the public. It's a lot of fun to see people's reactions to my work.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00047",
+    "kind": "topic",
+    "start_idx": 256,
+    "end_idx": 261,
+    "row_range": [
+      14,
+      14
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] What's the most challenging part of your job? / The most challenging part is coming up with the concept for the mural. I want it to be something that's meaningful and visually appealing. / That makes sense. I can imagine it would be difficult to come up with a concept that everyone will like.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00048",
+    "kind": "topic",
+    "start_idx": 261,
+    "end_idx": 266,
+    "row_range": [
+      14,
+      15
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] Thanks! I'm very lucky to have a job that I love / What is your favorite animal? / Sharks! I love the way they swim.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00049",
+    "kind": "topic",
+    "start_idx": 266,
+    "end_idx": 271,
+    "row_range": [
+      15,
+      15
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] No, I have not! I have always wanted to go though. / It is amazing! They have a huge shark tank. / I bet it is! I really want to go now.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00050",
+    "kind": "topic",
+    "start_idx": 271,
+    "end_idx": 276,
+    "row_range": [
+      15,
+      15
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] Do you have any siblings? / I have a brother and a sister. / I am not very close to my family, but I am working on it.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00051",
+    "kind": "topic",
+    "start_idx": 276,
+    "end_idx": 281,
+    "row_range": [
+      15,
+      15
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] Me too! I am lucky to have them. / What do you do for a living? / I am a teacher.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00052",
+    "kind": "topic",
+    "start_idx": 281,
+    "end_idx": 286,
+    "row_range": [
+      15,
+      15
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] I think it would be really fun. / It is! I get to make a difference in kids' lives. / That is awesome! I am glad you enjoy your job.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00053",
+    "kind": "topic",
+    "start_idx": 286,
+    "end_idx": 291,
+    "row_range": [
+      16,
+      16
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] Hi there, how are you doing? / I am doing well, thanks for asking. How are you? / I am doing well. I have been working as an online tutor for a while now and I really enjoy it.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00054",
+    "kind": "topic",
+    "start_idx": 291,
+    "end_idx": 296,
+    "row_range": [
+      16,
+      16
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] That sounds really rewarding. I am an EMT and I love helping people, but I am also worried that I won't be able to help my patients as well as I want to. / I am sure you are doing a great job! You are helping people every day and that is amazing. / Thanks for the encouragement. I have had to rescue people who were caught in riptides and it is scary, but it is also rewarding.",
+    "message_count": 5
+  },
+  {
+    "checkpoint_id": "topic_00055",
+    "kind": "topic",
+    "start_idx": 296,
+    "end_idx": 300,
+    "row_range": [
+      16,
+      16
+    ],
+    "summary": "[Groq unavailable \u2014 extractive fallback] I am glad to hear that. What else do you like to do for fun? / I like to go fishing with my uncle and reminisce about the old days. I also like to watch YouTube videos about welding and learn new things. / That sounds like a lot of fun. I have always wanted to learn how to weld.",
+    "message_count": 4
+  }
+]
