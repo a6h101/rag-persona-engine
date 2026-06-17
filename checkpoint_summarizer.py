@@ -40,17 +40,20 @@ def _format_segment_text(segment: Segment) -> str:
     return "\n".join(lines)
 
 
-# ADD this instead:
+
 def _call_ollama(prompt: str) -> str:
-    """Call Groq API (keeping function name so other files don't need changes)."""
     resp = requests.post(
         GROQ_URL,
-        headers={"Authorization": f"Bearer {GROQ_API_KEY}"},
+        headers={
+            "Authorization": f"Bearer {GROQ_API_KEY}",
+            "Content-Type": "application/json"
+        },
         json={
             "model": GROQ_MODEL,
             "messages": [{"role": "user", "content": prompt}]
         },
         timeout=30,
+        allow_redirects=False
     )
     resp.raise_for_status()
     return resp.json()["choices"][0]["message"]["content"].strip()
