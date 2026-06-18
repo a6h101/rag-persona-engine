@@ -1,7 +1,5 @@
 # Conversation RAG + Persona Chatbot
 
-Built for the KaStack Labs AI/ML Engineer Intern assessment.
-
 ## What this is
 
 A local-first (no external LLM API) pipeline that:
@@ -91,13 +89,22 @@ already-extracted evidence and is instructed not to introduce new
 facts. This keeps the persona grounded in actual conversation signals
 per the task's requirement, while still producing readable output.
 
+## Demo
+
+![Chatbot answer](screenshots/chatbot_answer.png)
+![Persona sidebar](screenshots/persona_sidebar.png)
+![Retrieved context](screenshots/retrieved_context.png)
+
+[Loom demo video] https://www.loom.com/share/f15da25ed1904939bc5f01b1d50986f1
+
+
 ## Setup
 
 ```bash
 pip install -r requirements.txt
-# Ensure Ollama is running locally with llama3.2 pulled:
-ollama pull llama3.2
-ollama serve
+# Get a free Groq API key at https://groq.com and set it:
+export GROQ_API_KEY=your_key_here   # Linux
+set GROQ_API_KEY=your_key_here      # Windows
 ```
 
 Place `conversations.csv` in `data/`.
