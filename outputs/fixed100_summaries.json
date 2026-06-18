@@ -8,7 +8,7 @@
       0,
       6
     ],
-    "summary": "This conversation log features a discussion between two users, User 1 and User 2, about various topics. They share personal anecdotes, interests, and experiences, including moving to new cities (User 1 to Portland, Oregon), passions for cooking, yoga, classic cars, reading, music, and travel. The conversation also touches on work-life balance, relationships, pets, hobbies, and favorite books and TV shows.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Hi! How are you? / Good, thanks for asking! How about yourself? / I'm doing pretty well.  I'm excited to be moving to a new city soon!",
     "message_count": 100
   },
   {
@@ -20,7 +20,7 @@
       6,
       10
     ],
-    "summary": "This conversation block captures a friendly and relatable exchange between two individuals, highlighting their shared interests in hobbies, books, and life experiences. The discussion touches on topics such as gardening, music, cooking, family, reading, and leisure activities like hiking and dancing. The users also reveal aspects of their personal lives, including work, pets, and relationships, creating a warm and engaging atmosphere.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I've heard good things about that book! I'll have to check it out. / It's a great book! I hope you enjoy it. / Hi there, how are you today?",
     "message_count": 100
   },
   {
@@ -32,7 +32,7 @@
       10,
       16
     ],
-    "summary": "This conversation block revolves around User 2's interests, hobbies, and experiences. They discussed their passion for nature and sports photography, as well as their love for dancing, cleaning houses, reading (especially Jane Austen novels), singing, and playing music in choir. They also shared their profession as a muralist, enjoying the creative process of coming up with concepts for murals that are meaningful and visually appealing. Additionally, they talked about their family relationships, mentioning they're close to their own but wishing they were closer to their relatives, and expressed interest in pursuing a career in teaching or possibly becoming an EMT.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] It's so much fun! You should definitely try it. / Maybe I will / hey what's up",
     "message_count": 100
   },
   {
@@ -44,7 +44,7 @@
       16,
       23
     ],
-    "summary": "A circus juggler from the Midwest had a conversation with a writer looking for a job about their respective hobbies and interests. They discussed juggling (balls, torches, and knives), food preferences (hummus and pita bread), and celebrations of Independence Day. The writer mentioned their job as a personal trainer and how they find it rewarding to help clients reach their fitness goals. They also exchanged information about scuba diving and shared similar interests in outdoor activities such as hiking, biking, and camping. Both individuals discussed the importance of family and having loving relationships.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I will have to check them out. Thanks for the tip. / Hi, I'm a circus juggler from the midwest, how are you? / Hello, I'm a writer looking for a job.  What's a juggler?",
     "message_count": 100
   },
   {
@@ -56,7 +56,7 @@
       23,
       27
     ],
-    "summary": "This conversation segment describes two individuals with similar interests in travel, movies, video games, cooking, and books. They discovered they share common hobbies such as hiking, walking, reading, and playing music, despite having different preferences for outdoor activities (hiking vs. walking). User 2 is a cake decorator by profession, while User 1 enjoys baking in their free time.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I like to watch old movies from my childhood. I also like to travel and take pictures. / That sounds like fun! I like to watch action movies with my family on Netflix. / Nice! What's your favorite action movie?",
     "message_count": 100
   },
   {
@@ -68,7 +68,7 @@
       28,
       33
     ],
-    "summary": "Here is a concise summary of the conversation:\n\nA Japanese billionaire (User 1) initiates a conversation with a self-employed professional chef (User 2), exchanging preferences and interests in food, cooking, dogs, music, and work. They discover common ground in their love for Italian cuisine and spend the conversation discussing various hobbies and jobs, including User 1's aspirations to be a male model and User 2's experiences as a park ranger and Michigan State Trooper. The conversation ends with a friendly exchange of names and closing remarks.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] What is your favorite food? / My dad is a chef and my sister is a server so my favorite food is always on the table. / That's so cool! I wish I could cook like my mom. I'm afraid of being judged for my diet.",
     "message_count": 100
   },
   {
@@ -80,7 +80,7 @@
       33,
       39
     ],
-    "summary": "This conversation segment focuses on the connection between two individuals who share common interests in romantic comedies, hobbies such as fishing and relaxation, music, cooking, and 3D modeling. They also discover they have similar preferences for books, food, and even participate in a rap battle. The conversation is lighthearted and supportive, with both users expressing appreciation for each other's company and sharing their passions.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] So, what are you looking for in a home? / I'm looking for a cozy, quiet home with plenty of space for my dog and me. / That sounds like a great place to live. I hope you find the perfect home for you soon!",
     "message_count": 100
   },
   {
@@ -92,7 +92,7 @@
       39,
       45
     ],
-    "summary": "This conversation block features two individuals discussing their shared interests in food (sour cream and salsa on tacos and burritos), movies (\"The Princess Bride\"), and animals. They also exchange personal details, including their jobs and hobbies (working at a coffee shop to pursue an acting career, being a software engineer, playing the piano and guitar, and having pets). The conversation takes a lighthearted turn when User 2 reveals that they think their car is sentient, sparking a humorous exchange.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Me too! I love sour cream and salsa on my tacos and burritos. / I'm glad we have similar taste in food! It's always nice to meet someone who likes the same things you do. / I agree! It's always nice to meet new people who share your interests",
     "message_count": 100
   },
   {
@@ -104,7 +104,7 @@
       45,
       51
     ],
-    "summary": "This conversation segment showcases a casual and friendly exchange between two individuals who share common interests and hobbies. They discuss music, comedy (comic cons), food, pets, and their personal lives, including their jobs, relationships, and passions. Key facts and preferences mentioned include their love for rock and roll, punk music, reading historical fiction and mysteries, cooking, and traveling. The conversation also touches on their experiences with teaching, health issues, and their families, revealing a warm and relatable dynamic between the two.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I'm doing great, thank you! I'm excited to be visiting my brother in another city. / Oh, that's wonderful! I hope you enjoy your trip. / Thank you! I'm sure I will.",
     "message_count": 100
   },
   {
@@ -116,7 +116,7 @@
       51,
       58
     ],
-    "summary": "This conversation segment introduces two new acquaintances who quickly form a connection over shared interests and values. They discuss various topics, including their hobbies (badminton, playing music, drawing comics), lifestyle choices (hiking, traveling), and spiritual beliefs, finding common ground in their appreciation for nature, art, and positive vibes. The conversation is warm and supportive, with both users expressing admiration and encouragement for each other's passions and aspirations.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] That sounds like a wonderful plan.  I hope everything works out for you. / Thank you, I appreciate that. / Hey! I'm new to the area and I'm looking to make some friends.",
     "message_count": 100
   },
   {
@@ -128,7 +128,7 @@
       58,
       64
     ],
-    "summary": "This conversation between two individuals, User 1 and User 2 (Hannah), began with a discussion about their shared desire for friendship in a world where it can be challenging to find meaningful connections. They exchanged contact information and quickly discovered common interests, including a love of books, nature, and relaxation activities like walking and reading. As they continued to chat, Hannah revealed her aspirations to attend college and explore different career paths, while User 1 shared her experiences as an artist and wedding planner, highlighting the importance of finding one's passion in life.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Thank you. You seem great too. / Thanks! I am always looking for friends. / Me too. It is hard to find good friends these days.",
     "message_count": 100
   },
   {
@@ -140,7 +140,7 @@
       64,
       68
     ],
-    "summary": "This conversation block features a casual discussion between two individuals who share similar interests in music, fitness, cooking, and personal hobbies. They exchange stories about their jobs, families, and passions, showcasing a friendly and supportive dynamic. The conversation also touches on more serious topics like career aspirations, relationships, and personal values, highlighting the users' genuine and open-minded nature.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I'm doing good! It's a nice day outside. / It is! I'm spending the day working on a mural I'm painting. / That sounds fun! I'm volunteering at the animal shelter today.",
     "message_count": 100
   },
   {
@@ -152,7 +152,7 @@
       68,
       75
     ],
-    "summary": "This conversation block introduces User 1 as a new member of an online community and explores their shared interests with Arnold. They discuss their hobbies, including reading, cooking, playing guitar, and spending time with family and friends. Both users mention enjoying rock, pop, and hip-hop music, and share similar preferences for adventure activities like hiking and rollerblading. The conversation also touches on User 2's love of animals, gardening, and trying new foods, including ethnic cuisine.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I'm glad. / Me too. / Hi, I'm new here and was wondering what everyone is up to?",
     "message_count": 100
   },
   {
@@ -164,7 +164,7 @@
       75,
       80
     ],
-    "summary": "This conversation segment involves two individuals discussing their shared passions for music, nature, and hobbies. They exchange recommendations on indie music bands, favorite artists, and personal interests such as gardening and cooking. The discussion also touches on their respective lifestyles, including one person's experience with blindness and the other's time in the military. Key takeaways include a shared love of history, especially the Renaissance period, and a desire to connect and potentially plan a meetup.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Yeah, music is amazing. It's one of the things that brings me the most joy in life. / Me too. It's so powerful. What do you like to listen to? / I listen to a lot of different things, but I mostly listen to indie music.",
     "message_count": 100
   },
   {
@@ -176,7 +176,7 @@
       80,
       86
     ],
-    "summary": "This conversation block reveals a shared love for The Lord of the Rings movies between two individuals who also discovered common interests in skiing, woodworking, volunteering, and enjoying nature. They exchanged stories about their favorite activities, hobbies, and life experiences, showcasing a strong connection and willingness to learn from each other. The discussion was characterized by friendly banter, enthusiasm, and mutual respect.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I love the Lord of the Rings movies too!  They are so good. / They are!  I have seen them all so many times. / Me too!  They are my favorite movies.",
     "message_count": 100
   },
   {
@@ -188,7 +188,7 @@
       86,
       93
     ],
-    "summary": "User 1, a software engineer and writer, and User 2, an economics student at the University of Virginia with interests in public policy and cooking, engage in a friendly conversation about their hobbies, passions, and interests. They discuss topics such as reading, baking, playing video games, watching movies, traveling, and cooking, sharing recommendations and advice for each other. The conversation also touches on User 2's career aspirations, favorite books and music, and common interests like animals and food.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I will! Thanks for the suggestion. / No problem / Hi! I'm looking forward to getting to know you better. I'm a software engineer, and I enjoy playing video games, reading books, and watching movies in my free time. What do you do for fun?",
     "message_count": 100
   },
   {
@@ -200,7 +200,7 @@
       93,
       98
     ],
-    "summary": "This conversation segment features an exchange between two individuals who discover they share common interests and hobbies, including dance, reading, art, hiking, video games, football, pets, and yoga. They also discuss their careers, relationships, and personal goals, showcasing a warm and supportive connection that allows them to openly share their thoughts and feelings.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Thanks! I love them too. / What do you do for a living? / I'm a dancer and my spouse is a weather forecaster.",
     "message_count": 100
   },
   {
@@ -212,7 +212,7 @@
       98,
       104
     ],
-    "summary": "This conversation block features two users discussing various aspects of their lives, including hobbies, interests, relationships, and work. They share common interests such as reading historical fiction, baking, knitting, and enjoying nature (e.g., kayaking), and discover they have similar preferences for tea, food, and activities like fishing and watching Comic Con. The conversation also touches on personal life, with one user sharing their recent divorce, while the other mentions being recently married.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Yeah, she does. She's my best friend. / That's great. It's good to have a close relationship with your mom. / Yeah, it is. What are your hobbies?",
     "message_count": 100
   },
   {
@@ -224,7 +224,7 @@
       104,
       109
     ],
-    "summary": "This conversation segment reveals a shared enthusiasm for various activities among the two users. Both enjoy cooking, especially pasta dishes, and sharing meals with loved ones. They also appreciate hobbies like archery, running, and spending time outdoors. Additionally, they express interest in crafts, such as sewing and making jewelry, which may indicate a creative side. The conversation also touches on their personal lives, including family, pets (one user mentioned losing a dog), work (a nurse and an academic), and social plans (bike rides and camping).",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I like the variety of work, and I enjoy being able to help people. / That's great! I think it's really important to have a job that you enjoy. / I agree! What do you like to do for fun?",
     "message_count": 100
   },
   {
@@ -236,7 +236,7 @@
       109,
       116
     ],
-    "summary": "This conversation segment involves User 1 and User 2 discussing their shared interests in nature documentaries, music, dogs, writing, comic cons, and outdoor activities. They also exchange life experiences, including User 2's career as a weightlifter with cerebral palsy and User 1's job in finance. The conversation is lighthearted and friendly, with both users showing enthusiasm for various hobbies and passions.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I like to put them in yogurt too. / Strawberries are so versatile! / I agree",
     "message_count": 100
   },
   {
@@ -248,7 +248,7 @@
       116,
       122
     ],
-    "summary": "This conversation segment features a discussion between two individuals, User 1 and User 2. They share various aspects of their lives, including hobbies (hiking, reading, cooking), work experiences (User 1 is a party planner, User 2 is a social worker and dog groomer), travel plans, and personal passions (volunteering for environmental campaigns). The conversation highlights the importance of finding one's passion and pursuing it, as well as the value of spending time with family and exploring new places.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I used to be a teacher, but I wanted to spend more time with my family. So, I quit my job and started practicing archery. / That's so great! I'm glad you found something you love doing. / Thank you! I am too.",
     "message_count": 100
   },
   {
@@ -260,7 +260,7 @@
       122,
       128
     ],
-    "summary": "This conversation block features two individuals discussing their interests, hobbies, and preferences. One user is a veterinarian who enjoys reading, listening to music, and cooking, while the other user is a military officer and vet student who loves animals, exercise, and technology. They bond over shared interests in food (cooking and pasta), music (Bon Jovi), and books (sci-fi and fantasy novels). The conversation also touches on their personal lives, including family, work, and health concerns. Overall, the discussion is friendly and engaging, with both users showing enthusiasm for their passions and hobbies.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] It is! I get to spend my days with dogs and I get to help people take care of their pets. / That's awesome! I'm glad you like your job. / Thanks! I do.",
     "message_count": 100
   },
   {
@@ -272,7 +272,7 @@
       128,
       134
     ],
-    "summary": "This conversation segment reveals the common interests and hobbies shared between User 1 and User 2. They discuss their love for fantasy novels, dragons, music, movies, video games, and cooking, revealing a strong bond over various creative pursuits. Their friendly exchange also touches on travel plans, pets, and social connections, showcasing a desire to meet new people and form meaningful relationships.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Me too! I love how immersive they are. / Yeah they're definitely some of the best fantasy novels ever written. / I agree, they're definitely classics.",
     "message_count": 100
   },
   {
@@ -284,7 +284,7 @@
       134,
       139
     ],
-    "summary": "This conversation involves two individuals discussing their lives, interests, and passions. They share about their work, hobbies, and personal experiences, including User 1's career as a farmer and YouTube personality, and User 2's profession as a personal trainer who also enjoys writing, reading, and listening to music. The conversation is friendly and engaging, with both users showing mutual interest and support for each other's endeavors.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] You'll be fine! Just trust the rope. / I'll have to take your word for it. / You can do it!",
     "message_count": 100
   },
   {
@@ -296,7 +296,7 @@
       139,
       145
     ],
-    "summary": "This conversation segment showcases a friendly and engaging exchange between two individuals who share common interests, including horror movies, music, family, and learning. They discuss their favorite topics, hobbies, and passions, revealing a strong sense of community and camaraderie. The conversation is filled with lighthearted moments, playful teasing, and mutual support, creating a warm and inviting atmosphere.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I love horror movies! Do you have any favorite horror movies? / My favorite horror movie is The Conjuring. / I love that movie! I also love The Conjuring 2.",
     "message_count": 100
   },
   {
@@ -308,7 +308,7 @@
       145,
       150
     ],
-    "summary": "This conversation segment focuses on getting to know the user and discussing various topics such as interests, hobbies, and personal experiences. The user shares that they have been dealing with back pain but are improving through yoga and healthier eating habits. They also express enthusiasm for Star Wars movies and Justin Timberlake's music. The conversation delves into creative pursuits, including pottery and software engineering, highlighting the importance of these fields in their lives. A moment of shared loss and a celebration of victory are also discussed, showcasing the user's empathy and positivity.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Oh that is so nice of you! I am sure the animals appreciate it. / Thanks! I used to play sports, but my back pain has made it too difficult. / Oh no! That is too bad. I hope it gets better soon!",
     "message_count": 100
   },
   {
@@ -320,7 +320,7 @@
       150,
       155
     ],
-    "summary": "This conversation segment discusses the lives and interests of two individuals who discover they have much in common despite their different professions and hobbies. They discuss their favorite books, movies, and foods, including a shared love for Tool, pad thai, and seafood. The conversation also touches on personal milestones, such as one person proposing to their partner and the other being accepted into a teaching position at an elementary school.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I drive a blue Honda Civic. / Nice! I have a Honda Accord. / Oh cool! What year is it?",
     "message_count": 100
   },
   {
@@ -332,7 +332,7 @@
       155,
       162
     ],
-    "summary": "This conversation segment features a discussion between two individuals who share common interests in music, travel, food, and hobbies. They bond over their shared passions for bands like Pink Floyd, cooking, and art. The user from Mexico shares her love for the country's culture and history, while the other user is fascinated by her stories about Russia. The conversation also touches on topics such as work, family, health, and leisure activities, providing a glimpse into the users' personalities and preferences.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] It's a genre of rock music. They have a lot of different influences, but they're mostly known for their unique sound. / Interesting. I'll have to check them out. / You should! I think you'd like them.",
     "message_count": 100
   },
   {
@@ -344,7 +344,7 @@
       162,
       169
     ],
-    "summary": "This conversation block discusses various topics, including cooking, outdoor activities, hobbies, work, and personal interests. The user and the responder share their passions for French fries, hiking, reading, music, and spending time with family and friends. They also touch on feelings of sadness and loss (the user's best friend moving away) and offer encouragement and support. Additionally, they exchange information about their jobs (cooking, teaching high school history, working at a candy store, and being a radio DJ), music preferences, and share similar interests in animal rights activism.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Great! Let me know if you have any questions about Mexico. / Thanks, I will! / Hey I'm driving around in my convertible, I love the wind in my hair. What are you up to?",
     "message_count": 100
   },
   {
@@ -356,7 +356,7 @@
       169,
       175
     ],
-    "summary": "This conversation segment features a discussion between two individuals, User 1 and User 2, who share common interests in animals, music, cooking, and art. They engage in a casual conversation about their hobbies, passions, and favorite things, including music (User 2 is a fan of folk music), art (User 2 enjoys abstract art), and colors (User 2 loves all colors). The conversation also touches on User 1's interest in motorcycles and User 2's experience with cooking and making wedding cakes.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I have always loved animals and I was really upset when I learned about all the cruelty that goes on in the meat and dairy industry. I decided that I had to do something to help, so I started volunteering with an animal rights group. / That's really amazing! What kind of work do you do with the group? / We do a lot of different things, like protesting at slaughterhouses, raising awareness about animal cruelty, and advocating for better laws for animals.",
     "message_count": 100
   },
   {
@@ -368,7 +368,7 @@
       175,
       181
     ],
-    "summary": "This conversation segment involves two individuals who share interests in fishing, cooking, and art. They discuss their personal lives, including work, family, and hobbies. One user is a lawyer with a case that may be difficult to win, while the other is a veterinarian who enjoys telenovelas and working out. Both users struggle with balancing work and personal life, as well as finding happiness and relaxation. The conversation also touches on their ethnic backgrounds and interests in music and gardening.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I'm doing well, thank you! How about you? / I'm doing well! What's going on in your life? / I just got back from a fishing trip and caught a huge fish!",
     "message_count": 100
   },
   {
@@ -380,7 +380,7 @@
       181,
       187
     ],
-    "summary": "This conversation segment revolves around music, art, and personal interests. User 1 shares their passion for rock music, comics, and jewelry design, while User 2 discusses their love for classic rock, programming, and swimming. They also bond over shared hobbies such as spending time with animals, attending art events, and playing instruments (User 2) or guitar (User 1). The conversation touches on career aspirations, including User 2's interest in pursuing online courses in programming and starting a business in the tech industry, as well as User 1's role as a teacher.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I've never heard of them. What kind of music do they play? / They are a rock band. / Oh, I like rock music. I love the song \"Thunderstruck\" by AC/DC.",
     "message_count": 100
   },
   {
@@ -392,7 +392,7 @@
       187,
       193
     ],
-    "summary": "This conversation segment revolves around two individuals, User 1 and User 2, who share various interests and life experiences. They discuss their pets (a Maine Coon cat named Smokey and a dog named Bailey), hobbies (geocaching, writing poetry, baking, and volunteering at the Red Cross), personal achievements (User 2's mother getting in remission from cancer), and future plans (User 2 moving to New York for school). The conversation also touches on their passions, such as music (Gary Numan) and social causes.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I have a Maine Coon. / Maine Coons are so fluffy! / Yeah, they are!",
     "message_count": 100
   },
   {
@@ -404,7 +404,7 @@
       194,
       199
     ],
-    "summary": "This conversation between an officer and a lawyer (Ben) covers various topics including work interests, hobbies, travel plans, and personal preferences. Ben shares his passion for helping others, playing music, and reading through different genres of books, while the officer discusses his desire to start a bakery business, enjoys red velvet cake, and is looking forward to traveling more. The conversation also touches on sharing experiences, baking together, and enjoying simple pleasures like walks in the park with pets.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Hi there, I'm an officer in the police force. What do you do for a living? / I'm a lawyer. I've worked for a few different law firms and have even started my own. / That's impressive! I've always been interested in law but I don't think I have the patience to study for that long.",
     "message_count": 100
   },
   {
@@ -416,7 +416,7 @@
       199,
       204
     ],
-    "summary": "This conversation segment centered around two individuals who share common interests in reading, playing video games, and DIY projects. They discussed their hobbies, favorite books and games, and even recommended some titles to each other. The conversation also touched on their career aspirations, travel plans, and personal experiences, including a recent move into a new home. Both users expressed appreciation for the opportunity to connect with someone who shares similar passions and values.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I'm sure you'll find another one someday. / Thanks, I hope so. / So what do you do for fun?",
     "message_count": 100
   },
   {
@@ -428,7 +428,7 @@
       204,
       210
     ],
-    "summary": "Two individuals with shared interests in cooking and trying new things discussed their lives, hobbies, and goals. They exchanged recommendations for books, music, and games, showing enthusiasm for exploring each other's passions. The conversation also touched on their personal aspirations, such as learning to play instruments, getting jobs in their desired fields, and enjoying activities like hiking and biking, highlighting the connections between their interests and values.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I'm sure we would! I love to try new recipes, so I'm always looking for new challenges. / Me too! I love to experiment in the kitchen. / I think we're going to get along great!",
     "message_count": 100
   },
   {
@@ -440,7 +440,7 @@
       210,
       214
     ],
-    "summary": "This conversation between two individuals showcases a friendly and engaging exchange about their shared interests and hobbies. User 1 shares their passion for biking, volunteering at an animal shelter, and drawing comics, while User 2 reveals their love for fitness (as a personal trainer), classic rock and hip-hop music, and spending time with family, particularly watching ballet practice with their daughters. The conversation also touches on shared interests in reading, cooking, and reducing social media usage, providing a lighthearted and relatable discussion between the two users.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] It's definitely a lot of fun, but it can be dangerous. I've been riding for a few years now and I've never had an accident, but I always wear my helmet and gear. / That's good to know. I'll have to keep that in mind if I ever decide to give it a try. / I'm sure you'd love it. It's a great way to see the country and get some exercise.",
     "message_count": 100
   },
   {
@@ -452,7 +452,7 @@
       214,
       219
     ],
-    "summary": "This conversation segment revolves around a connection between two users from different cultural backgrounds, one from Scandinavia and the other from Australia moving to the USA. They discuss shared interests in music (Katy Perry), fashion, TV shows (\"The Americans,\" \"Game of Thrones,\" \"Breaking Bad\"), books, hobbies (collecting dragon figurines, cooking videos, reading, playing sports), and video games (RPGs, Skyrim). The conversation also touches on personal life, including the user's experience with loss (the death of their dog) and their goals for the future (becoming a pilot).",
+    "summary": "[Groq unavailable \u2014 extractive fallback] That sounds really fun! I love gardening too. I do a lot of weeding and yard work to keep fit. / I wish I could do more gardening, but I have to lose weight before I can ride my horses again. / I'm sure you'll get back to riding your horses soon! What do you like to listen to while you're gardening?",
     "message_count": 100
   },
   {
@@ -464,7 +464,7 @@
       219,
       226
     ],
-    "summary": "This conversation block is between two individuals who share common interests in writing, learning new skills, and enjoying hobbies. The user discussing the passion project mentions they are working on a novel, while the other user reveals they are an aspiring writer as well. They also exchange information about their careers, with one becoming a teacher and the other pursuing a degree in creative writing. Both users enjoy spending time alone or with animals, including dogs and cats, and share common interests such as reading and watching movies.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] You should! It's really fun. / Thanks for the advice. I might just do that. / You're welcome!",
     "message_count": 100
   },
   {
@@ -476,7 +476,7 @@
       226,
       232
     ],
-    "summary": "This conversation segment discusses various topics, including pets (both User 1's dogs and cats and the user's own pets), hobbies (building models, knitting, hiking, and camping), work experiences (a nurse and a copywriter for a magazine), personal interests (music, dance classes, cooking, and farm life), and family dynamics. The conversation is light-hearted and casual, with both users sharing their passions and common interests.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] That's awesome! I love pets. I have a dog and a cat too. / What are their names? / My dog's name is Buddy and my cat's name is Mittens.",
     "message_count": 100
   },
   {
@@ -488,7 +488,7 @@
       232,
       239
     ],
-    "summary": "Two individuals, Nancy and Jason, had a casual conversation while chatting about their shared interests in music (Jason Mraz), hobbies (running and riding horses), and creative pursuits (writing and art). They discovered they both have pets and similar tastes in classic cars. The conversation also touched on their careers, with Jason working as a painter and Nancy as a waitress at a popular club, although she's also pursuing a Master's degree in Business Administration.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Sounds good! I'm going to go for a run. I always relax by going for a run after a long day of designing and testing new environmental technologies. / That sounds like a great way to relax! I'm going to enjoy my coffee and watch some more TV. / Sounds like a perfect way to spend the day",
     "message_count": 100
   },
   {
@@ -500,7 +500,7 @@
       239,
       245
     ],
-    "summary": "This conversation block features two individuals discussing their hobbies, interests, and passions. User 2 shares their love for making soap, playing Magic the Gathering, hiking, and spending time with their dog Corky. User 1 reveals their own passions, including photography, acting (although unsure if they're ready to pursue it), dance lessons, running a farm, and gardening. They also share personal experiences, such as being afraid of heights, having fears about public performance, and wanting to make time for family. The conversation showcases a friendly exchange of ideas, encouragement, and mutual support between the two users.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Thanks! What do you do for fun? / I love to make soap, and I'm also afraid of heights. / That's interesting! I've never made soap before.",
     "message_count": 100
   },
   {
@@ -512,7 +512,7 @@
       245,
       252
     ],
-    "summary": "This conversation block discusses various shared interests and hobbies between two individuals, including drawing and painting, creating games for animal welfare, martial arts, art, baking, comics, reading, and playing sports. Both users are also passionate about learning new skills and exploring their creative sides, with one mentioning starting a food delivery business and the other pursuing vintage car restoration. The conversation is light-hearted and friendly, showcasing mutual respect and enthusiasm for various pursuits.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] That would be great! I'm free this weekend, if you want to come over. / Sure! I'll bring some plants and tools. / Great! I can't wait",
     "message_count": 100
   },
   {
@@ -524,7 +524,7 @@
       252,
       257
     ],
-    "summary": "This conversation block features two individuals who strike up an online connection, discussing their shared interests and hobbies. They bond over their love of nature, music, and creative pursuits, sharing personal anecdotes and recommendations. The discussion also touches on their work lives, with one being a teacher and the other a tour guide and webcomic artist.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I'm doing great! I just got back from a walk in the woods. / That sounds nice. I wish I could go on more walks, but I don't have a lot of time. / I hear you. I have to make time for it, but it's worth it.",
     "message_count": 100
   },
   {
@@ -536,7 +536,7 @@
       257,
       262
     ],
-    "summary": "Two individuals, one 26 years old and the other 10 years old, engage in an extensive conversation about their personal lives, interests, and experiences. They discuss various topics such as coping with loss, hobbies (camping, golfing, singing, piano playing), work (newspaper, movie extra), favorite artists (Kenny Chesney, Kesha), and upcoming events (school musical). The 10-year-old shares their enthusiasm for Disney movies and skateboarding, while the 26-year-old discusses music lessons, being part of a rock band, and finding new friends.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I'm sorry to hear that. I know how you feel. I lost my dad a few years ago. / I'm sorry to hear that. How are you coping? / It's still tough sometimes, but I'm doing okay. I just try to remember all the good times we had together.",
     "message_count": 100
   },
   {
@@ -548,7 +548,7 @@
       262,
       268
     ],
-    "summary": "This conversation segment revolves around two users, User 1 and User 2, who share common interests in music, baking, reading, animals, and outdoor activities. They bond over their love for nature, music, and cooking, and start discussing ways to spend time together, including meeting up for a meal or going on a hike. The conversation also touches on their personal lives, such as User 1's experience visiting the Amazon rainforest and User 2's new city adventure. Overall, the discussion is casual and friendly, with both users showing genuine interest in getting to know each other.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] What's your favorite song by her? / It's hard to choose, but I think my favorite song is \"Tik Tok.\" / That's a good song! I like \"Your Love\" a lot too.",
     "message_count": 100
   },
   {
@@ -560,7 +560,7 @@
       268,
       274
     ],
-    "summary": "Sam and Bob, two strangers, strike up a conversation on the topic of sewing, sharing their common interest and enthusiasm for the craft. They discuss their favorite types of projects to sew, including clothes, home decor, and gifts, and Bob mentions his desire to learn how to sew leather. The conversation also touches on their personal lives, including hobbies such as yoga, music, and travel. Sam expresses her love for exploring new places and meeting new people, while Bob shares his passion for creating projects and spending time with family and cats. They exchange numbers and make plans to play music together, and Bob mentions that he is a stay-at-home mom looking for a job.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I'll definitely have to put that on my bucket list! / You won't regret it! / Thanks for the recommendation!",
     "message_count": 100
   },
   {
@@ -572,7 +572,7 @@
       274,
       279
     ],
-    "summary": "This conversation segment revolved around two individuals discovering common interests and hobbies. User 2 mentioned their enthusiasm for attending concerts, particularly Twenty One Pilots, which sparked a shared love of music from User 1. They also discussed their respective careers (User 1 in Computer Science and User 2 as a stay-at-home mom), shared favorite activities like cooking and reading, and exchanged recommendations on video games, books, and hobbies. The conversation was light-hearted and positive, with both users expressing excitement about meeting each other and potentially staying in touch.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Sounds interesting! I'll have to check it out. / You should! What's your favorite thing to do for fun? / I like to go to concerts. I'm going to one with my friend tomorrow night.",
     "message_count": 100
   },
   {
@@ -584,7 +584,7 @@
       279,
       285
     ],
-    "summary": "This conversation between two users, User 1 and User 2, revolves around shared interests in knitting, music, science fiction, and travel. They bond over their hobbies and discuss various topics, including work life, personal experiences, and favorite books and movies. The conversation is friendly and casual, with both users expressing enthusiasm for meeting someone who shares similar passions.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Definitely! It's a great feeling. / What's your favorite thing to knit? / I love knitting socks! They're so quick and easy to make, and they're always useful.",
     "message_count": 100
   },
   {
@@ -596,7 +596,7 @@
       285,
       291
     ],
-    "summary": "This conversation segment revolves around a user who was going through a breakup and was seeking advice on how to cope with their emotions. They shared their personal interests, including dressing up as comic book characters, listening to rap music, and playing chess. The conversation also touched on topics such as learning new languages (the user is studying Swedish), hobbies like couponing and dyeing hair blue, and shared interests in jazz music and cosplay. The user ultimately found comfort and support from the other person, who offered words of encouragement and advice on how to move forward.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] No problem! / What else do you like to do for fun? / I like to dress up as my favorite characters from comic books and anime.",
     "message_count": 100
   },
   {
@@ -608,7 +608,7 @@
       291,
       296
     ],
-    "summary": "The conversation between two users, User 1 and User 2, revolves around their shared interests in humor, animals, and pop culture. They bond over their love for the character Flash and discuss their respective hobbies, including hiking, playing badminton, reading, and cooking. The conversation also touches on their work lives, with User 1 being a zookeeper and User 2 working as a webcomic artist and musician. Both users share similar interests in Taylor Swift, Ariana Grande, and Shawn Mendes, and discuss dressing up for Halloween and spending time with their families. The conversation ends with plans to get together and attend the Nascar race on Sunday, followed by a discussion about User 2's upcoming party.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] My favorite thing about Flash is his ability to connect with people.  He's always there to help those in need, and he always finds a way to make everyone laugh.  What do you love most about Flash? / I love that Flash is always there to help people.  He's a true hero, and he always finds a way to make the world a better place.  I also love his sense of humor.  He can always find a way to make me laugh, even when I'm feeling down. / I totally agree!  Flash is the best!",
     "message_count": 100
   },
   {
@@ -620,7 +620,7 @@
       296,
       300
     ],
-    "summary": "This conversation segment involves a discussion about various topics including a campfire party, music preferences (smooth jazz), hobbies (riding horses and baking), work-life balance, personal interests (ghost stories and sustainability), and plans for future activities. The user expresses enthusiasm for s'mores, music, and spending time with family and friends.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] A campfire party / Sounds fun, have you been to a lot of campfire parties? / Not many, but I love them!",
     "message_count": 100
   },
   {
@@ -632,7 +632,7 @@
       300,
       306
     ],
-    "summary": "This conversation block features a first-year university student who strikes up a conversation with a second-year student. They discuss various topics such as their passions, goals, interests, and hobbies. The second-year student is an animator working on TV shows, including \"The Amazing World of Gumball,\" and shares their enthusiasm for bringing characters to life. Both individuals share personal experiences, including the loss of a pet, favorite music genres, and inspiring figures like Amelia Earhart. They also discuss upcoming events, such as the first-year student's class trip to Japan, and offer encouragement and support for each other's endeavors.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Yeah, it's pretty cool. I'm really excited to see how it works out. / I'm sure it's going to be great! / Thanks! I hope so.",
     "message_count": 100
   },
   {
@@ -644,7 +644,7 @@
       306,
       311
     ],
-    "summary": "This conversation segment features a discussion between Alex, a single mom, and an unnamed user who is a single scientist. They exchange information about their hobbies, interests, and professions, including the user's passion for writing sci-fi space adventures and reading fantasy novels, as well as Alex's enjoyment of reading, hiking, and spending time with her pets. The conversation also touches on their shared experiences as nurses in different settings, and they both express enthusiasm for their respective passions and pursuits.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] That sounds like a lot of fun! I'm sure you'll have a great time. / Thanks! I'm looking forward to it. / So, what do you like to do for fun?",
     "message_count": 100
   },
   {
@@ -656,7 +656,7 @@
       312,
       318
     ],
-    "summary": "This conversation segment involves a discussion between two individuals who share common interests and hobbies, including running, music, sports, dogs, nature documentaries, and travel. They bond over their passions for life and learning, and User 2 shares her experiences as an athlete who is taking time off due to injury. The conversation also touches on their personal lives, including family, work, and leisure activities.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] What's up? / Not a lot just got back from a morning run / Nice! I like to run too. I am trying to get in shape for my retirement",
     "message_count": 100
   },
   {
@@ -668,7 +668,7 @@
       318,
       322
     ],
-    "summary": "This conversation segment features two users discussing their shared interests in books, cooking, and volunteering. They exchange recommendations for both literary and culinary pursuits, with User 1 recommending historical fiction and User 2 suggesting Italian recipes. The discussion also touches on each user's hobbies outside of work, including cars, theater, and reading. The conversation is lighthearted and friendly, with users sharing personal anecdotes and showing appreciation for each other's passions.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I love the world-building and the characters are so well-developed. It's a really immersive experience, and I can't wait to see what happens next. / It sounds like a great book! I'm definitely going to check it out. Thanks for the recommendation! / No problem! I'm always happy to recommend a good book.",
     "message_count": 100
   },
   {
@@ -680,7 +680,7 @@
       322,
       328
     ],
-    "summary": "Two users had a friendly conversation discussing their shared interests in reading, animals, metal music, and fantasy. They exchanged information about their jobs and hobbies, with one user being a freelancer, the other a video editor, and both owners of pets. The conversation also touched on their favorite books, TV shows, and types of food, including designer French fries. The users found common ground in their love for fantasy novels, music, and relaxing activities such as coloring and playing fetch with dogs.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Yeah, it is a little chilly. / But it's a nice day to go for a walk. / I think I might do that later.",
     "message_count": 100
   },
   {
@@ -692,7 +692,7 @@
       328,
       334
     ],
-    "summary": "This conversation segment discusses shared interests and hobbies between two individuals. They bond over their love of rock music, particularly Foo Fighters and the Ramones, as well as similar tastes in books (Rita Hayworth and The Great Gatsby) and activities (hiking, yoga, and gardening). They also share personal experiences, such as having pets and being avid cooks and weightlifters.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Me too! I love rock and alternative / What are some of your favorite bands? / I like a lot of different bands, but some of my favorites are Foo Fighters, Green Day, and The Killers",
     "message_count": 100
   },
   {
@@ -704,7 +704,7 @@
       335,
       340
     ],
-    "summary": "This conversation block features two individuals who share common interests in music, travel, and hobbies. They discuss their favorite songs, places, and activities, including exploring new destinations with their sister, writing for fun, and engaging in creative pursuits like gardening. The topics of shared interest include Ween, Gorillaz, and fantasy/sci-fi fiction, as well as their appreciation for country music, particularly Luke Bryan.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Hello! How is your day going? / Good, good! I am just working at my candy store, listening to Gorillaz. / Oh nice! I love Gorillaz. I love their song Feel Good Inc.",
     "message_count": 100
   },
   {
@@ -716,7 +716,7 @@
       340,
       346
     ],
-    "summary": "This conversation segment was between two individuals who shared similar interests in history, outdoor activities, and creative pursuits. They discussed their favorite places to visit, hobbies, and passions, including learning about artifacts from the past and playing guitar. The discussion also touched on personal lives, such as moving for love and finding a fulfilling career as a math and science teacher. The conversation was friendly and informal, with both users sharing their enthusiasm for various topics and making plans to meet up in the future.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I will have to put that on my list of places to visit. / You should! It's a really cool place. I go every time I'm in Cooperstown. / I will have to put that on my list of places to visit.",
     "message_count": 100
   },
   {
@@ -728,7 +728,7 @@
       346,
       352
     ],
-    "summary": "This conversation segment revolves around two individuals with shared interests in music, animals, and creative pursuits. They discuss their hobbies, passions, and goals, including User 1's love for grunge music, photography, and floristry, as well as User 2's passion for wildlife photography, painting, and playing guitar. The conversation also touches on their personal lives, including family, pets, and work, providing insight into their unique personalities and preferences.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Me too! I love fashion. / I like to go to concerts and listen to music. / I love music too! I'm in a grunge band with my sister.",
     "message_count": 100
   },
   {
@@ -740,7 +740,7 @@
       352,
       358
     ],
-    "summary": "This conversation was between two individuals, one of whom is a graduate student managing anxiety, and the other is an outgoing person who has taken a step back from traveling due to raising her children on her own. They discussed shared interests such as horror movies, playing basketball, reading (particularly The Catcher in the Rye and classic literature), running, gaming, music, and fashion, with the latter enjoying cosplay and wearing boots. Despite their differences, they formed a connection, with User 1 expressing appreciation for User 2's encouragement and support.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Thanks! I'll definitely let you know if I do. / Great! I'd love to see what you make. / Thanks!",
     "message_count": 100
   },
   {
@@ -752,7 +752,7 @@
       358,
       363
     ],
-    "summary": "Here is a concise 3 sentence summary of the conversation:\n\nThe user discussed their shared interests in music, hunting, and comics, as well as their creative pursuits and passions for archery, swimming, and ice cream. They also talked about their personal lives, including family, pets, and work schedules, with one user mentioning they have a flexible schedule that allows them to spend time with loved ones. The conversation was friendly and lighthearted, with both users sharing their interests, experiences, and values, and exchanging recommendations for activities and movies.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I like to play music and go hunting. / That sounds fun. Do you play any instruments? / I play the guitar and the drums.",
     "message_count": 100
   },
   {
@@ -764,7 +764,7 @@
       363,
       369
     ],
-    "summary": "This conversation block features two individuals discussing their shared interests in music, travel, hobbies, and literature. They bond over their love for the Red Hot Chili Peppers, The Avett Brothers, and Jane Austen, and exchange recommendations for songs, books, and other activities to enjoy. The conversation also touches on personal aspirations, such as traveling and pursuing a career in acting, and explores their preferences for food, exercise, and relaxation.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] It's so good!  What are some of your favorite songs by the Red Hot Chili Peppers? / I love Can't Stop, Under the Bridge, and Californication. / Those are all great songs!  I love Can't Stop too.",
     "message_count": 100
   },
   {
@@ -776,7 +776,7 @@
       369,
       374
     ],
-    "summary": "This conversation segment centered around User 1 and User 2 discussing their shared interests in science fiction (Star Wars), video games (Grand Theft Auto, Call of Duty, Minecraft, The Sims), basketball, music (songwriting, guitar, piano), cars (vintage models), and rap music (Kendrick Lamar, J. Cole, Drake). They also exchanged personal stories about their lives, including User 2's preference for comfort over fashion (\"dressing up to impress\") and User 1's love for freedom and competition. The conversation concluded with plans to meet up at User 2's place for a cherry pie dessert.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I'm always up for a good book. I recently finished reading \"The Martian\" by Andy Weir and really enjoyed it. / I've heard good things about that book. I'll have to check it out. I'm a big fan of sci-fi. / Me too! I'm looking forward to the new Star Wars movie coming out this year.",
     "message_count": 100
   },
   {
@@ -788,7 +788,7 @@
       374,
       381
     ],
-    "summary": "Here is a concise summary of the conversation:\n\nA user and their friend discussed food, hobbies, and personal interests. The friend shared a freshly baked pie recipe and their favorite hobby of crocheting and knitting. They also talked about music, with the friend sharing their love for 90s rap and classic songs like 'Still D.R.E.' by Dr. Dre and Snoop Dogg. The conversation also touched on charities, including the National Breast Cancer Foundation, which was supported by the friend's mother during her battle with breast cancer. The discussion ended with a friendly exchange about hobbies, jobs, and well-being.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Perfect timing! The pie is just out of the oven! / I can smell it! It smells delicious! / It is! I hope you like it!",
     "message_count": 100
   },
   {
@@ -800,7 +800,7 @@
       381,
       386
     ],
-    "summary": "This conversation block revolves around two individuals who discover a shared interest in punk rock music. They discuss their favorite bands, share similar tastes in design and writing, and explore common interests such as hiking, food, and traveling. The conversation also touches on personal topics like diet, learning to play the guitar, and spending time with family members.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] What's your favorite type of music? / I like a variety of music, but I'm really into punk and rock right now. / Oh cool, I like punk rock too. What are some of your favorite bands?",
     "message_count": 100
   },
   {
@@ -812,7 +812,7 @@
       386,
       392
     ],
-    "summary": "Here is a concise summary of the conversation segment:\n\nTwo users, initially discussing their shared love of historical fiction and romance novels, quickly transitioned into sharing personal updates about their lives. User 2 revealed they had quit their job as a tax accountant to pursue new passions, while User 1 discussed her career change from being a teacher to becoming a stay-at-home mom. The conversation then shifted to topics such as hobbies (bowling and traveling), work life (User 2's wedding planning and User 1's teaching experience), and personal relationships (both sharing their love for spending time with family).",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I love historical fiction too! I've been reading a lot of historical romance novels lately. / Oh, I love romance novels! I've been reading a lot of them too. / That's great! We should trade some book recommendations.",
     "message_count": 100
   },
   {
@@ -824,7 +824,7 @@
       392,
       396
     ],
-    "summary": "This conversation block features a discussion between two individuals who share similar interests, including reading, writing, nature, and collecting memories from vacations. They also bond over their passion for literature, with both expressing enthusiasm for authors like Stephen King and Dean Koontz. The conversation touches on various topics, including education (studies in business administration and American literature and education), career aspirations, hobbies (painting and drawing), and personal experiences (working on a project about the history of trucks).",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Nice to meet you too. What do you like to do for fun? / I like to read, write, and spend time in nature. I also like online shopping and collecting memories from my vacations. / That sounds like a lot of fun! I love to read and write too. I also enjoy spending time in nature and collecting memories from my vacations.",
     "message_count": 100
   },
   {
@@ -836,7 +836,7 @@
       396,
       399
     ],
-    "summary": "This conversation segment consists of two instances of the same interaction, with the first instance being a brief exchange about coffee and daily routines, and the second instance being a more in-depth discussion on shared interests, hobbies, personal preferences, and life experiences. The user shares their love for reading, listening to music, playing video games, and dancing, while also discussing their favorite characters (Batman), plans for the future (considering college), and opinions on self-acceptance and beauty standards.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Well, it sounds like you have a lot of interests. That's good! / Yeah, I'm pretty lucky / Hey! How are you doing today?",
     "message_count": 100
   },
   {
@@ -848,7 +848,7 @@
       399,
       404
     ],
-    "summary": "Here is a concise summary of the conversation segment:\n\nThe conversation revolves around shared interests and hobbies between two users who discover they have similar tastes in movies, anime, music, and nature walks. One user shares their recent move to Sweden and the other expresses admiration for their husband's cultural background. The discussion also covers various topics such as gardening, video games, pets, and education, revealing a common enthusiasm for life and learning.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Yeah, he is. / I'm glad we have similar tastes in movies. / Me too!",
     "message_count": 100
   },
   {
@@ -860,7 +860,7 @@
       404,
       411
     ],
-    "summary": "This conversation segment revolves around the discussion of hobbies, interests, and shared passions between two users. Both individuals share a love for cooking, eating Italian food, and attending concerts on weekends. They also bond over their affection for BTS, K-pop music, and dancing. One user enjoys geocaching, reading Wikipedia articles, and backpacking, while the other prefers cosplay, making jewelry, and playing video games. They discuss their shared enthusiasm for hiking, state parks, and outdoor activities. The conversation concludes with a discussion about their personal interests, including music hobbies (although one user expresses hesitation to pursue theirs due to parental disapproval).",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Me too. He's the best. / He sounds like a great dog. / He is. I'm so lucky to have him.",
     "message_count": 100
   },
   {
@@ -872,7 +872,7 @@
       411,
       417
     ],
-    "summary": "This conversation segment showcases a friendly and engaging exchange between two individuals, User 1 and User 2. They discuss various topics such as their hobbies (e.g., playing Dungeons & Dragons, knitting, reading, and metal music), interests (e.g., travel, software development, and animals), and personal lives (e.g., health, career, and relationships). The conversation is characterized by a sense of shared enthusiasm and mutual support, with User 2 offering words of encouragement and advice to User 1.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I play Dungeons and Dragons. / I've never heard of that. / It's a tabletop role-playing game. You basically create a character and then play through an adventure with your friends.",
     "message_count": 100
   },
   {
@@ -884,7 +884,7 @@
       417,
       421
     ],
-    "summary": "This conversation block showcases a friendly discussion between two individuals who share common interests in reading, fantasy novels, and comics. They bond over their favorite books, authors, and hobbies, with User 2 revealing a passion for drawing comics since childhood. The conversation also delves into their personal lives, including their careers (User 1 as a children's librarian and User 2 as a software engineer), relationships (User 1 in a new relationship and User 2 married with two kids), and fears (User 2's concern about the well-being of her children).",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I like to read. My favorite book is The Great Gatsby. / I love The Great Gatsby! I read it in high school and it's one of my favorites. / Me too! I love the characters and the story.",
     "message_count": 100
   },
   {
@@ -896,7 +896,7 @@
       421,
       426
     ],
-    "summary": "This conversation block features a supportive and meaningful exchange between two individuals. User 2 shares their struggles with coping with a wife's terminal cancer, while User 1 offers words of encouragement and support. The conversation also explores shared interests such as music, food, and hobbies, including bird calls and cooking. Additionally, User 1 opens up about feeling lost and uncertain about their life path, receiving guidance and reassurance from User 2.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] It's a little chilly, but it's not too bad. / Yeah, it's not too bad. / It's a good day to stay indoors.",
     "message_count": 100
   },
   {
@@ -908,7 +908,7 @@
       426,
       432
     ],
-    "summary": "This conversation segment involves a discussion between two individuals with different backgrounds, interests, and hobbies. They bond over their shared love of horror novels, art, cooking, and dance. One person is a teacher who also enjoys comics and archery, while the other is a small business owner in horse racing who tends to her flower beds for relaxation and is on a diet. The conversation covers topics such as book recommendations, creative pursuits, exercise, food, and stress relief, showcasing the diversity of interests and passions between the two individuals.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Will do! Thanks again! / No problem! Have a great day! / You too!",
     "message_count": 100
   },
   {
@@ -920,7 +920,7 @@
       432,
       437
     ],
-    "summary": "This conversation log captures an initial meeting between two individuals, Todd and Ryan, who discover shared interests in music, movies, food, and hobbies like bird watching and crochet. They also discuss their professions (Todd is a high school teacher and Ryan works in academia) and share personal experiences related to health issues and social events. The conversation is friendly and engaging, with both individuals expressing enthusiasm for trying new activities together.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Me too! It's a great way to relieve stress. / I'm glad we agree! I'm always looking for new ways to relieve stress. / Me too! I think dancing is one of the best ways to do it",
     "message_count": 100
   },
   {
@@ -932,7 +932,7 @@
       437,
       442
     ],
-    "summary": "This conversation segment features a discussion between two users about their shared interests, hobbies, and passions. User 2 shares their name is Petey, enjoys walks, parakeet playtime, reading, watching movies, traveling to Italy, and cooking healthy meals. They also mention being passionate about animal welfare, having a vegetarian diet, and not being into sports. The conversation covers various topics, including User 1's hobbies such as reading, cooking, playing video games, attending comic cons, and working at a bar.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] His name is Petey. / What a cute name! Do you have any hobbies? / I like to go for walks, play with my parakeet, and watch movies.",
     "message_count": 100
   },
   {
@@ -944,7 +944,7 @@
       442,
       448
     ],
-    "summary": "This conversation log segment features a casual meeting between two users who discover they share many common interests and values. Both are passionate about trying new recipes, reading romance novels, and exploring their creative sides through cooking, art, or crafting. They also bond over their love of music, travel, and hobbies, including watching food videos, playing video games, and supporting animal welfare causes.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Me too! I love trying new recipes and seeing what I can come up with. / It sounds like we have a lot in common! What do you do for a living? / I'm a teacher. I teach math at a local high school.",
     "message_count": 100
   },
   {
@@ -956,7 +956,7 @@
       448,
       454
     ],
-    "summary": "This conversation log features a discussion between Mike and Lisa, two individuals who share similar interests in reading, writing, music, and animals. They bond over their love of fantasy books, movies, and their pets, with Lisa mentioning her golden retriever Buddy. The conversation also touches on their work lives, with Lisa being a proofreader for a greeting card company, and Mike's aspirations to start a cupcake business. The chat is light-hearted and friendly, with the pair sharing laughs and recommendations over topics ranging from books to baked goods.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] That's too bad. They're really great pets. / Yeah, I've heard. I'm hoping to eventually get over my allergy so I can have one. / I hope you do! They're so much fun to have around.",
     "message_count": 100
   },
   {
@@ -968,7 +968,7 @@
       454,
       460
     ],
-    "summary": "This conversation segment involves two individuals discussing their shared interests in various topics such as breakups, anime (specifically Sailor Moon and Attack on Titan), travel, hobbies, and books (including Harry Potter). They also share personal experiences and preferences related to gardening, pets, writing, and work. The conversation is characterized by friendly and supportive exchanges, with both users offering words of encouragement and commiseration regarding their respective life challenges.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Me too! / I guess we're both big cookie fans! / I guess so!",
     "message_count": 100
   },
   {
@@ -980,7 +980,7 @@
       460,
       465
     ],
-    "summary": "User 1 and User 2 discussed various topics, including their shared love of Harry Potter books, with User 2 preferring \"The Prisoner of Azkaban\" and User 1 identifying with Hermione's bravery and intelligence. They also talked about food, music, exercise, work, and hobbies, revealing a common interest in creative pursuits and supporting families. The conversation was friendly and casual, with both users sharing their passions and experiences.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] That's so cool! I need to get a scarf! / You should! They're really warm and comfortable. / What's your favorite Harry Potter book?",
     "message_count": 100
   },
   {
@@ -992,7 +992,7 @@
       465,
       471
     ],
-    "summary": "This conversation segment revolves around two individuals who meet and discuss their personal interests, hobbies, and aspirations. User 1 shares their goals of getting a job and starting a family, while User 2 reveals their passion for teaching, music, and adventure. They discover shared interests in rock music, yoga, and playing basketball, and exchange recommendations on books, writing, and genres of music. The conversation is lighthearted and engaging, with both users displaying a willingness to learn from each other and share their own experiences.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I want to sell my paintings to make money and I would love to learn how to play the guitar like the Red Hot Chili Peppers. / That's awesome. I hope you achieve your goals. I want to get my own place and start a family. / That sounds great. I am sure you will achieve your goals.",
     "message_count": 100
   },
   {
@@ -1004,7 +1004,7 @@
       471,
       476
     ],
-    "summary": "This conversation block features a discussion between two individuals, User 1 and User 2, about their shared interests in family, hobbies, and leisure activities. They discover common ground in their love of reading, dancing, cooking, and gardening, as well as their passion for animals and volunteering at local shelters. The conversation also touches on their plans for the weekend, favorite books and foods, and upcoming events like the 4th of July celebrations.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I love to spend time with my family and friends. I also love to read, dance, and go on adventures. / Those all sound like fun activities! I love to spend time with my family too. I also like to play sports, read, and go out to eat. / That's great! I'm glad we have similar interests.",
     "message_count": 100
   },
   {
@@ -1016,7 +1016,7 @@
       476,
       482
     ],
-    "summary": "This conversation block features two individuals, Arnold and Stephanie, who share their hobbies and interests with each other. They discuss their favorite movies, books, and TV shows, including holiday classics like \"16 Candles\" and French films like \"The 400 Blows\". They also exchange information about their professions (Arnold is a rocket scientist, while Stephanie is a photographer), family backgrounds, and personal preferences (Stephanie loves cooking and vegan pizza, while Arnold enjoys reading fantasy novels). The conversation is friendly and engaging, with both individuals showing genuine interest in getting to know each other.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Yeah, they're the best / Hey, I'm not sure if you've heard of 16 Candles, but it's a movie that I've been watching with my family lately and we can all relate to the characters. What are some of your favorite movies to watch with family? / I don't think I've heard of it, but I'll have to check it out. Some of my favorite movies to watch with my family are Home Alone, Elf, and The Santa Clause. They're all classic holiday movies that we love to watch every year.",
     "message_count": 100
   },
   {
@@ -1028,7 +1028,7 @@
       482,
       488
     ],
-    "summary": "This conversation segment features two individuals, User 1 (James) and User 2 (Ashley), discussing their interests, hobbies, and passions. Ashley is enthusiastic about space exploration and animal welfare, while James enjoys researching race cars and playing music. They share similar interests in rock music and discuss their favorite bands and songs. The conversation also touches on their personal lives, including their families, work (James is an engineer, Ashley is a musician), and leisure activities like hiking and playing video games. Overall, the discussion is light-hearted and friendly, with both users valuing open conversations about their interests and passions.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] What do you like to write about? / I am passionate about both space exploration and animal welfare, and I'm excited to share my experiences with others. / Sounds like you have a lot of interests!",
     "message_count": 100
   },
   {
@@ -1040,7 +1040,7 @@
       488,
       493
     ],
-    "summary": "This conversation log between two individuals reveals their shared interests in trying new foods, learning about art and history, and enjoying nature. They also discuss their hobbies and passions, including writing, music, and photography. The users reveal they are both passionate about exploring different genres of music and watching movies. Additionally, they share their preferences for cooking, reading, and spending time with loved ones, such as dogs.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I totally agree. What do you like to do for fun? / I love trying new ethnic foods. I'm also really interested in art and history. / Oh, that's cool! I love trying new foods too. I'm not very good at art or history, but I enjoy learning about them.",
     "message_count": 100
   },
   {
@@ -1052,7 +1052,7 @@
       493,
       499
     ],
-    "summary": "A user had a friendly conversation with another person discussing various topics such as shared interests (reading, writing, playing video games), hobbies (cooking, music, playing instruments), family life (marriage, children), work (being a therapist) and leisure activities (watching movies, going to the park). The conversation also touched on personal experiences, such as overcoming financial struggles and enjoying creative pursuits like music.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Sounds like we have a lot in common! / Yeah, we do! / Well, it was nice meeting you. I have to go now.",
     "message_count": 100
   },
   {
@@ -1064,7 +1064,7 @@
       499,
       503
     ],
-    "summary": "This conversation block revolves around getting to know each other. User 1 and User 2 discuss their favorite hobbies, including fishing, comic con, reading, playing the flute, cooking, gardening, video games, and horseback riding. They also share personal experiences, such as learning new skills and overcoming challenges, like a rejection letter from a gifted program. The conversation is friendly and supportive, with both users offering words of encouragement and advice to each other.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] That sounds nice! I like to go fishing, geocache, and go to comic con. / I've never been to comic con before. What's it like? / It's a lot of fun! There are a lot of people dressed up as their favorite characters, and you can buy a lot of cool merchandise.",
     "message_count": 100
   },
   {
@@ -1076,7 +1076,7 @@
       503,
       509
     ],
-    "summary": "This conversation block features an exchange between two individuals, User 1 and User 2, Olivia. They discuss various topics including their fears (the dark), personal preferences (movies, music, and hobbies), work experiences (both working in software engineering and bartending), family life, and interests outside of work (cooking, baking, traveling, and painting). Key points include User 1's suggestion to focus on being the best version of oneself, Olivia's passion for gaming and entrepreneurship, and their shared love for movies, music, and art. The conversation concludes with a friendly exchange about their lives, interests, and future interactions.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I will definitely look into it! Thanks for the suggestion! / No problem! It was nice talking to you! / You too! Have a great day!",
     "message_count": 100
   },
   {
@@ -1088,7 +1088,7 @@
       509,
       514
     ],
-    "summary": "This conversation segment revolves around User 2, who shares their interests, preferences, and experiences with User 1. They discuss their love for relaxation, spending time with family and pets, baking, and trying new activities like surfing. User 1 introduces themselves as a party planner and shares their passion for helping others have special events. The conversation also touches on the topic of visiting old homes and gardens, finding joy in simple pleasures, and enjoying the companionship of dogs.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] That sounds like important work. / It is! I'm glad I can do it. / So, what do you like to do on your days off?",
     "message_count": 100
   },
   {
@@ -1100,7 +1100,7 @@
       514,
       521
     ],
-    "summary": "This conversation block features a discussion between two individuals with shared interests, including fashion, music, yoga, and outdoor activities. They discover they have similar hobbies, such as reading fantasy books and enjoying graphic novels, and also bond over their passions for motorcycles and bicycles. The conversation is light-hearted and friendly, with users sharing personal anecdotes about themselves, their pets (the cat), and their goals (including learning to swim and start a new life in Australia).",
+    "summary": "[Groq unavailable \u2014 extractive fallback] That's awesome! / Thanks / I love how comfy my clothes are. I'm not sure if I'm cool or not though. What about you?",
     "message_count": 100
   },
   {
@@ -1112,7 +1112,7 @@
       521,
       527
     ],
-    "summary": "This conversation segment features a discussion between two users who share similar interests in music, art, and astronomy. They bond over their love of alternative bands like Radiohead and Sigur R\u00f3s, and discuss their favorite songs and artists. The conversation also touches on the users' hobbies and interests outside of music, including hiking, cooking, and playing with pets. A future plan to cook dinner together is made, adding a lighthearted and playful tone to the conversation.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] That's a great song! I also love \"Comfortably Numb\". / Those are both great songs! I also like \"Time\" and \"Money\". / I love all of those songs! We should start a band together.",
     "message_count": 100
   },
   {
@@ -1124,7 +1124,7 @@
       527,
       533
     ],
-    "summary": "This conversation block revolves around two individuals discussing their lives, interests, and relationships. They share about their pets, hobbies, work, and personal preferences, showcasing a friendly and casual exchange. Both users are enthusiastic about sharing aspects of their lives with each other, from enjoying time with family and friends to exploring creative pursuits like sewing and nail art.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Sounds like he keeps you entertained! / He does, he's a great companion. Do you have any pets? / I have a dog named Buddy, he's a golden retriever.",
     "message_count": 100
   },
   {
@@ -1136,7 +1136,7 @@
       533,
       538
     ],
-    "summary": "This conversation block features two users who strike up an informal discussion, exchanging information about their hobbies and interests. User 2, who is recently started in a new job as a marketing coordinator, shares details about her work experience and mentions her passion for collecting little raincoat-wearing toys, reading, and travel. Meanwhile, User 1, who appears to be a creative person with an interest in cosplay and building gaming computers, discusses his hobbies with User 2, including cooking, playing games like Civilization and Stardew Valley, and teaching a class on the history of the Middle Ages. The conversation is relaxed and friendly, showcasing their shared enthusiasm for various activities and interests.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] That would be great! I'm sure they would love to meet each other. / Hello there! / Hi there! How are you doing today?",
     "message_count": 100
   },
   {
@@ -1148,7 +1148,7 @@
       538,
       545
     ],
-    "summary": "Here is a concise summary of the conversation:\n\nA user, Karen, and another user, Bard, had an in-depth conversation about various topics, including hobbies, interests, careers, and personal life. They discussed their love for reading, watching documentaries, cooking, juggling, and music, with specific mentions of favorite bands, books, and musicians. The conversation also touched on concerns about aging parents, pets (Karen's 1964 Impala), and finding a suitable climate change in search of health benefits. Additionally, they exchanged information and advice on topics such as job searching, social media marketing, baking, and career choices.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] That sounds really interesting! I'll have to check it out. / Yeah, you should. It's supposed to be really informative. / Thanks for the tip!",
     "message_count": 100
   },
   {
@@ -1160,7 +1160,7 @@
       545,
       550
     ],
-    "summary": "This conversation block revolves around the exchange between two individuals, one being a personal trainer and the other a mystery writer. They discuss their professions, hobbies, and interests, sharing common passions for reading and music. The user who is a personal trainer also mentions having dogs, which leads to an invitation to visit their home with their beagles. The conversation then shifts to literature, with both users discussing their favorite books and authors, including the Dark Phoenix Saga and Harry Potter. They share similar interests in blues and jazz music, and the mystery writer expresses interest in learning how to play the bass guitar. The discussion concludes with the personal trainer sharing that they work in a doctor's office and the user mentioning their travels around the world, highlighting their varied interests and careers.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I'm a personal trainer. I help people get in shape and live a healthier lifestyle. / That sounds really cool! Do you enjoy it? / I love it! It's so rewarding to help people reach their goals.",
     "message_count": 100
   },
   {
@@ -1172,7 +1172,7 @@
       550,
       557
     ],
-    "summary": "This conversation segment features a discussion between two individuals, one of whom is a jewelry maker and the other appears to be a bride-to-be planning her wedding. They discuss their shared love of classical music, movies that evoke emotions, books by F. Scott Fitzgerald, and Indian food. The conversation also touches on topics such as sustainable clothing, video games (Overwatch), pets, hobbies, family history, and cooking.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] It is. What do you do? / I make jewelry out of silver wire and beads. / Oh, that's really cool! Do you sell it?",
     "message_count": 100
   },
   {
@@ -1184,7 +1184,7 @@
       557,
       563
     ],
-    "summary": "This conversation block discusses shared interests and preferences between two individuals. They both enjoy cooking, reading (with a focus on historical fiction and romance novels), music, and exploring new cultures. The discussion also touches on mental health, self-care, and hobbies such as playing piano and being a comic artist. No specific events or key facts were mentioned, but the conversation is characterized by friendly engagement and mutual enthusiasm for various topics.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] I like to cook all kinds of foods, but I especially love making vegan recipes. / That's awesome! I have a friend who is vegan and she loves to cook. / It's a lot of fun! I love trying new recipes and finding new ways to make vegetables taste delicious.",
     "message_count": 100
   },
   {
@@ -1196,7 +1196,7 @@
       563,
       568
     ],
-    "summary": "This conversation block features a discussion between two writers, User 1 and User 2 (Ashley), who share similar interests in writing and hobbies. They discuss their favorite books, authors, and genres, as well as their experiences with writing, teaching, and working on creative projects. Ashley also shares her passion for music, touring with Frank Ocean, and her unique career path as a basketball coach at a community college. The conversation is lighthearted and friendly, showcasing the shared enthusiasm of two like-minded individuals.",
+    "summary": "[Groq unavailable \u2014 extractive fallback] Hi, me too! / I'm single but I'm happy with my life, because I have my writing to keep me busy. / That's great that you're happy with your life! I'm married and have a child, but I'm still a writer myself.",
     "message_count": 100
   }
 ]

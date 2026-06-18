@@ -573,7 +573,7 @@
   ],
   "habits": {
     "exercise": {
-      "label": "Fitness enthusiast with a pet.",
+      "label": "exercise",
       "evidence": [
         "Nice! I've been meaning to try yoga but I've never really had the time.",
         "Yeah, they are. I really love taking him for walks. It's a great way to get some exercise and spend time with my best friend.",
@@ -583,7 +583,7 @@
       ]
     },
     "diet_food": {
-      "label": "Foodie Bookworm",
+      "label": "diet food",
       "evidence": [
         "Reading is a great way to relax. I love to cook too! What is your favorite meal to make?",
         "I made a lasagna. It's one of my favorite dishes to cook.",
@@ -593,7 +593,7 @@
       ]
     },
     "sleep_schedule": {
-      "label": "Avid reader and early riser.",
+      "label": "sleep schedule",
       "evidence": [
         "That's awesome! I love to play soccer and I usually wake up and play piano before starting my day.",
         "Hi! I love horror novels. I can stay up late reading them and it can mess up my sleep schedule.",
@@ -603,7 +603,7 @@
       ]
     },
     "substance_routine": {
-      "label": "Coffee enthusiast with creative pursuits.",
+      "label": "substance routine",
       "evidence": [
         "Not so bad. Just got back from a show with my band. We played in a coffee shop.",
         "That's really cool! How long have you been working at the coffee shop?",
@@ -638,7 +638,7 @@
   },
   "personality_traits": {
     "enthusiasm": {
-      "label": "Positive and Enthusiastic About New Experiences",
+      "label": "enthusiasm",
       "evidence": [
         "Hi! How are you?",
         "I'm doing pretty well.  I'm excited to be moving to a new city soon!",
@@ -648,7 +648,7 @@
       ]
     },
     "emotional_expressiveness": {
-      "label": "Optimistic and enthusiastic individual.",
+      "label": "emotional expressiveness",
       "evidence": [
         "I'm doing pretty well.  I'm excited to be moving to a new city soon!",
         "Thanks for the recommendation!  I'm sure I'll love it.",
@@ -658,7 +658,7 @@
       ]
     },
     "humor": {
-      "label": "I would label this person as \"fun-loving and playful\".",
+      "label": "humor",
       "evidence": [
         "That's cool! I'm a barista. I love books, and I like to watch funny and lighthearted shows to relax.",
         "Me too! It's so funny and heartwarming.",
